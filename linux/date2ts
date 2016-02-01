@@ -1,0 +1,13 @@
+#!/bin/bash
+# some OS need /bin/sh
+
+if [ "$1SS" == "SS" ]; then
+	date +%s
+	echo ""
+	echo "Usage: date2ts <date>"
+	echo "e.g.: data2ts \"2010-12-01 08:10:00\""
+	exit
+fi
+
+d=$1
+date -d "$d" +%s

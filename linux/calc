@@ -1,0 +1,12 @@
+#!/bin/sh
+
+if [ "$1SS" == "SS" ]; then
+	echo "Usage: calc <expr>"
+	echo "e.g.: calc \"3+5\""
+	exit
+fi
+
+epxr=$1
+
+echo "scale=4;$epxr" | bc
+

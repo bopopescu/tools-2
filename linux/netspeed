@@ -1,0 +1,15 @@
+#!/bin/sh 
+
+if [ "$1SS" == "SS" ]; then
+	echo "Usage: netspeed <dev|all>"
+	exit
+fi
+
+dev=$1
+
+if [ "SS$dev" == "SSall" ]; then
+	sar -n DEV 1
+else
+	sar -n DEV | head -n 3;sar -n DEV 1 | grep $dev
+fi
+

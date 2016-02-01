@@ -1,0 +1,9 @@
+VAgent
+
+Based on web hosting through https.
+
+client example:
+	curl -v --cacert vagent.crt "https://vagent.example.com/" -H "O-Host: www.baidu.com" -H "O-Port: 443" 
+	curl -v --cacert vagent.crt "https://vagent.example.com/resource/img/report_center.png" -H "O-Host: news.baidu.com" -H "O-Port: 80" -o b.png
+
+

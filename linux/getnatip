@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#curl -s "http://opendata.baidu.com/api.php?query=ip&resource_id=6006" | awk -F"," '{print $6}' | awk -F"\"" '{print $4}'
+curl -s "http://dyn.becktu.com:8080/getip" | awk -F"\"" '{print $4}'

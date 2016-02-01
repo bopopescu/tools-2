@@ -1,0 +1,14 @@
+#!/bin/bash
+# some OS need /bin/sh
+
+if [ "$1SS" == "SS" ]; then
+	date +'%Y-%m-%d %H:%M:%S'
+	echo ""
+	echo "Usage: ts2date <timestamp>"
+	exit
+fi
+
+ts=$1
+date -d @${ts} +'%Y-%m-%d %H:%M:%S'
+
+

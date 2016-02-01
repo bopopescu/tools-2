@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "seek_old_ips.py", line 7, in <module>
+    from icmp_echo_request import average_ping
+  File "/root/projects/utils/goseeker/icmp_echo_request.py", line 162
+    print "length 'pong': %d" % len(pong)
+    ^
+IndentationError: unexpected indent

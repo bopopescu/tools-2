@@ -1,0 +1,5277 @@
+enter with index: 1
+mysql -uroot -ptango9896 google_ip -e "select ip from history_ips limit 1,100"
+(0, 'ip\n1.179.248.158\n1.179.248.167\n1.179.248.168\n1.179.248.178\n1.179.248.187\n1.179.248.212\n1.179.248.222\n1.179.248.25\n1.179.248.29\n1.179.248.49\n1.179.248.54\n1.179.248.88\n1.179.248.89\n1.179.248.98\n1.179.249.104\n1.179.249.109\n1.179.249.163\n1.179.249.177\n1.179.249.178\n1.179.249.183\n1.179.249.212\n1.179.249.221\n1.179.249.222\n1.179.249.226\n1.179.249.232\n1.179.249.242\n1.179.249.25\n1.179.249.251\n1.179.249.30\n1.179.249.50\n1.179.250.113\n1.179.250.114\n1.179.250.119\n1.179.250.153\n1.179.250.177\n1.179.250.182\n1.179.250.183\n1.179.250.236\n1.179.250.246\n1.179.250.247\n1.179.250.25\n1.179.250.35\n1.179.250.45\n1.179.250.49\n1.179.250.93\n1.179.251.104\n1.179.251.114\n1.179.251.148\n1.179.251.165\n1.179.251.174\n1.179.251.181\n1.179.251.185\n1.179.251.212\n1.179.251.221\n1.179.251.226\n1.179.251.227\n1.179.251.237\n1.179.251.29\n1.179.251.40\n1.179.251.45\n1.179.251.55\n1.179.252.118\n1.179.252.152\n1.179.252.162\n1.179.252.163\n1.179.252.167\n1.179.252.172\n1.179.252.222\n1.179.252.231\n1.179.252.237\n1.179.252.242\n1.179.252.246\n1.179.252.88\n1.179.252.89\n1.179.252.98\n1.179.253.110\n1.179.253.117\n1.179.253.24\n1.179.253.30\n1.179.253.40\n1.179.253.44\n1.179.253.50\n1.179.253.54\n1.179.253.90\n101.99.2.87\n101.99.2.98\n103.1.139.167\n103.1.139.176\n103.1.139.227\n103.1.139.251\n103.16.207.148\n103.16.207.153\n103.16.207.157\n103.16.207.168\n103.16.207.172\n103.16.207.173\n103.16.207.178\n103.16.207.182\n103.244.49.251\n103.25.178.15')
+1.179.248.158
+ping timeout: 1.179.248.158 (icmp_seq=1) 
+ping timeout: 1.179.248.158 (icmp_seq=1) 
+ping timeout: 1.179.248.158 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.248.158 -1.00
+1.179.248.167
+ping timeout: 1.179.248.167 (icmp_seq=1) 
+ping timeout: 1.179.248.167 (icmp_seq=1) 
+ping timeout: 1.179.248.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.248.167 -1.00
+1.179.248.168
+ping timeout: 1.179.248.168 (icmp_seq=1) 
+ping timeout: 1.179.248.168 (icmp_seq=1) 
+ping timeout: 1.179.248.168 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.248.168 -1.00
+1.179.248.178
+ping timeout: 1.179.248.178 (icmp_seq=1) 
+ping timeout: 1.179.248.178 (icmp_seq=1) 
+ping timeout: 1.179.248.178 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.248.178 -1.00
+1.179.248.187
+ping timeout: 1.179.248.187 (icmp_seq=1) 
+ping timeout: 1.179.248.187 (icmp_seq=1) 
+ping timeout: 1.179.248.187 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.248.187 -1.00
+1.179.248.212
+ping timeout: 1.179.248.212 (icmp_seq=1) 
+ping timeout: 1.179.248.212 (icmp_seq=1) 
+ping timeout: 1.179.248.212 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.248.212 -1.00
+1.179.248.222
+ping timeout: 1.179.248.222 (icmp_seq=1) 
+ping timeout: 1.179.248.222 (icmp_seq=1) 
+ping timeout: 1.179.248.222 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.248.222 -1.00
+1.179.248.25
+ping timeout: 1.179.248.25 (icmp_seq=1) 
+ping timeout: 1.179.248.25 (icmp_seq=1) 
+ping timeout: 1.179.248.25 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.248.25 -1.00
+1.179.248.29
+ping timeout: 1.179.248.29 (icmp_seq=1) 
+ping timeout: 1.179.248.29 (icmp_seq=1) 
+ping timeout: 1.179.248.29 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.248.29 -1.00
+1.179.248.49
+ping timeout: 1.179.248.49 (icmp_seq=1) 
+ping timeout: 1.179.248.49 (icmp_seq=1) 
+ping timeout: 1.179.248.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.248.49 -1.00
+1.179.248.54
+ping timeout: 1.179.248.54 (icmp_seq=1) 
+ping timeout: 1.179.248.54 (icmp_seq=1) 
+ping timeout: 1.179.248.54 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.248.54 -1.00
+1.179.248.88
+ping timeout: 1.179.248.88 (icmp_seq=1) 
+ping timeout: 1.179.248.88 (icmp_seq=1) 
+ping timeout: 1.179.248.88 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.248.88 -1.00
+1.179.248.89
+ping timeout: 1.179.248.89 (icmp_seq=1) 
+ping timeout: 1.179.248.89 (icmp_seq=1) 
+ping timeout: 1.179.248.89 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.248.89 -1.00
+1.179.248.98
+ping timeout: 1.179.248.98 (icmp_seq=1) 
+ping timeout: 1.179.248.98 (icmp_seq=1) 
+ping timeout: 1.179.248.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.248.98 -1.00
+1.179.249.104
+ping timeout: 1.179.249.104 (icmp_seq=1) 
+ping timeout: 1.179.249.104 (icmp_seq=1) 
+ping timeout: 1.179.249.104 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.104 -1.00
+1.179.249.109
+ping timeout: 1.179.249.109 (icmp_seq=1) 
+ping timeout: 1.179.249.109 (icmp_seq=1) 
+ping timeout: 1.179.249.109 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.109 -1.00
+1.179.249.163
+ping timeout: 1.179.249.163 (icmp_seq=1) 
+ping timeout: 1.179.249.163 (icmp_seq=1) 
+ping timeout: 1.179.249.163 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.163 -1.00
+1.179.249.177
+ping timeout: 1.179.249.177 (icmp_seq=1) 
+ping timeout: 1.179.249.177 (icmp_seq=1) 
+ping timeout: 1.179.249.177 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.177 -1.00
+1.179.249.178
+ping timeout: 1.179.249.178 (icmp_seq=1) 
+ping timeout: 1.179.249.178 (icmp_seq=1) 
+ping timeout: 1.179.249.178 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.178 -1.00
+1.179.249.183
+ping timeout: 1.179.249.183 (icmp_seq=1) 
+ping timeout: 1.179.249.183 (icmp_seq=1) 
+ping timeout: 1.179.249.183 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.183 -1.00
+1.179.249.212
+ping timeout: 1.179.249.212 (icmp_seq=1) 
+ping timeout: 1.179.249.212 (icmp_seq=1) 
+ping timeout: 1.179.249.212 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.212 -1.00
+1.179.249.221
+ping timeout: 1.179.249.221 (icmp_seq=1) 
+ping timeout: 1.179.249.221 (icmp_seq=1) 
+ping timeout: 1.179.249.221 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.221 -1.00
+1.179.249.222
+ping timeout: 1.179.249.222 (icmp_seq=1) 
+ping timeout: 1.179.249.222 (icmp_seq=1) 
+ping timeout: 1.179.249.222 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.222 -1.00
+1.179.249.226
+ping timeout: 1.179.249.226 (icmp_seq=1) 
+ping timeout: 1.179.249.226 (icmp_seq=1) 
+ping timeout: 1.179.249.226 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.226 -1.00
+1.179.249.232
+ping timeout: 1.179.249.232 (icmp_seq=1) 
+ping timeout: 1.179.249.232 (icmp_seq=1) 
+ping timeout: 1.179.249.232 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.232 -1.00
+1.179.249.242
+ping timeout: 1.179.249.242 (icmp_seq=1) 
+ping timeout: 1.179.249.242 (icmp_seq=1) 
+ping timeout: 1.179.249.242 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.242 -1.00
+1.179.249.25
+ping timeout: 1.179.249.25 (icmp_seq=1) 
+ping timeout: 1.179.249.25 (icmp_seq=1) 
+ping timeout: 1.179.249.25 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.249.25 -1.00
+1.179.249.251
+ping timeout: 1.179.249.251 (icmp_seq=1) 
+ping timeout: 1.179.249.251 (icmp_seq=1) 
+ping timeout: 1.179.249.251 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.249.251 -1.00
+1.179.249.30
+ping timeout: 1.179.249.30 (icmp_seq=1) 
+ping timeout: 1.179.249.30 (icmp_seq=1) 
+ping timeout: 1.179.249.30 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.249.30 -1.00
+1.179.249.50
+ping timeout: 1.179.249.50 (icmp_seq=1) 
+ping timeout: 1.179.249.50 (icmp_seq=1) 
+ping timeout: 1.179.249.50 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.249.50 -1.00
+1.179.250.113
+ping timeout: 1.179.250.113 (icmp_seq=1) 
+ping timeout: 1.179.250.113 (icmp_seq=1) 
+ping timeout: 1.179.250.113 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.113 -1.00
+1.179.250.114
+ping timeout: 1.179.250.114 (icmp_seq=1) 
+ping timeout: 1.179.250.114 (icmp_seq=1) 
+ping timeout: 1.179.250.114 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.114 -1.00
+1.179.250.119
+ping timeout: 1.179.250.119 (icmp_seq=1) 
+ping timeout: 1.179.250.119 (icmp_seq=1) 
+ping timeout: 1.179.250.119 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.119 -1.00
+1.179.250.153
+ping timeout: 1.179.250.153 (icmp_seq=1) 
+ping timeout: 1.179.250.153 (icmp_seq=1) 
+ping timeout: 1.179.250.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.153 -1.00
+1.179.250.177
+ping timeout: 1.179.250.177 (icmp_seq=1) 
+ping timeout: 1.179.250.177 (icmp_seq=1) 
+ping timeout: 1.179.250.177 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.177 -1.00
+1.179.250.182
+ping timeout: 1.179.250.182 (icmp_seq=1) 
+ping timeout: 1.179.250.182 (icmp_seq=1) 
+ping timeout: 1.179.250.182 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.182 -1.00
+1.179.250.183
+ping timeout: 1.179.250.183 (icmp_seq=1) 
+ping timeout: 1.179.250.183 (icmp_seq=1) 
+ping timeout: 1.179.250.183 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.183 -1.00
+1.179.250.236
+ping timeout: 1.179.250.236 (icmp_seq=1) 
+ping timeout: 1.179.250.236 (icmp_seq=1) 
+ping timeout: 1.179.250.236 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.236 -1.00
+1.179.250.246
+ping timeout: 1.179.250.246 (icmp_seq=1) 
+ping timeout: 1.179.250.246 (icmp_seq=1) 
+ping timeout: 1.179.250.246 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.246 -1.00
+1.179.250.247
+ping timeout: 1.179.250.247 (icmp_seq=1) 
+ping timeout: 1.179.250.247 (icmp_seq=1) 
+ping timeout: 1.179.250.247 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.250.247 -1.00
+1.179.250.25
+ping timeout: 1.179.250.25 (icmp_seq=1) 
+ping timeout: 1.179.250.25 (icmp_seq=1) 
+ping timeout: 1.179.250.25 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.250.25 -1.00
+1.179.250.35
+ping timeout: 1.179.250.35 (icmp_seq=1) 
+ping timeout: 1.179.250.35 (icmp_seq=1) 
+ping timeout: 1.179.250.35 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.250.35 -1.00
+1.179.250.45
+ping timeout: 1.179.250.45 (icmp_seq=1) 
+ping timeout: 1.179.250.45 (icmp_seq=1) 
+ping timeout: 1.179.250.45 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.250.45 -1.00
+1.179.250.49
+ping timeout: 1.179.250.49 (icmp_seq=1) 
+ping timeout: 1.179.250.49 (icmp_seq=1) 
+ping timeout: 1.179.250.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.250.49 -1.00
+1.179.250.93
+ping timeout: 1.179.250.93 (icmp_seq=1) 
+ping timeout: 1.179.250.93 (icmp_seq=1) 
+ping timeout: 1.179.250.93 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.250.93 -1.00
+1.179.251.104
+ping timeout: 1.179.251.104 (icmp_seq=1) 
+ping timeout: 1.179.251.104 (icmp_seq=1) 
+ping timeout: 1.179.251.104 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.104 -1.00
+1.179.251.114
+ping timeout: 1.179.251.114 (icmp_seq=1) 
+ping timeout: 1.179.251.114 (icmp_seq=1) 
+ping timeout: 1.179.251.114 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.114 -1.00
+1.179.251.148
+ping timeout: 1.179.251.148 (icmp_seq=1) 
+ping timeout: 1.179.251.148 (icmp_seq=1) 
+ping timeout: 1.179.251.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.148 -1.00
+1.179.251.165
+ping timeout: 1.179.251.165 (icmp_seq=1) 
+ping timeout: 1.179.251.165 (icmp_seq=1) 
+ping timeout: 1.179.251.165 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.165 -1.00
+1.179.251.174
+ping timeout: 1.179.251.174 (icmp_seq=1) 
+ping timeout: 1.179.251.174 (icmp_seq=1) 
+ping timeout: 1.179.251.174 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.174 -1.00
+1.179.251.181
+ping timeout: 1.179.251.181 (icmp_seq=1) 
+ping timeout: 1.179.251.181 (icmp_seq=1) 
+ping timeout: 1.179.251.181 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.181 -1.00
+1.179.251.185
+ping timeout: 1.179.251.185 (icmp_seq=1) 
+ping timeout: 1.179.251.185 (icmp_seq=1) 
+ping timeout: 1.179.251.185 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.185 -1.00
+1.179.251.212
+ping timeout: 1.179.251.212 (icmp_seq=1) 
+ping timeout: 1.179.251.212 (icmp_seq=1) 
+ping timeout: 1.179.251.212 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.212 -1.00
+1.179.251.221
+ping timeout: 1.179.251.221 (icmp_seq=1) 
+ping timeout: 1.179.251.221 (icmp_seq=1) 
+ping timeout: 1.179.251.221 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.221 -1.00
+1.179.251.226
+ping timeout: 1.179.251.226 (icmp_seq=1) 
+ping timeout: 1.179.251.226 (icmp_seq=1) 
+ping timeout: 1.179.251.226 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.226 -1.00
+1.179.251.227
+ping timeout: 1.179.251.227 (icmp_seq=1) 
+ping timeout: 1.179.251.227 (icmp_seq=1) 
+ping timeout: 1.179.251.227 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.227 -1.00
+1.179.251.237
+ping timeout: 1.179.251.237 (icmp_seq=1) 
+ping timeout: 1.179.251.237 (icmp_seq=1) 
+ping timeout: 1.179.251.237 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.251.237 -1.00
+1.179.251.29
+ping timeout: 1.179.251.29 (icmp_seq=1) 
+ping timeout: 1.179.251.29 (icmp_seq=1) 
+ping timeout: 1.179.251.29 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.251.29 -1.00
+1.179.251.40
+ping timeout: 1.179.251.40 (icmp_seq=1) 
+ping timeout: 1.179.251.40 (icmp_seq=1) 
+ping timeout: 1.179.251.40 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.251.40 -1.00
+1.179.251.45
+ping timeout: 1.179.251.45 (icmp_seq=1) 
+ping timeout: 1.179.251.45 (icmp_seq=1) 
+ping timeout: 1.179.251.45 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.251.45 -1.00
+1.179.251.55
+ping timeout: 1.179.251.55 (icmp_seq=1) 
+ping timeout: 1.179.251.55 (icmp_seq=1) 
+ping timeout: 1.179.251.55 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.251.55 -1.00
+1.179.252.118
+ping timeout: 1.179.252.118 (icmp_seq=1) 
+ping timeout: 1.179.252.118 (icmp_seq=1) 
+ping timeout: 1.179.252.118 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.118 -1.00
+1.179.252.152
+ping timeout: 1.179.252.152 (icmp_seq=1) 
+ping timeout: 1.179.252.152 (icmp_seq=1) 
+ping timeout: 1.179.252.152 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.152 -1.00
+1.179.252.162
+ping timeout: 1.179.252.162 (icmp_seq=1) 
+ping timeout: 1.179.252.162 (icmp_seq=1) 
+ping timeout: 1.179.252.162 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.162 -1.00
+1.179.252.163
+ping timeout: 1.179.252.163 (icmp_seq=1) 
+ping timeout: 1.179.252.163 (icmp_seq=1) 
+ping timeout: 1.179.252.163 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.163 -1.00
+1.179.252.167
+ping timeout: 1.179.252.167 (icmp_seq=1) 
+ping timeout: 1.179.252.167 (icmp_seq=1) 
+ping timeout: 1.179.252.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.167 -1.00
+1.179.252.172
+ping timeout: 1.179.252.172 (icmp_seq=1) 
+ping timeout: 1.179.252.172 (icmp_seq=1) 
+ping timeout: 1.179.252.172 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.172 -1.00
+1.179.252.222
+ping timeout: 1.179.252.222 (icmp_seq=1) 
+ping timeout: 1.179.252.222 (icmp_seq=1) 
+ping timeout: 1.179.252.222 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.222 -1.00
+1.179.252.231
+ping timeout: 1.179.252.231 (icmp_seq=1) 
+ping timeout: 1.179.252.231 (icmp_seq=1) 
+ping timeout: 1.179.252.231 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.231 -1.00
+1.179.252.237
+ping timeout: 1.179.252.237 (icmp_seq=1) 
+ping timeout: 1.179.252.237 (icmp_seq=1) 
+ping timeout: 1.179.252.237 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.237 -1.00
+1.179.252.242
+ping timeout: 1.179.252.242 (icmp_seq=1) 
+ping timeout: 1.179.252.242 (icmp_seq=1) 
+ping timeout: 1.179.252.242 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.242 -1.00
+1.179.252.246
+ping timeout: 1.179.252.246 (icmp_seq=1) 
+ping timeout: 1.179.252.246 (icmp_seq=1) 
+ping timeout: 1.179.252.246 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.252.246 -1.00
+1.179.252.88
+ping timeout: 1.179.252.88 (icmp_seq=1) 
+ping timeout: 1.179.252.88 (icmp_seq=1) 
+ping timeout: 1.179.252.88 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.252.88 -1.00
+1.179.252.89
+ping timeout: 1.179.252.89 (icmp_seq=1) 
+ping timeout: 1.179.252.89 (icmp_seq=1) 
+ping timeout: 1.179.252.89 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.252.89 -1.00
+1.179.252.98
+ping timeout: 1.179.252.98 (icmp_seq=1) 
+ping timeout: 1.179.252.98 (icmp_seq=1) 
+ping timeout: 1.179.252.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.252.98 -1.00
+1.179.253.110
+ping timeout: 1.179.253.110 (icmp_seq=1) 
+ping timeout: 1.179.253.110 (icmp_seq=1) 
+ping timeout: 1.179.253.110 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.253.110 -1.00
+1.179.253.117
+ping timeout: 1.179.253.117 (icmp_seq=1) 
+ping timeout: 1.179.253.117 (icmp_seq=1) 
+ping timeout: 1.179.253.117 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  1.179.253.117 -1.00
+1.179.253.24
+ping timeout: 1.179.253.24 (icmp_seq=1) 
+ping timeout: 1.179.253.24 (icmp_seq=1) 
+ping timeout: 1.179.253.24 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.253.24 -1.00
+1.179.253.30
+ping timeout: 1.179.253.30 (icmp_seq=1) 
+ping timeout: 1.179.253.30 (icmp_seq=1) 
+ping timeout: 1.179.253.30 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.253.30 -1.00
+1.179.253.40
+ping timeout: 1.179.253.40 (icmp_seq=1) 
+ping timeout: 1.179.253.40 (icmp_seq=1) 
+ping timeout: 1.179.253.40 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.253.40 -1.00
+1.179.253.44
+ping timeout: 1.179.253.44 (icmp_seq=1) 
+ping timeout: 1.179.253.44 (icmp_seq=1) 
+ping timeout: 1.179.253.44 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.253.44 -1.00
+1.179.253.50
+ping timeout: 1.179.253.50 (icmp_seq=1) 
+ping timeout: 1.179.253.50 (icmp_seq=1) 
+ping timeout: 1.179.253.50 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.253.50 -1.00
+1.179.253.54
+ping timeout: 1.179.253.54 (icmp_seq=1) 
+ping timeout: 1.179.253.54 (icmp_seq=1) 
+ping timeout: 1.179.253.54 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.253.54 -1.00
+1.179.253.90
+ping timeout: 1.179.253.90 (icmp_seq=1) 
+ping timeout: 1.179.253.90 (icmp_seq=1) 
+ping timeout: 1.179.253.90 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   1.179.253.90 -1.00
+101.99.2.87
+ping timeout: 101.99.2.87 (icmp_seq=1) 
+ping timeout: 101.99.2.87 (icmp_seq=1) 
+ping timeout: 101.99.2.87 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+    101.99.2.87 -1.00
+101.99.2.98
+ping timeout: 101.99.2.98 (icmp_seq=1) 
+ping timeout: 101.99.2.98 (icmp_seq=1) 
+ping timeout: 101.99.2.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+    101.99.2.98 -1.00
+103.1.139.167
+ping timeout: 103.1.139.167 (icmp_seq=1) 
+ping timeout: 103.1.139.167 (icmp_seq=1) 
+ping timeout: 103.1.139.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.1.139.167 -1.00
+103.1.139.176
+ping timeout: 103.1.139.176 (icmp_seq=1) 
+ping timeout: 103.1.139.176 (icmp_seq=1) 
+ping timeout: 103.1.139.176 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.1.139.176 -1.00
+103.1.139.227
+ping timeout: 103.1.139.227 (icmp_seq=1) 
+ping timeout: 103.1.139.227 (icmp_seq=1) 
+ping timeout: 103.1.139.227 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.1.139.227 -1.00
+103.1.139.251
+ping timeout: 103.1.139.251 (icmp_seq=1) 
+ping timeout: 103.1.139.251 (icmp_seq=1) 
+ping timeout: 103.1.139.251 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.1.139.251 -1.00
+103.16.207.148
+ping timeout: 103.16.207.148 (icmp_seq=1) 
+ping timeout: 103.16.207.148 (icmp_seq=1) 
+ping timeout: 103.16.207.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 103.16.207.148 -1.00
+103.16.207.153
+ping timeout: 103.16.207.153 (icmp_seq=1) 
+ping timeout: 103.16.207.153 (icmp_seq=1) 
+ping timeout: 103.16.207.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 103.16.207.153 -1.00
+103.16.207.157
+ping timeout: 103.16.207.157 (icmp_seq=1) 
+ping timeout: 103.16.207.157 (icmp_seq=1) 
+ping timeout: 103.16.207.157 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 103.16.207.157 -1.00
+103.16.207.168
+ping timeout: 103.16.207.168 (icmp_seq=1) 
+ping timeout: 103.16.207.168 (icmp_seq=1) 
+ping timeout: 103.16.207.168 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 103.16.207.168 -1.00
+103.16.207.172
+ping timeout: 103.16.207.172 (icmp_seq=1) 
+ping timeout: 103.16.207.172 (icmp_seq=1) 
+ping timeout: 103.16.207.172 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 103.16.207.172 -1.00
+103.16.207.173
+ping timeout: 103.16.207.173 (icmp_seq=1) 
+ping timeout: 103.16.207.173 (icmp_seq=1) 
+ping timeout: 103.16.207.173 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 103.16.207.173 -1.00
+103.16.207.178
+ping timeout: 103.16.207.178 (icmp_seq=1) 
+ping timeout: 103.16.207.178 (icmp_seq=1) 
+ping timeout: 103.16.207.178 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 103.16.207.178 -1.00
+103.16.207.182
+ping timeout: 103.16.207.182 (icmp_seq=1) 
+ping timeout: 103.16.207.182 (icmp_seq=1) 
+ping timeout: 103.16.207.182 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 103.16.207.182 -1.00
+103.244.49.251
+ping timeout: 103.244.49.251 (icmp_seq=1) 
+ping timeout: 103.244.49.251 (icmp_seq=1) 
+ping timeout: 103.244.49.251 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 103.244.49.251 -1.00
+103.25.178.15
+ping timeout: 103.25.178.15 (icmp_seq=1) 
+ping timeout: 103.25.178.15 (icmp_seq=1) 
+ping timeout: 103.25.178.15 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.15 -1.00
+mysql -uroot -ptango9896 google_ip -e "select ip from history_ips limit 101,100"
+(0, 'ip\n103.25.178.19\n103.25.178.23\n103.25.178.27\n103.25.178.29\n103.25.178.30\n103.25.178.38\n103.25.178.42\n103.25.178.44\n103.25.178.49\n103.25.178.50\n103.25.178.53\n103.7.200.79\n106.162.192.148\n106.162.192.152\n106.162.192.153\n106.162.192.157\n106.162.192.158\n106.162.192.163\n106.162.192.168\n106.162.192.172\n106.162.192.173\n106.162.192.178\n106.162.192.182\n106.162.192.187\n106.162.198.103\n106.162.198.104\n106.162.198.109\n106.162.198.114\n106.162.198.118\n106.162.198.119\n106.162.198.88\n106.162.198.98\n106.162.198.99\n106.162.216.103\n106.162.216.108\n106.162.216.109\n106.162.216.113\n106.162.216.118\n106.162.216.123\n106.162.216.20\n106.162.216.30\n106.162.216.35\n106.162.216.45\n106.162.216.49\n106.162.216.50\n106.162.216.54\n106.162.216.59\n106.162.216.84\n106.162.216.89\n106.162.216.93\n106.162.216.98\n110.164.10.148\n110.164.10.158\n110.164.10.227\n110.164.12.247\n110.164.13.236\n110.164.13.89\n110.164.14.45\n110.164.4.99\n110.164.5.113\n110.164.5.123\n110.164.5.167\n110.164.5.88\n110.164.6.94\n110.164.7.119\n110.164.7.49\n110.164.7.84\n110.164.9.103\n110.164.9.25\n110.164.9.50\n111.168.255.153\n111.168.255.30\n111.168.255.34\n111.168.255.44\n111.168.255.54\n113.171.241.148\n113.171.241.152\n113.171.241.153\n113.171.241.157\n113.171.241.158\n113.171.241.162\n113.171.241.163\n113.171.241.167\n113.171.241.168\n113.171.241.172\n113.171.241.173\n113.171.241.177\n113.171.241.178\n113.171.241.182\n113.171.241.183\n113.171.241.187\n113.171.241.212\n113.171.241.216\n113.171.241.217\n113.171.241.221\n113.171.241.222\n113.171.241.226\n113.171.241.227\n113.171.241.231\n113.171.241.232')
+103.25.178.19
+ping timeout: 103.25.178.19 (icmp_seq=1) 
+ping timeout: 103.25.178.19 (icmp_seq=1) 
+ping timeout: 103.25.178.19 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.19 -1.00
+103.25.178.23
+ping timeout: 103.25.178.23 (icmp_seq=1) 
+ping timeout: 103.25.178.23 (icmp_seq=1) 
+ping timeout: 103.25.178.23 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.23 -1.00
+103.25.178.27
+ping timeout: 103.25.178.27 (icmp_seq=1) 
+ping timeout: 103.25.178.27 (icmp_seq=1) 
+ping timeout: 103.25.178.27 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.27 -1.00
+103.25.178.29
+ping timeout: 103.25.178.29 (icmp_seq=1) 
+ping timeout: 103.25.178.29 (icmp_seq=1) 
+ping timeout: 103.25.178.29 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.29 -1.00
+103.25.178.30
+ping timeout: 103.25.178.30 (icmp_seq=1) 
+ping timeout: 103.25.178.30 (icmp_seq=1) 
+ping timeout: 103.25.178.30 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.30 -1.00
+103.25.178.38
+ping timeout: 103.25.178.38 (icmp_seq=1) 
+ping timeout: 103.25.178.38 (icmp_seq=1) 
+ping timeout: 103.25.178.38 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.38 -1.00
+103.25.178.42
+ping timeout: 103.25.178.42 (icmp_seq=1) 
+ping timeout: 103.25.178.42 (icmp_seq=1) 
+ping timeout: 103.25.178.42 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.42 -1.00
+103.25.178.44
+ping timeout: 103.25.178.44 (icmp_seq=1) 
+ping timeout: 103.25.178.44 (icmp_seq=1) 
+ping timeout: 103.25.178.44 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.44 -1.00
+103.25.178.49
+ping timeout: 103.25.178.49 (icmp_seq=1) 
+ping timeout: 103.25.178.49 (icmp_seq=1) 
+ping timeout: 103.25.178.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.49 -1.00
+103.25.178.50
+ping timeout: 103.25.178.50 (icmp_seq=1) 
+ping timeout: 103.25.178.50 (icmp_seq=1) 
+ping timeout: 103.25.178.50 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.50 -1.00
+103.25.178.53
+ping timeout: 103.25.178.53 (icmp_seq=1) 
+ping timeout: 103.25.178.53 (icmp_seq=1) 
+ping timeout: 103.25.178.53 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  103.25.178.53 -1.00
+103.7.200.79
+average time: 205.58 (ms), 0 lost
+   103.7.200.79 205.58
+106.162.192.148
+ping timeout: 106.162.192.148 (icmp_seq=1) 
+ping timeout: 106.162.192.148 (icmp_seq=1) 
+ping timeout: 106.162.192.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.148 -1.00
+106.162.192.152
+ping timeout: 106.162.192.152 (icmp_seq=1) 
+ping timeout: 106.162.192.152 (icmp_seq=1) 
+ping timeout: 106.162.192.152 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.152 -1.00
+106.162.192.153
+ping timeout: 106.162.192.153 (icmp_seq=1) 
+ping timeout: 106.162.192.153 (icmp_seq=1) 
+ping timeout: 106.162.192.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.153 -1.00
+106.162.192.157
+ping timeout: 106.162.192.157 (icmp_seq=1) 
+ping timeout: 106.162.192.157 (icmp_seq=1) 
+ping timeout: 106.162.192.157 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.157 -1.00
+106.162.192.158
+ping timeout: 106.162.192.158 (icmp_seq=1) 
+ping timeout: 106.162.192.158 (icmp_seq=1) 
+ping timeout: 106.162.192.158 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.158 -1.00
+106.162.192.163
+ping timeout: 106.162.192.163 (icmp_seq=1) 
+ping timeout: 106.162.192.163 (icmp_seq=1) 
+ping timeout: 106.162.192.163 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.163 -1.00
+106.162.192.168
+ping timeout: 106.162.192.168 (icmp_seq=1) 
+ping timeout: 106.162.192.168 (icmp_seq=1) 
+ping timeout: 106.162.192.168 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.168 -1.00
+106.162.192.172
+ping timeout: 106.162.192.172 (icmp_seq=1) 
+ping timeout: 106.162.192.172 (icmp_seq=1) 
+ping timeout: 106.162.192.172 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.172 -1.00
+106.162.192.173
+ping timeout: 106.162.192.173 (icmp_seq=1) 
+ping timeout: 106.162.192.173 (icmp_seq=1) 
+ping timeout: 106.162.192.173 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.173 -1.00
+106.162.192.178
+ping timeout: 106.162.192.178 (icmp_seq=1) 
+ping timeout: 106.162.192.178 (icmp_seq=1) 
+ping timeout: 106.162.192.178 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.178 -1.00
+106.162.192.182
+ping timeout: 106.162.192.182 (icmp_seq=1) 
+ping timeout: 106.162.192.182 (icmp_seq=1) 
+ping timeout: 106.162.192.182 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.182 -1.00
+106.162.192.187
+ping timeout: 106.162.192.187 (icmp_seq=1) 
+ping timeout: 106.162.192.187 (icmp_seq=1) 
+ping timeout: 106.162.192.187 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.192.187 -1.00
+106.162.198.103
+ping timeout: 106.162.198.103 (icmp_seq=1) 
+ping timeout: 106.162.198.103 (icmp_seq=1) 
+ping timeout: 106.162.198.103 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.198.103 -1.00
+106.162.198.104
+ping timeout: 106.162.198.104 (icmp_seq=1) 
+ping timeout: 106.162.198.104 (icmp_seq=1) 
+ping timeout: 106.162.198.104 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.198.104 -1.00
+106.162.198.109
+ping timeout: 106.162.198.109 (icmp_seq=1) 
+ping timeout: 106.162.198.109 (icmp_seq=1) 
+ping timeout: 106.162.198.109 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.198.109 -1.00
+106.162.198.114
+ping timeout: 106.162.198.114 (icmp_seq=1) 
+ping timeout: 106.162.198.114 (icmp_seq=1) 
+ping timeout: 106.162.198.114 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.198.114 -1.00
+106.162.198.118
+ping timeout: 106.162.198.118 (icmp_seq=1) 
+ping timeout: 106.162.198.118 (icmp_seq=1) 
+ping timeout: 106.162.198.118 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.198.118 -1.00
+106.162.198.119
+ping timeout: 106.162.198.119 (icmp_seq=1) 
+ping timeout: 106.162.198.119 (icmp_seq=1) 
+ping timeout: 106.162.198.119 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.198.119 -1.00
+106.162.198.88
+ping timeout: 106.162.198.88 (icmp_seq=1) 
+ping timeout: 106.162.198.88 (icmp_seq=1) 
+ping timeout: 106.162.198.88 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.198.88 -1.00
+106.162.198.98
+ping timeout: 106.162.198.98 (icmp_seq=1) 
+ping timeout: 106.162.198.98 (icmp_seq=1) 
+ping timeout: 106.162.198.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.198.98 -1.00
+106.162.198.99
+ping timeout: 106.162.198.99 (icmp_seq=1) 
+ping timeout: 106.162.198.99 (icmp_seq=1) 
+ping timeout: 106.162.198.99 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.198.99 -1.00
+106.162.216.103
+ping timeout: 106.162.216.103 (icmp_seq=1) 
+ping timeout: 106.162.216.103 (icmp_seq=1) 
+ping timeout: 106.162.216.103 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.216.103 -1.00
+106.162.216.108
+ping timeout: 106.162.216.108 (icmp_seq=1) 
+ping timeout: 106.162.216.108 (icmp_seq=1) 
+ping timeout: 106.162.216.108 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.216.108 -1.00
+106.162.216.109
+ping timeout: 106.162.216.109 (icmp_seq=1) 
+ping timeout: 106.162.216.109 (icmp_seq=1) 
+ping timeout: 106.162.216.109 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.216.109 -1.00
+106.162.216.113
+ping timeout: 106.162.216.113 (icmp_seq=1) 
+ping timeout: 106.162.216.113 (icmp_seq=1) 
+ping timeout: 106.162.216.113 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.216.113 -1.00
+106.162.216.118
+ping timeout: 106.162.216.118 (icmp_seq=1) 
+ping timeout: 106.162.216.118 (icmp_seq=1) 
+ping timeout: 106.162.216.118 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.216.118 -1.00
+106.162.216.123
+ping timeout: 106.162.216.123 (icmp_seq=1) 
+ping timeout: 106.162.216.123 (icmp_seq=1) 
+ping timeout: 106.162.216.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+106.162.216.123 -1.00
+106.162.216.20
+ping timeout: 106.162.216.20 (icmp_seq=1) 
+ping timeout: 106.162.216.20 (icmp_seq=1) 
+ping timeout: 106.162.216.20 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.20 -1.00
+106.162.216.30
+ping timeout: 106.162.216.30 (icmp_seq=1) 
+ping timeout: 106.162.216.30 (icmp_seq=1) 
+ping timeout: 106.162.216.30 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.30 -1.00
+106.162.216.35
+ping timeout: 106.162.216.35 (icmp_seq=1) 
+ping timeout: 106.162.216.35 (icmp_seq=1) 
+ping timeout: 106.162.216.35 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.35 -1.00
+106.162.216.45
+ping timeout: 106.162.216.45 (icmp_seq=1) 
+ping timeout: 106.162.216.45 (icmp_seq=1) 
+ping timeout: 106.162.216.45 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.45 -1.00
+106.162.216.49
+ping timeout: 106.162.216.49 (icmp_seq=1) 
+ping timeout: 106.162.216.49 (icmp_seq=1) 
+ping timeout: 106.162.216.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.49 -1.00
+106.162.216.50
+ping timeout: 106.162.216.50 (icmp_seq=1) 
+ping timeout: 106.162.216.50 (icmp_seq=1) 
+ping timeout: 106.162.216.50 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.50 -1.00
+106.162.216.54
+ping timeout: 106.162.216.54 (icmp_seq=1) 
+ping timeout: 106.162.216.54 (icmp_seq=1) 
+ping timeout: 106.162.216.54 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.54 -1.00
+106.162.216.59
+ping timeout: 106.162.216.59 (icmp_seq=1) 
+ping timeout: 106.162.216.59 (icmp_seq=1) 
+ping timeout: 106.162.216.59 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.59 -1.00
+106.162.216.84
+ping timeout: 106.162.216.84 (icmp_seq=1) 
+ping timeout: 106.162.216.84 (icmp_seq=1) 
+ping timeout: 106.162.216.84 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.84 -1.00
+106.162.216.89
+ping timeout: 106.162.216.89 (icmp_seq=1) 
+ping timeout: 106.162.216.89 (icmp_seq=1) 
+ping timeout: 106.162.216.89 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.89 -1.00
+106.162.216.93
+ping timeout: 106.162.216.93 (icmp_seq=1) 
+ping timeout: 106.162.216.93 (icmp_seq=1) 
+ping timeout: 106.162.216.93 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.93 -1.00
+106.162.216.98
+ping timeout: 106.162.216.98 (icmp_seq=1) 
+ping timeout: 106.162.216.98 (icmp_seq=1) 
+ping timeout: 106.162.216.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 106.162.216.98 -1.00
+110.164.10.148
+ping timeout: 110.164.10.148 (icmp_seq=1) 
+ping timeout: 110.164.10.148 (icmp_seq=1) 
+ping timeout: 110.164.10.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 110.164.10.148 -1.00
+110.164.10.158
+ping timeout: 110.164.10.158 (icmp_seq=1) 
+ping timeout: 110.164.10.158 (icmp_seq=1) 
+ping timeout: 110.164.10.158 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 110.164.10.158 -1.00
+110.164.10.227
+ping timeout: 110.164.10.227 (icmp_seq=1) 
+ping timeout: 110.164.10.227 (icmp_seq=1) 
+ping timeout: 110.164.10.227 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 110.164.10.227 -1.00
+110.164.12.247
+ping timeout: 110.164.12.247 (icmp_seq=1) 
+ping timeout: 110.164.12.247 (icmp_seq=1) 
+ping timeout: 110.164.12.247 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 110.164.12.247 -1.00
+110.164.13.236
+ping timeout: 110.164.13.236 (icmp_seq=1) 
+ping timeout: 110.164.13.236 (icmp_seq=1) 
+ping timeout: 110.164.13.236 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 110.164.13.236 -1.00
+110.164.13.89
+ping timeout: 110.164.13.89 (icmp_seq=1) 
+ping timeout: 110.164.13.89 (icmp_seq=1) 
+ping timeout: 110.164.13.89 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  110.164.13.89 -1.00
+110.164.14.45
+ping timeout: 110.164.14.45 (icmp_seq=1) 
+ping timeout: 110.164.14.45 (icmp_seq=1) 
+ping timeout: 110.164.14.45 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  110.164.14.45 -1.00
+110.164.4.99
+ping timeout: 110.164.4.99 (icmp_seq=1) 
+ping timeout: 110.164.4.99 (icmp_seq=1) 
+ping timeout: 110.164.4.99 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   110.164.4.99 -1.00
+110.164.5.113
+ping timeout: 110.164.5.113 (icmp_seq=1) 
+ping timeout: 110.164.5.113 (icmp_seq=1) 
+ping timeout: 110.164.5.113 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  110.164.5.113 -1.00
+110.164.5.123
+ping timeout: 110.164.5.123 (icmp_seq=1) 
+ping timeout: 110.164.5.123 (icmp_seq=1) 
+ping timeout: 110.164.5.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  110.164.5.123 -1.00
+110.164.5.167
+ping timeout: 110.164.5.167 (icmp_seq=1) 
+ping timeout: 110.164.5.167 (icmp_seq=1) 
+ping timeout: 110.164.5.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  110.164.5.167 -1.00
+110.164.5.88
+ping timeout: 110.164.5.88 (icmp_seq=1) 
+ping timeout: 110.164.5.88 (icmp_seq=1) 
+ping timeout: 110.164.5.88 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   110.164.5.88 -1.00
+110.164.6.94
+ping timeout: 110.164.6.94 (icmp_seq=1) 
+ping timeout: 110.164.6.94 (icmp_seq=1) 
+ping timeout: 110.164.6.94 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   110.164.6.94 -1.00
+110.164.7.119
+ping timeout: 110.164.7.119 (icmp_seq=1) 
+ping timeout: 110.164.7.119 (icmp_seq=1) 
+ping timeout: 110.164.7.119 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  110.164.7.119 -1.00
+110.164.7.49
+ping timeout: 110.164.7.49 (icmp_seq=1) 
+ping timeout: 110.164.7.49 (icmp_seq=1) 
+ping timeout: 110.164.7.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   110.164.7.49 -1.00
+110.164.7.84
+ping timeout: 110.164.7.84 (icmp_seq=1) 
+ping timeout: 110.164.7.84 (icmp_seq=1) 
+ping timeout: 110.164.7.84 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   110.164.7.84 -1.00
+110.164.9.103
+ping timeout: 110.164.9.103 (icmp_seq=1) 
+ping timeout: 110.164.9.103 (icmp_seq=1) 
+ping timeout: 110.164.9.103 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  110.164.9.103 -1.00
+110.164.9.25
+ping timeout: 110.164.9.25 (icmp_seq=1) 
+ping timeout: 110.164.9.25 (icmp_seq=1) 
+ping timeout: 110.164.9.25 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   110.164.9.25 -1.00
+110.164.9.50
+ping timeout: 110.164.9.50 (icmp_seq=1) 
+ping timeout: 110.164.9.50 (icmp_seq=1) 
+ping timeout: 110.164.9.50 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   110.164.9.50 -1.00
+111.168.255.153
+ping timeout: 111.168.255.153 (icmp_seq=1) 
+ping timeout: 111.168.255.153 (icmp_seq=1) 
+ping timeout: 111.168.255.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+111.168.255.153 -1.00
+111.168.255.30
+ping timeout: 111.168.255.30 (icmp_seq=1) 
+ping timeout: 111.168.255.30 (icmp_seq=1) 
+ping timeout: 111.168.255.30 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 111.168.255.30 -1.00
+111.168.255.34
+ping timeout: 111.168.255.34 (icmp_seq=1) 
+ping timeout: 111.168.255.34 (icmp_seq=1) 
+ping timeout: 111.168.255.34 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 111.168.255.34 -1.00
+111.168.255.44
+ping timeout: 111.168.255.44 (icmp_seq=1) 
+ping timeout: 111.168.255.44 (icmp_seq=1) 
+ping timeout: 111.168.255.44 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 111.168.255.44 -1.00
+111.168.255.54
+ping timeout: 111.168.255.54 (icmp_seq=1) 
+ping timeout: 111.168.255.54 (icmp_seq=1) 
+ping timeout: 111.168.255.54 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 111.168.255.54 -1.00
+113.171.241.148
+ping timeout: 113.171.241.148 (icmp_seq=1) 
+ping timeout: 113.171.241.148 (icmp_seq=1) 
+ping timeout: 113.171.241.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.148 -1.00
+113.171.241.152
+ping timeout: 113.171.241.152 (icmp_seq=1) 
+ping timeout: 113.171.241.152 (icmp_seq=1) 
+ping timeout: 113.171.241.152 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.152 -1.00
+113.171.241.153
+ping timeout: 113.171.241.153 (icmp_seq=1) 
+ping timeout: 113.171.241.153 (icmp_seq=1) 
+ping timeout: 113.171.241.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.153 -1.00
+113.171.241.157
+ping timeout: 113.171.241.157 (icmp_seq=1) 
+ping timeout: 113.171.241.157 (icmp_seq=1) 
+ping timeout: 113.171.241.157 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.157 -1.00
+113.171.241.158
+ping timeout: 113.171.241.158 (icmp_seq=1) 
+ping timeout: 113.171.241.158 (icmp_seq=1) 
+ping timeout: 113.171.241.158 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.158 -1.00
+113.171.241.162
+ping timeout: 113.171.241.162 (icmp_seq=1) 
+ping timeout: 113.171.241.162 (icmp_seq=1) 
+ping timeout: 113.171.241.162 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.162 -1.00
+113.171.241.163
+ping timeout: 113.171.241.163 (icmp_seq=1) 
+ping timeout: 113.171.241.163 (icmp_seq=1) 
+ping timeout: 113.171.241.163 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.163 -1.00
+113.171.241.167
+ping timeout: 113.171.241.167 (icmp_seq=1) 
+ping timeout: 113.171.241.167 (icmp_seq=1) 
+ping timeout: 113.171.241.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.167 -1.00
+113.171.241.168
+ping timeout: 113.171.241.168 (icmp_seq=1) 
+ping timeout: 113.171.241.168 (icmp_seq=1) 
+ping timeout: 113.171.241.168 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.168 -1.00
+113.171.241.172
+ping timeout: 113.171.241.172 (icmp_seq=1) 
+ping timeout: 113.171.241.172 (icmp_seq=1) 
+ping timeout: 113.171.241.172 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.172 -1.00
+113.171.241.173
+ping timeout: 113.171.241.173 (icmp_seq=1) 
+ping timeout: 113.171.241.173 (icmp_seq=1) 
+ping timeout: 113.171.241.173 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.173 -1.00
+113.171.241.177
+ping timeout: 113.171.241.177 (icmp_seq=1) 
+ping timeout: 113.171.241.177 (icmp_seq=1) 
+ping timeout: 113.171.241.177 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.177 -1.00
+113.171.241.178
+ping timeout: 113.171.241.178 (icmp_seq=1) 
+ping timeout: 113.171.241.178 (icmp_seq=1) 
+ping timeout: 113.171.241.178 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.178 -1.00
+113.171.241.182
+ping timeout: 113.171.241.182 (icmp_seq=1) 
+ping timeout: 113.171.241.182 (icmp_seq=1) 
+ping timeout: 113.171.241.182 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.182 -1.00
+113.171.241.183
+ping timeout: 113.171.241.183 (icmp_seq=1) 
+ping timeout: 113.171.241.183 (icmp_seq=1) 
+ping timeout: 113.171.241.183 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.183 -1.00
+113.171.241.187
+ping timeout: 113.171.241.187 (icmp_seq=1) 
+ping timeout: 113.171.241.187 (icmp_seq=1) 
+ping timeout: 113.171.241.187 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.187 -1.00
+113.171.241.212
+ping timeout: 113.171.241.212 (icmp_seq=1) 
+ping timeout: 113.171.241.212 (icmp_seq=1) 
+ping timeout: 113.171.241.212 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.212 -1.00
+113.171.241.216
+ping timeout: 113.171.241.216 (icmp_seq=1) 
+ping timeout: 113.171.241.216 (icmp_seq=1) 
+ping timeout: 113.171.241.216 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.216 -1.00
+113.171.241.217
+ping timeout: 113.171.241.217 (icmp_seq=1) 
+ping timeout: 113.171.241.217 (icmp_seq=1) 
+ping timeout: 113.171.241.217 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.217 -1.00
+113.171.241.221
+ping timeout: 113.171.241.221 (icmp_seq=1) 
+ping timeout: 113.171.241.221 (icmp_seq=1) 
+ping timeout: 113.171.241.221 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.221 -1.00
+113.171.241.222
+ping timeout: 113.171.241.222 (icmp_seq=1) 
+ping timeout: 113.171.241.222 (icmp_seq=1) 
+ping timeout: 113.171.241.222 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.222 -1.00
+113.171.241.226
+ping timeout: 113.171.241.226 (icmp_seq=1) 
+ping timeout: 113.171.241.226 (icmp_seq=1) 
+ping timeout: 113.171.241.226 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.226 -1.00
+113.171.241.227
+ping timeout: 113.171.241.227 (icmp_seq=1) 
+ping timeout: 113.171.241.227 (icmp_seq=1) 
+ping timeout: 113.171.241.227 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.227 -1.00
+113.171.241.231
+ping timeout: 113.171.241.231 (icmp_seq=1) 
+ping timeout: 113.171.241.231 (icmp_seq=1) 
+ping timeout: 113.171.241.231 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.231 -1.00
+113.171.241.232
+ping timeout: 113.171.241.232 (icmp_seq=1) 
+ping timeout: 113.171.241.232 (icmp_seq=1) 
+ping timeout: 113.171.241.232 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.232 -1.00
+mysql -uroot -ptango9896 google_ip -e "select ip from history_ips limit 201,100"
+(0, 'ip\n113.171.241.236\n113.171.241.237\n113.171.241.241\n113.171.241.242\n113.171.241.246\n113.171.241.247\n113.171.241.251\n116.92.194.148\n116.92.194.159\n116.92.194.163\n116.92.194.175\n118.143.88.102\n118.143.88.109\n118.143.88.110\n118.143.88.116\n118.143.88.123\n118.143.88.16\n118.143.88.18\n118.143.88.20\n118.143.88.23\n118.143.88.27\n118.143.88.31\n118.143.88.32\n118.143.88.37\n118.143.88.45\n118.143.88.46\n118.143.88.49\n118.143.88.53\n118.143.88.59\n118.143.88.88\n118.143.88.89\n118.143.88.95\n118.143.88.96\n118.174.25.153\n118.174.25.167\n118.174.25.187\n118.174.25.222\n118.174.25.227\n118.174.25.236\n118.174.25.29\n118.174.25.30\n118.174.25.34\n118.174.25.49\n118.174.25.89\n118.174.27.104\n118.174.27.108\n118.174.27.109\n118.174.27.152\n118.174.27.153\n118.174.27.172\n118.174.27.182\n118.174.27.216\n118.174.27.227\n118.174.27.245\n118.174.27.34\n118.174.27.35\n118.174.27.93\n118.174.27.94\n118.174.27.98\n119.235.103.45\n119.235.103.57\n121.78.74.101\n121.78.74.117\n121.78.74.88\n121.78.74.95\n124.248.162.166\n128.0.169.198\n128.0.169.207\n128.0.169.208\n128.0.169.209\n128.0.169.215\n128.0.169.219\n128.0.169.223\n128.0.169.224\n128.0.169.229\n128.0.169.235\n128.0.169.236\n128.0.169.240\n128.0.169.241\n128.0.169.246\n128.0.169.247\n128.0.169.249\n128.0.169.251\n128.0.86.196\n128.0.86.197\n128.0.86.205\n128.0.86.208\n128.0.86.209\n128.0.86.216\n128.0.86.217\n128.0.86.218\n128.0.86.223\n128.0.86.224\n128.0.86.227\n128.0.86.230\n128.0.86.231\n128.0.86.232\n128.0.86.233\n128.0.86.234\n128.0.86.235')
+113.171.241.236
+ping timeout: 113.171.241.236 (icmp_seq=1) 
+ping timeout: 113.171.241.236 (icmp_seq=1) 
+ping timeout: 113.171.241.236 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.236 -1.00
+113.171.241.237
+ping timeout: 113.171.241.237 (icmp_seq=1) 
+ping timeout: 113.171.241.237 (icmp_seq=1) 
+ping timeout: 113.171.241.237 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.237 -1.00
+113.171.241.241
+ping timeout: 113.171.241.241 (icmp_seq=1) 
+ping timeout: 113.171.241.241 (icmp_seq=1) 
+ping timeout: 113.171.241.241 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.241 -1.00
+113.171.241.242
+ping timeout: 113.171.241.242 (icmp_seq=1) 
+ping timeout: 113.171.241.242 (icmp_seq=1) 
+ping timeout: 113.171.241.242 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.242 -1.00
+113.171.241.246
+ping timeout: 113.171.241.246 (icmp_seq=1) 
+ping timeout: 113.171.241.246 (icmp_seq=1) 
+ping timeout: 113.171.241.246 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.246 -1.00
+113.171.241.247
+ping timeout: 113.171.241.247 (icmp_seq=1) 
+ping timeout: 113.171.241.247 (icmp_seq=1) 
+ping timeout: 113.171.241.247 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.247 -1.00
+113.171.241.251
+ping timeout: 113.171.241.251 (icmp_seq=1) 
+ping timeout: 113.171.241.251 (icmp_seq=1) 
+ping timeout: 113.171.241.251 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+113.171.241.251 -1.00
+116.92.194.148
+ping timeout: 116.92.194.148 (icmp_seq=1) 
+ping timeout: 116.92.194.148 (icmp_seq=1) 
+ping timeout: 116.92.194.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 116.92.194.148 -1.00
+116.92.194.159
+ping timeout: 116.92.194.159 (icmp_seq=1) 
+ping timeout: 116.92.194.159 (icmp_seq=1) 
+ping timeout: 116.92.194.159 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 116.92.194.159 -1.00
+116.92.194.163
+ping timeout: 116.92.194.163 (icmp_seq=1) 
+ping timeout: 116.92.194.163 (icmp_seq=1) 
+ping timeout: 116.92.194.163 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 116.92.194.163 -1.00
+116.92.194.175
+ping timeout: 116.92.194.175 (icmp_seq=1) 
+ping timeout: 116.92.194.175 (icmp_seq=1) 
+ping timeout: 116.92.194.175 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 116.92.194.175 -1.00
+118.143.88.102
+ping timeout: 118.143.88.102 (icmp_seq=1) 
+ping timeout: 118.143.88.102 (icmp_seq=1) 
+ping timeout: 118.143.88.102 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.143.88.102 -1.00
+118.143.88.109
+ping timeout: 118.143.88.109 (icmp_seq=1) 
+ping timeout: 118.143.88.109 (icmp_seq=1) 
+ping timeout: 118.143.88.109 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.143.88.109 -1.00
+118.143.88.110
+ping timeout: 118.143.88.110 (icmp_seq=1) 
+ping timeout: 118.143.88.110 (icmp_seq=1) 
+ping timeout: 118.143.88.110 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.143.88.110 -1.00
+118.143.88.116
+ping timeout: 118.143.88.116 (icmp_seq=1) 
+ping timeout: 118.143.88.116 (icmp_seq=1) 
+ping timeout: 118.143.88.116 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.143.88.116 -1.00
+118.143.88.123
+ping timeout: 118.143.88.123 (icmp_seq=1) 
+ping timeout: 118.143.88.123 (icmp_seq=1) 
+ping timeout: 118.143.88.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.143.88.123 -1.00
+118.143.88.16
+ping timeout: 118.143.88.16 (icmp_seq=1) 
+ping timeout: 118.143.88.16 (icmp_seq=1) 
+ping timeout: 118.143.88.16 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.16 -1.00
+118.143.88.18
+ping timeout: 118.143.88.18 (icmp_seq=1) 
+ping timeout: 118.143.88.18 (icmp_seq=1) 
+ping timeout: 118.143.88.18 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.18 -1.00
+118.143.88.20
+ping timeout: 118.143.88.20 (icmp_seq=1) 
+ping timeout: 118.143.88.20 (icmp_seq=1) 
+ping timeout: 118.143.88.20 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.20 -1.00
+118.143.88.23
+ping timeout: 118.143.88.23 (icmp_seq=1) 
+ping timeout: 118.143.88.23 (icmp_seq=1) 
+ping timeout: 118.143.88.23 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.23 -1.00
+118.143.88.27
+ping timeout: 118.143.88.27 (icmp_seq=1) 
+ping timeout: 118.143.88.27 (icmp_seq=1) 
+ping timeout: 118.143.88.27 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.27 -1.00
+118.143.88.31
+ping timeout: 118.143.88.31 (icmp_seq=1) 
+ping timeout: 118.143.88.31 (icmp_seq=1) 
+ping timeout: 118.143.88.31 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.31 -1.00
+118.143.88.32
+ping timeout: 118.143.88.32 (icmp_seq=1) 
+ping timeout: 118.143.88.32 (icmp_seq=1) 
+ping timeout: 118.143.88.32 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.32 -1.00
+118.143.88.37
+ping timeout: 118.143.88.37 (icmp_seq=1) 
+ping timeout: 118.143.88.37 (icmp_seq=1) 
+ping timeout: 118.143.88.37 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.37 -1.00
+118.143.88.45
+ping timeout: 118.143.88.45 (icmp_seq=1) 
+ping timeout: 118.143.88.45 (icmp_seq=1) 
+ping timeout: 118.143.88.45 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.45 -1.00
+118.143.88.46
+ping timeout: 118.143.88.46 (icmp_seq=1) 
+ping timeout: 118.143.88.46 (icmp_seq=1) 
+ping timeout: 118.143.88.46 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.46 -1.00
+118.143.88.49
+ping timeout: 118.143.88.49 (icmp_seq=1) 
+ping timeout: 118.143.88.49 (icmp_seq=1) 
+ping timeout: 118.143.88.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.49 -1.00
+118.143.88.53
+ping timeout: 118.143.88.53 (icmp_seq=1) 
+ping timeout: 118.143.88.53 (icmp_seq=1) 
+ping timeout: 118.143.88.53 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.53 -1.00
+118.143.88.59
+ping timeout: 118.143.88.59 (icmp_seq=1) 
+ping timeout: 118.143.88.59 (icmp_seq=1) 
+ping timeout: 118.143.88.59 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.59 -1.00
+118.143.88.88
+ping timeout: 118.143.88.88 (icmp_seq=1) 
+ping timeout: 118.143.88.88 (icmp_seq=1) 
+ping timeout: 118.143.88.88 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.88 -1.00
+118.143.88.89
+ping timeout: 118.143.88.89 (icmp_seq=1) 
+ping timeout: 118.143.88.89 (icmp_seq=1) 
+ping timeout: 118.143.88.89 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.89 -1.00
+118.143.88.95
+ping timeout: 118.143.88.95 (icmp_seq=1) 
+ping timeout: 118.143.88.95 (icmp_seq=1) 
+ping timeout: 118.143.88.95 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.95 -1.00
+118.143.88.96
+ping timeout: 118.143.88.96 (icmp_seq=1) 
+ping timeout: 118.143.88.96 (icmp_seq=1) 
+ping timeout: 118.143.88.96 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.143.88.96 -1.00
+118.174.25.153
+ping timeout: 118.174.25.153 (icmp_seq=1) 
+ping timeout: 118.174.25.153 (icmp_seq=1) 
+ping timeout: 118.174.25.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.25.153 -1.00
+118.174.25.167
+ping timeout: 118.174.25.167 (icmp_seq=1) 
+ping timeout: 118.174.25.167 (icmp_seq=1) 
+ping timeout: 118.174.25.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.25.167 -1.00
+118.174.25.187
+ping timeout: 118.174.25.187 (icmp_seq=1) 
+ping timeout: 118.174.25.187 (icmp_seq=1) 
+ping timeout: 118.174.25.187 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.25.187 -1.00
+118.174.25.222
+ping timeout: 118.174.25.222 (icmp_seq=1) 
+ping timeout: 118.174.25.222 (icmp_seq=1) 
+ping timeout: 118.174.25.222 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.25.222 -1.00
+118.174.25.227
+ping timeout: 118.174.25.227 (icmp_seq=1) 
+ping timeout: 118.174.25.227 (icmp_seq=1) 
+ping timeout: 118.174.25.227 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.25.227 -1.00
+118.174.25.236
+ping timeout: 118.174.25.236 (icmp_seq=1) 
+ping timeout: 118.174.25.236 (icmp_seq=1) 
+ping timeout: 118.174.25.236 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.25.236 -1.00
+118.174.25.29
+ping timeout: 118.174.25.29 (icmp_seq=1) 
+ping timeout: 118.174.25.29 (icmp_seq=1) 
+ping timeout: 118.174.25.29 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.25.29 -1.00
+118.174.25.30
+ping timeout: 118.174.25.30 (icmp_seq=1) 
+ping timeout: 118.174.25.30 (icmp_seq=1) 
+ping timeout: 118.174.25.30 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.25.30 -1.00
+118.174.25.34
+ping timeout: 118.174.25.34 (icmp_seq=1) 
+ping timeout: 118.174.25.34 (icmp_seq=1) 
+ping timeout: 118.174.25.34 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.25.34 -1.00
+118.174.25.49
+ping timeout: 118.174.25.49 (icmp_seq=1) 
+ping timeout: 118.174.25.49 (icmp_seq=1) 
+ping timeout: 118.174.25.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.25.49 -1.00
+118.174.25.89
+ping timeout: 118.174.25.89 (icmp_seq=1) 
+ping timeout: 118.174.25.89 (icmp_seq=1) 
+ping timeout: 118.174.25.89 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.25.89 -1.00
+118.174.27.104
+ping timeout: 118.174.27.104 (icmp_seq=1) 
+ping timeout: 118.174.27.104 (icmp_seq=1) 
+ping timeout: 118.174.27.104 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.104 -1.00
+118.174.27.108
+ping timeout: 118.174.27.108 (icmp_seq=1) 
+ping timeout: 118.174.27.108 (icmp_seq=1) 
+ping timeout: 118.174.27.108 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.108 -1.00
+118.174.27.109
+ping timeout: 118.174.27.109 (icmp_seq=1) 
+ping timeout: 118.174.27.109 (icmp_seq=1) 
+ping timeout: 118.174.27.109 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.109 -1.00
+118.174.27.152
+ping timeout: 118.174.27.152 (icmp_seq=1) 
+ping timeout: 118.174.27.152 (icmp_seq=1) 
+ping timeout: 118.174.27.152 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.152 -1.00
+118.174.27.153
+ping timeout: 118.174.27.153 (icmp_seq=1) 
+ping timeout: 118.174.27.153 (icmp_seq=1) 
+ping timeout: 118.174.27.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.153 -1.00
+118.174.27.172
+ping timeout: 118.174.27.172 (icmp_seq=1) 
+ping timeout: 118.174.27.172 (icmp_seq=1) 
+ping timeout: 118.174.27.172 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.172 -1.00
+118.174.27.182
+ping timeout: 118.174.27.182 (icmp_seq=1) 
+ping timeout: 118.174.27.182 (icmp_seq=1) 
+ping timeout: 118.174.27.182 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.182 -1.00
+118.174.27.216
+ping timeout: 118.174.27.216 (icmp_seq=1) 
+ping timeout: 118.174.27.216 (icmp_seq=1) 
+ping timeout: 118.174.27.216 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.216 -1.00
+118.174.27.227
+ping timeout: 118.174.27.227 (icmp_seq=1) 
+ping timeout: 118.174.27.227 (icmp_seq=1) 
+ping timeout: 118.174.27.227 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.227 -1.00
+118.174.27.245
+ping timeout: 118.174.27.245 (icmp_seq=1) 
+ping timeout: 118.174.27.245 (icmp_seq=1) 
+ping timeout: 118.174.27.245 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 118.174.27.245 -1.00
+118.174.27.34
+ping timeout: 118.174.27.34 (icmp_seq=1) 
+ping timeout: 118.174.27.34 (icmp_seq=1) 
+ping timeout: 118.174.27.34 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.27.34 -1.00
+118.174.27.35
+ping timeout: 118.174.27.35 (icmp_seq=1) 
+ping timeout: 118.174.27.35 (icmp_seq=1) 
+ping timeout: 118.174.27.35 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.27.35 -1.00
+118.174.27.93
+ping timeout: 118.174.27.93 (icmp_seq=1) 
+ping timeout: 118.174.27.93 (icmp_seq=1) 
+ping timeout: 118.174.27.93 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.27.93 -1.00
+118.174.27.94
+ping timeout: 118.174.27.94 (icmp_seq=1) 
+ping timeout: 118.174.27.94 (icmp_seq=1) 
+ping timeout: 118.174.27.94 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.27.94 -1.00
+118.174.27.98
+ping timeout: 118.174.27.98 (icmp_seq=1) 
+ping timeout: 118.174.27.98 (icmp_seq=1) 
+ping timeout: 118.174.27.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  118.174.27.98 -1.00
+119.235.103.45
+ping timeout: 119.235.103.45 (icmp_seq=1) 
+ping timeout: 119.235.103.45 (icmp_seq=1) 
+ping timeout: 119.235.103.45 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 119.235.103.45 -1.00
+119.235.103.57
+ping timeout: 119.235.103.57 (icmp_seq=1) 
+ping timeout: 119.235.103.57 (icmp_seq=1) 
+ping timeout: 119.235.103.57 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 119.235.103.57 -1.00
+121.78.74.101
+ping timeout: 121.78.74.101 (icmp_seq=1) 
+ping timeout: 121.78.74.101 (icmp_seq=1) 
+ping timeout: 121.78.74.101 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  121.78.74.101 -1.00
+121.78.74.117
+ping timeout: 121.78.74.117 (icmp_seq=1) 
+ping timeout: 121.78.74.117 (icmp_seq=1) 
+ping timeout: 121.78.74.117 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  121.78.74.117 -1.00
+121.78.74.88
+ping timeout: 121.78.74.88 (icmp_seq=1) 
+ping timeout: 121.78.74.88 (icmp_seq=1) 
+ping timeout: 121.78.74.88 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   121.78.74.88 -1.00
+121.78.74.95
+ping timeout: 121.78.74.95 (icmp_seq=1) 
+ping timeout: 121.78.74.95 (icmp_seq=1) 
+ping timeout: 121.78.74.95 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   121.78.74.95 -1.00
+124.248.162.166
+ping timeout: 124.248.162.166 (icmp_seq=1) 
+ping timeout: 124.248.162.166 (icmp_seq=1) 
+ping timeout: 124.248.162.166 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+124.248.162.166 -1.00
+128.0.169.198
+ping timeout: 128.0.169.198 (icmp_seq=1) 
+ping timeout: 128.0.169.198 (icmp_seq=1) 
+ping timeout: 128.0.169.198 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.198 -1.00
+128.0.169.207
+ping timeout: 128.0.169.207 (icmp_seq=1) 
+ping timeout: 128.0.169.207 (icmp_seq=1) 
+ping timeout: 128.0.169.207 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.207 -1.00
+128.0.169.208
+ping timeout: 128.0.169.208 (icmp_seq=1) 
+ping timeout: 128.0.169.208 (icmp_seq=1) 
+ping timeout: 128.0.169.208 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.208 -1.00
+128.0.169.209
+ping timeout: 128.0.169.209 (icmp_seq=1) 
+ping timeout: 128.0.169.209 (icmp_seq=1) 
+ping timeout: 128.0.169.209 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.209 -1.00
+128.0.169.215
+ping timeout: 128.0.169.215 (icmp_seq=1) 
+ping timeout: 128.0.169.215 (icmp_seq=1) 
+ping timeout: 128.0.169.215 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.215 -1.00
+128.0.169.219
+ping timeout: 128.0.169.219 (icmp_seq=1) 
+ping timeout: 128.0.169.219 (icmp_seq=1) 
+ping timeout: 128.0.169.219 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.219 -1.00
+128.0.169.223
+ping timeout: 128.0.169.223 (icmp_seq=1) 
+ping timeout: 128.0.169.223 (icmp_seq=1) 
+ping timeout: 128.0.169.223 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.223 -1.00
+128.0.169.224
+ping timeout: 128.0.169.224 (icmp_seq=1) 
+ping timeout: 128.0.169.224 (icmp_seq=1) 
+ping timeout: 128.0.169.224 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.224 -1.00
+128.0.169.229
+ping timeout: 128.0.169.229 (icmp_seq=1) 
+ping timeout: 128.0.169.229 (icmp_seq=1) 
+ping timeout: 128.0.169.229 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.229 -1.00
+128.0.169.235
+ping timeout: 128.0.169.235 (icmp_seq=1) 
+ping timeout: 128.0.169.235 (icmp_seq=1) 
+ping timeout: 128.0.169.235 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.235 -1.00
+128.0.169.236
+ping timeout: 128.0.169.236 (icmp_seq=1) 
+ping timeout: 128.0.169.236 (icmp_seq=1) 
+ping timeout: 128.0.169.236 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.236 -1.00
+128.0.169.240
+ping timeout: 128.0.169.240 (icmp_seq=1) 
+ping timeout: 128.0.169.240 (icmp_seq=1) 
+ping timeout: 128.0.169.240 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.240 -1.00
+128.0.169.241
+ping timeout: 128.0.169.241 (icmp_seq=1) 
+ping timeout: 128.0.169.241 (icmp_seq=1) 
+ping timeout: 128.0.169.241 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.241 -1.00
+128.0.169.246
+ping timeout: 128.0.169.246 (icmp_seq=1) 
+ping timeout: 128.0.169.246 (icmp_seq=1) 
+ping timeout: 128.0.169.246 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.246 -1.00
+128.0.169.247
+ping timeout: 128.0.169.247 (icmp_seq=1) 
+ping timeout: 128.0.169.247 (icmp_seq=1) 
+ping timeout: 128.0.169.247 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.247 -1.00
+128.0.169.249
+ping timeout: 128.0.169.249 (icmp_seq=1) 
+ping timeout: 128.0.169.249 (icmp_seq=1) 
+ping timeout: 128.0.169.249 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.249 -1.00
+128.0.169.251
+ping timeout: 128.0.169.251 (icmp_seq=1) 
+ping timeout: 128.0.169.251 (icmp_seq=1) 
+ping timeout: 128.0.169.251 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  128.0.169.251 -1.00
+128.0.86.196
+ping timeout: 128.0.86.196 (icmp_seq=1) 
+ping timeout: 128.0.86.196 (icmp_seq=1) 
+ping timeout: 128.0.86.196 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.196 -1.00
+128.0.86.197
+ping timeout: 128.0.86.197 (icmp_seq=1) 
+ping timeout: 128.0.86.197 (icmp_seq=1) 
+ping timeout: 128.0.86.197 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.197 -1.00
+128.0.86.205
+ping timeout: 128.0.86.205 (icmp_seq=1) 
+ping timeout: 128.0.86.205 (icmp_seq=1) 
+ping timeout: 128.0.86.205 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.205 -1.00
+128.0.86.208
+ping timeout: 128.0.86.208 (icmp_seq=1) 
+ping timeout: 128.0.86.208 (icmp_seq=1) 
+ping timeout: 128.0.86.208 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.208 -1.00
+128.0.86.209
+ping timeout: 128.0.86.209 (icmp_seq=1) 
+ping timeout: 128.0.86.209 (icmp_seq=1) 
+ping timeout: 128.0.86.209 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.209 -1.00
+128.0.86.216
+ping timeout: 128.0.86.216 (icmp_seq=1) 
+ping timeout: 128.0.86.216 (icmp_seq=1) 
+ping timeout: 128.0.86.216 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.216 -1.00
+128.0.86.217
+ping timeout: 128.0.86.217 (icmp_seq=1) 
+ping timeout: 128.0.86.217 (icmp_seq=1) 
+ping timeout: 128.0.86.217 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.217 -1.00
+128.0.86.218
+ping timeout: 128.0.86.218 (icmp_seq=1) 
+ping timeout: 128.0.86.218 (icmp_seq=1) 
+ping timeout: 128.0.86.218 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.218 -1.00
+128.0.86.223
+ping timeout: 128.0.86.223 (icmp_seq=1) 
+ping timeout: 128.0.86.223 (icmp_seq=1) 
+ping timeout: 128.0.86.223 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.223 -1.00
+128.0.86.224
+ping timeout: 128.0.86.224 (icmp_seq=1) 
+ping timeout: 128.0.86.224 (icmp_seq=1) 
+ping timeout: 128.0.86.224 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.224 -1.00
+128.0.86.227
+ping timeout: 128.0.86.227 (icmp_seq=1) 
+ping timeout: 128.0.86.227 (icmp_seq=1) 
+ping timeout: 128.0.86.227 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.227 -1.00
+128.0.86.230
+ping timeout: 128.0.86.230 (icmp_seq=1) 
+ping timeout: 128.0.86.230 (icmp_seq=1) 
+ping timeout: 128.0.86.230 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.230 -1.00
+128.0.86.231
+ping timeout: 128.0.86.231 (icmp_seq=1) 
+ping timeout: 128.0.86.231 (icmp_seq=1) 
+ping timeout: 128.0.86.231 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.231 -1.00
+128.0.86.232
+ping timeout: 128.0.86.232 (icmp_seq=1) 
+ping timeout: 128.0.86.232 (icmp_seq=1) 
+ping timeout: 128.0.86.232 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.232 -1.00
+128.0.86.233
+ping timeout: 128.0.86.233 (icmp_seq=1) 
+ping timeout: 128.0.86.233 (icmp_seq=1) 
+ping timeout: 128.0.86.233 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.233 -1.00
+128.0.86.234
+ping timeout: 128.0.86.234 (icmp_seq=1) 
+ping timeout: 128.0.86.234 (icmp_seq=1) 
+ping timeout: 128.0.86.234 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.234 -1.00
+128.0.86.235
+ping timeout: 128.0.86.235 (icmp_seq=1) 
+ping timeout: 128.0.86.235 (icmp_seq=1) 
+ping timeout: 128.0.86.235 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.235 -1.00
+mysql -uroot -ptango9896 google_ip -e "select ip from history_ips limit 301,100"
+(0, 'ip\n128.0.86.236\n128.0.86.237\n128.0.86.245\n128.0.86.248\n128.0.86.249\n128.0.86.250\n128.0.86.251\n139.175.107.113\n139.175.107.153\n139.175.107.173\n139.175.107.187\n139.175.107.201\n139.175.107.216\n139.175.107.217\n139.175.107.221\n139.175.107.226\n139.175.107.227\n139.175.107.231\n139.175.107.232\n139.175.107.236\n139.175.107.237\n139.175.107.242\n139.175.107.247\n139.175.107.251\n139.175.107.49\n139.175.107.50\n139.175.107.59\n139.175.107.80\n139.175.107.88\n139.175.107.98\n149.126.86.27\n149.126.86.31\n149.3.177.116\n149.3.177.117\n149.3.177.121\n149.3.177.24\n149.3.177.37\n149.3.177.89\n149.3.177.90\n163.28.116.18\n163.28.116.24\n163.28.116.25\n163.28.116.32\n163.28.116.38\n163.28.116.46\n163.28.116.53\n163.28.116.59\n163.28.83.153\n163.28.83.166\n163.28.83.173\n173.194.115.0\n173.194.115.13\n173.194.115.163\n173.194.115.164\n173.194.115.165\n173.194.115.166\n173.194.115.168\n173.194.115.170\n173.194.115.171\n173.194.115.172\n173.194.115.173\n173.194.115.174\n173.194.115.179\n173.194.115.181\n173.194.115.182\n173.194.115.185\n173.194.115.186\n173.194.115.188\n173.194.115.189\n173.194.115.190\n173.194.115.193\n173.194.115.195\n173.194.115.196\n173.194.115.197\n173.194.115.198\n173.194.115.199\n173.194.115.200\n173.194.115.202\n173.194.115.203\n173.194.115.204\n173.194.115.205\n173.194.115.213\n173.194.115.214\n173.194.115.217\n173.194.115.219\n173.194.115.220\n173.194.115.221\n173.194.115.234\n173.194.115.236\n173.194.115.245\n173.194.115.246\n173.194.115.249\n173.194.115.250\n173.194.115.251\n173.194.115.252\n173.194.115.253\n173.194.115.254\n173.194.115.47\n173.194.115.48\n173.194.115.63')
+128.0.86.236
+ping timeout: 128.0.86.236 (icmp_seq=1) 
+ping timeout: 128.0.86.236 (icmp_seq=1) 
+ping timeout: 128.0.86.236 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.236 -1.00
+128.0.86.237
+ping timeout: 128.0.86.237 (icmp_seq=1) 
+ping timeout: 128.0.86.237 (icmp_seq=1) 
+ping timeout: 128.0.86.237 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.237 -1.00
+128.0.86.245
+ping timeout: 128.0.86.245 (icmp_seq=1) 
+ping timeout: 128.0.86.245 (icmp_seq=1) 
+ping timeout: 128.0.86.245 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.245 -1.00
+128.0.86.248
+ping timeout: 128.0.86.248 (icmp_seq=1) 
+ping timeout: 128.0.86.248 (icmp_seq=1) 
+ping timeout: 128.0.86.248 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.248 -1.00
+128.0.86.249
+ping timeout: 128.0.86.249 (icmp_seq=1) 
+ping timeout: 128.0.86.249 (icmp_seq=1) 
+ping timeout: 128.0.86.249 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.249 -1.00
+128.0.86.250
+ping timeout: 128.0.86.250 (icmp_seq=1) 
+ping timeout: 128.0.86.250 (icmp_seq=1) 
+ping timeout: 128.0.86.250 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.250 -1.00
+128.0.86.251
+ping timeout: 128.0.86.251 (icmp_seq=1) 
+ping timeout: 128.0.86.251 (icmp_seq=1) 
+ping timeout: 128.0.86.251 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   128.0.86.251 -1.00
+139.175.107.113
+ping timeout: 139.175.107.113 (icmp_seq=1) 
+ping timeout: 139.175.107.113 (icmp_seq=1) 
+average time: 102.28 (ms), 2 lost
+139.175.107.113 -1.00
+139.175.107.153
+ping timeout: 139.175.107.153 (icmp_seq=1) 
+ping timeout: 139.175.107.153 (icmp_seq=1) 
+ping timeout: 139.175.107.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.153 -1.00
+139.175.107.173
+ping timeout: 139.175.107.173 (icmp_seq=1) 
+ping timeout: 139.175.107.173 (icmp_seq=1) 
+ping timeout: 139.175.107.173 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.173 -1.00
+139.175.107.187
+ping timeout: 139.175.107.187 (icmp_seq=1) 
+ping timeout: 139.175.107.187 (icmp_seq=1) 
+ping timeout: 139.175.107.187 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.187 -1.00
+139.175.107.201
+ping timeout: 139.175.107.201 (icmp_seq=1) 
+ping timeout: 139.175.107.201 (icmp_seq=1) 
+ping timeout: 139.175.107.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.201 -1.00
+139.175.107.216
+ping timeout: 139.175.107.216 (icmp_seq=1) 
+ping timeout: 139.175.107.216 (icmp_seq=1) 
+ping timeout: 139.175.107.216 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.216 -1.00
+139.175.107.217
+ping timeout: 139.175.107.217 (icmp_seq=1) 
+ping timeout: 139.175.107.217 (icmp_seq=1) 
+ping timeout: 139.175.107.217 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.217 -1.00
+139.175.107.221
+ping timeout: 139.175.107.221 (icmp_seq=1) 
+ping timeout: 139.175.107.221 (icmp_seq=1) 
+ping timeout: 139.175.107.221 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.221 -1.00
+139.175.107.226
+ping timeout: 139.175.107.226 (icmp_seq=1) 
+ping timeout: 139.175.107.226 (icmp_seq=1) 
+ping timeout: 139.175.107.226 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.226 -1.00
+139.175.107.227
+ping timeout: 139.175.107.227 (icmp_seq=1) 
+ping timeout: 139.175.107.227 (icmp_seq=1) 
+ping timeout: 139.175.107.227 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.227 -1.00
+139.175.107.231
+ping timeout: 139.175.107.231 (icmp_seq=1) 
+ping timeout: 139.175.107.231 (icmp_seq=1) 
+ping timeout: 139.175.107.231 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.231 -1.00
+139.175.107.232
+ping timeout: 139.175.107.232 (icmp_seq=1) 
+ping timeout: 139.175.107.232 (icmp_seq=1) 
+ping timeout: 139.175.107.232 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.232 -1.00
+139.175.107.236
+ping timeout: 139.175.107.236 (icmp_seq=1) 
+ping timeout: 139.175.107.236 (icmp_seq=1) 
+ping timeout: 139.175.107.236 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.236 -1.00
+139.175.107.237
+ping timeout: 139.175.107.237 (icmp_seq=1) 
+ping timeout: 139.175.107.237 (icmp_seq=1) 
+ping timeout: 139.175.107.237 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.237 -1.00
+139.175.107.242
+ping timeout: 139.175.107.242 (icmp_seq=1) 
+ping timeout: 139.175.107.242 (icmp_seq=1) 
+ping timeout: 139.175.107.242 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.242 -1.00
+139.175.107.247
+ping timeout: 139.175.107.247 (icmp_seq=1) 
+ping timeout: 139.175.107.247 (icmp_seq=1) 
+ping timeout: 139.175.107.247 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.247 -1.00
+139.175.107.251
+ping timeout: 139.175.107.251 (icmp_seq=1) 
+ping timeout: 139.175.107.251 (icmp_seq=1) 
+ping timeout: 139.175.107.251 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+139.175.107.251 -1.00
+139.175.107.49
+ping timeout: 139.175.107.49 (icmp_seq=1) 
+ping timeout: 139.175.107.49 (icmp_seq=1) 
+ping timeout: 139.175.107.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 139.175.107.49 -1.00
+139.175.107.50
+ping timeout: 139.175.107.50 (icmp_seq=1) 
+ping timeout: 139.175.107.50 (icmp_seq=1) 
+ping timeout: 139.175.107.50 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 139.175.107.50 -1.00
+139.175.107.59
+ping timeout: 139.175.107.59 (icmp_seq=1) 
+ping timeout: 139.175.107.59 (icmp_seq=1) 
+ping timeout: 139.175.107.59 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 139.175.107.59 -1.00
+139.175.107.80
+ping timeout: 139.175.107.80 (icmp_seq=1) 
+ping timeout: 139.175.107.80 (icmp_seq=1) 
+ping timeout: 139.175.107.80 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 139.175.107.80 -1.00
+139.175.107.88
+ping timeout: 139.175.107.88 (icmp_seq=1) 
+average time: 163.62 (ms), 1 lost
+ 139.175.107.88 -1.00
+139.175.107.98
+ping timeout: 139.175.107.98 (icmp_seq=1) 
+ping timeout: 139.175.107.98 (icmp_seq=1) 
+average time: 76.95 (ms), 2 lost
+ 139.175.107.98 -1.00
+149.126.86.27
+ping timeout: 149.126.86.27 (icmp_seq=1) 
+ping timeout: 149.126.86.27 (icmp_seq=1) 
+ping timeout: 149.126.86.27 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  149.126.86.27 -1.00
+149.126.86.31
+ping timeout: 149.126.86.31 (icmp_seq=1) 
+ping timeout: 149.126.86.31 (icmp_seq=1) 
+ping timeout: 149.126.86.31 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  149.126.86.31 -1.00
+149.3.177.116
+ping timeout: 149.3.177.116 (icmp_seq=1) 
+ping timeout: 149.3.177.116 (icmp_seq=1) 
+ping timeout: 149.3.177.116 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  149.3.177.116 -1.00
+149.3.177.117
+ping timeout: 149.3.177.117 (icmp_seq=1) 
+ping timeout: 149.3.177.117 (icmp_seq=1) 
+ping timeout: 149.3.177.117 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  149.3.177.117 -1.00
+149.3.177.121
+ping timeout: 149.3.177.121 (icmp_seq=1) 
+ping timeout: 149.3.177.121 (icmp_seq=1) 
+ping timeout: 149.3.177.121 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  149.3.177.121 -1.00
+149.3.177.24
+ping timeout: 149.3.177.24 (icmp_seq=1) 
+ping timeout: 149.3.177.24 (icmp_seq=1) 
+ping timeout: 149.3.177.24 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   149.3.177.24 -1.00
+149.3.177.37
+ping timeout: 149.3.177.37 (icmp_seq=1) 
+ping timeout: 149.3.177.37 (icmp_seq=1) 
+ping timeout: 149.3.177.37 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   149.3.177.37 -1.00
+149.3.177.89
+ping timeout: 149.3.177.89 (icmp_seq=1) 
+ping timeout: 149.3.177.89 (icmp_seq=1) 
+ping timeout: 149.3.177.89 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   149.3.177.89 -1.00
+149.3.177.90
+ping timeout: 149.3.177.90 (icmp_seq=1) 
+ping timeout: 149.3.177.90 (icmp_seq=1) 
+ping timeout: 149.3.177.90 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+   149.3.177.90 -1.00
+163.28.116.18
+ping timeout: 163.28.116.18 (icmp_seq=1) 
+ping timeout: 163.28.116.18 (icmp_seq=1) 
+ping timeout: 163.28.116.18 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.116.18 -1.00
+163.28.116.24
+ping timeout: 163.28.116.24 (icmp_seq=1) 
+ping timeout: 163.28.116.24 (icmp_seq=1) 
+ping timeout: 163.28.116.24 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.116.24 -1.00
+163.28.116.25
+ping timeout: 163.28.116.25 (icmp_seq=1) 
+ping timeout: 163.28.116.25 (icmp_seq=1) 
+ping timeout: 163.28.116.25 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.116.25 -1.00
+163.28.116.32
+ping timeout: 163.28.116.32 (icmp_seq=1) 
+ping timeout: 163.28.116.32 (icmp_seq=1) 
+ping timeout: 163.28.116.32 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.116.32 -1.00
+163.28.116.38
+ping timeout: 163.28.116.38 (icmp_seq=1) 
+ping timeout: 163.28.116.38 (icmp_seq=1) 
+ping timeout: 163.28.116.38 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.116.38 -1.00
+163.28.116.46
+ping timeout: 163.28.116.46 (icmp_seq=1) 
+ping timeout: 163.28.116.46 (icmp_seq=1) 
+ping timeout: 163.28.116.46 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.116.46 -1.00
+163.28.116.53
+ping timeout: 163.28.116.53 (icmp_seq=1) 
+ping timeout: 163.28.116.53 (icmp_seq=1) 
+ping timeout: 163.28.116.53 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.116.53 -1.00
+163.28.116.59
+ping timeout: 163.28.116.59 (icmp_seq=1) 
+ping timeout: 163.28.116.59 (icmp_seq=1) 
+ping timeout: 163.28.116.59 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.116.59 -1.00
+163.28.83.153
+ping timeout: 163.28.83.153 (icmp_seq=1) 
+ping timeout: 163.28.83.153 (icmp_seq=1) 
+ping timeout: 163.28.83.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.83.153 -1.00
+163.28.83.166
+ping timeout: 163.28.83.166 (icmp_seq=1) 
+ping timeout: 163.28.83.166 (icmp_seq=1) 
+ping timeout: 163.28.83.166 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.83.166 -1.00
+163.28.83.173
+ping timeout: 163.28.83.173 (icmp_seq=1) 
+ping timeout: 163.28.83.173 (icmp_seq=1) 
+ping timeout: 163.28.83.173 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  163.28.83.173 -1.00
+173.194.115.0
+ping timeout: 173.194.115.0 (icmp_seq=1) 
+ping timeout: 173.194.115.0 (icmp_seq=1) 
+ping timeout: 173.194.115.0 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.115.0 -1.00
+173.194.115.13
+ping timeout: 173.194.115.13 (icmp_seq=1) 
+ping timeout: 173.194.115.13 (icmp_seq=1) 
+ping timeout: 173.194.115.13 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.115.13 -1.00
+173.194.115.163
+ping timeout: 173.194.115.163 (icmp_seq=1) 
+ping timeout: 173.194.115.163 (icmp_seq=1) 
+ping timeout: 173.194.115.163 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.163 -1.00
+173.194.115.164
+ping timeout: 173.194.115.164 (icmp_seq=1) 
+ping timeout: 173.194.115.164 (icmp_seq=1) 
+ping timeout: 173.194.115.164 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.164 -1.00
+173.194.115.165
+ping timeout: 173.194.115.165 (icmp_seq=1) 
+ping timeout: 173.194.115.165 (icmp_seq=1) 
+ping timeout: 173.194.115.165 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.165 -1.00
+173.194.115.166
+ping timeout: 173.194.115.166 (icmp_seq=1) 
+ping timeout: 173.194.115.166 (icmp_seq=1) 
+ping timeout: 173.194.115.166 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.166 -1.00
+173.194.115.168
+ping timeout: 173.194.115.168 (icmp_seq=1) 
+ping timeout: 173.194.115.168 (icmp_seq=1) 
+ping timeout: 173.194.115.168 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.168 -1.00
+173.194.115.170
+ping timeout: 173.194.115.170 (icmp_seq=1) 
+ping timeout: 173.194.115.170 (icmp_seq=1) 
+ping timeout: 173.194.115.170 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.170 -1.00
+173.194.115.171
+ping timeout: 173.194.115.171 (icmp_seq=1) 
+ping timeout: 173.194.115.171 (icmp_seq=1) 
+ping timeout: 173.194.115.171 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.171 -1.00
+173.194.115.172
+ping timeout: 173.194.115.172 (icmp_seq=1) 
+ping timeout: 173.194.115.172 (icmp_seq=1) 
+ping timeout: 173.194.115.172 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.172 -1.00
+173.194.115.173
+ping timeout: 173.194.115.173 (icmp_seq=1) 
+ping timeout: 173.194.115.173 (icmp_seq=1) 
+ping timeout: 173.194.115.173 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.173 -1.00
+173.194.115.174
+ping timeout: 173.194.115.174 (icmp_seq=1) 
+ping timeout: 173.194.115.174 (icmp_seq=1) 
+ping timeout: 173.194.115.174 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.174 -1.00
+173.194.115.179
+ping timeout: 173.194.115.179 (icmp_seq=1) 
+ping timeout: 173.194.115.179 (icmp_seq=1) 
+ping timeout: 173.194.115.179 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.179 -1.00
+173.194.115.181
+ping timeout: 173.194.115.181 (icmp_seq=1) 
+ping timeout: 173.194.115.181 (icmp_seq=1) 
+ping timeout: 173.194.115.181 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.181 -1.00
+173.194.115.182
+ping timeout: 173.194.115.182 (icmp_seq=1) 
+ping timeout: 173.194.115.182 (icmp_seq=1) 
+ping timeout: 173.194.115.182 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.182 -1.00
+173.194.115.185
+ping timeout: 173.194.115.185 (icmp_seq=1) 
+ping timeout: 173.194.115.185 (icmp_seq=1) 
+ping timeout: 173.194.115.185 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.185 -1.00
+173.194.115.186
+ping timeout: 173.194.115.186 (icmp_seq=1) 
+ping timeout: 173.194.115.186 (icmp_seq=1) 
+ping timeout: 173.194.115.186 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.186 -1.00
+173.194.115.188
+ping timeout: 173.194.115.188 (icmp_seq=1) 
+ping timeout: 173.194.115.188 (icmp_seq=1) 
+ping timeout: 173.194.115.188 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.188 -1.00
+173.194.115.189
+ping timeout: 173.194.115.189 (icmp_seq=1) 
+ping timeout: 173.194.115.189 (icmp_seq=1) 
+ping timeout: 173.194.115.189 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.189 -1.00
+173.194.115.190
+ping timeout: 173.194.115.190 (icmp_seq=1) 
+ping timeout: 173.194.115.190 (icmp_seq=1) 
+ping timeout: 173.194.115.190 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.190 -1.00
+173.194.115.193
+ping timeout: 173.194.115.193 (icmp_seq=1) 
+ping timeout: 173.194.115.193 (icmp_seq=1) 
+ping timeout: 173.194.115.193 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.193 -1.00
+173.194.115.195
+ping timeout: 173.194.115.195 (icmp_seq=1) 
+ping timeout: 173.194.115.195 (icmp_seq=1) 
+ping timeout: 173.194.115.195 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.195 -1.00
+173.194.115.196
+ping timeout: 173.194.115.196 (icmp_seq=1) 
+ping timeout: 173.194.115.196 (icmp_seq=1) 
+ping timeout: 173.194.115.196 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.196 -1.00
+173.194.115.197
+ping timeout: 173.194.115.197 (icmp_seq=1) 
+ping timeout: 173.194.115.197 (icmp_seq=1) 
+ping timeout: 173.194.115.197 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.197 -1.00
+173.194.115.198
+ping timeout: 173.194.115.198 (icmp_seq=1) 
+ping timeout: 173.194.115.198 (icmp_seq=1) 
+ping timeout: 173.194.115.198 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.198 -1.00
+173.194.115.199
+ping timeout: 173.194.115.199 (icmp_seq=1) 
+ping timeout: 173.194.115.199 (icmp_seq=1) 
+ping timeout: 173.194.115.199 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.199 -1.00
+173.194.115.200
+ping timeout: 173.194.115.200 (icmp_seq=1) 
+ping timeout: 173.194.115.200 (icmp_seq=1) 
+ping timeout: 173.194.115.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.200 -1.00
+173.194.115.202
+ping timeout: 173.194.115.202 (icmp_seq=1) 
+ping timeout: 173.194.115.202 (icmp_seq=1) 
+ping timeout: 173.194.115.202 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.202 -1.00
+173.194.115.203
+ping timeout: 173.194.115.203 (icmp_seq=1) 
+ping timeout: 173.194.115.203 (icmp_seq=1) 
+ping timeout: 173.194.115.203 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.203 -1.00
+173.194.115.204
+ping timeout: 173.194.115.204 (icmp_seq=1) 
+ping timeout: 173.194.115.204 (icmp_seq=1) 
+ping timeout: 173.194.115.204 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.204 -1.00
+173.194.115.205
+ping timeout: 173.194.115.205 (icmp_seq=1) 
+ping timeout: 173.194.115.205 (icmp_seq=1) 
+ping timeout: 173.194.115.205 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.205 -1.00
+173.194.115.213
+ping timeout: 173.194.115.213 (icmp_seq=1) 
+ping timeout: 173.194.115.213 (icmp_seq=1) 
+ping timeout: 173.194.115.213 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.213 -1.00
+173.194.115.214
+ping timeout: 173.194.115.214 (icmp_seq=1) 
+ping timeout: 173.194.115.214 (icmp_seq=1) 
+ping timeout: 173.194.115.214 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.214 -1.00
+173.194.115.217
+ping timeout: 173.194.115.217 (icmp_seq=1) 
+ping timeout: 173.194.115.217 (icmp_seq=1) 
+ping timeout: 173.194.115.217 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.217 -1.00
+173.194.115.219
+ping timeout: 173.194.115.219 (icmp_seq=1) 
+ping timeout: 173.194.115.219 (icmp_seq=1) 
+ping timeout: 173.194.115.219 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.219 -1.00
+173.194.115.220
+ping timeout: 173.194.115.220 (icmp_seq=1) 
+ping timeout: 173.194.115.220 (icmp_seq=1) 
+ping timeout: 173.194.115.220 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.220 -1.00
+173.194.115.221
+ping timeout: 173.194.115.221 (icmp_seq=1) 
+ping timeout: 173.194.115.221 (icmp_seq=1) 
+ping timeout: 173.194.115.221 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.221 -1.00
+173.194.115.234
+ping timeout: 173.194.115.234 (icmp_seq=1) 
+ping timeout: 173.194.115.234 (icmp_seq=1) 
+ping timeout: 173.194.115.234 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.234 -1.00
+173.194.115.236
+ping timeout: 173.194.115.236 (icmp_seq=1) 
+ping timeout: 173.194.115.236 (icmp_seq=1) 
+ping timeout: 173.194.115.236 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.236 -1.00
+173.194.115.245
+ping timeout: 173.194.115.245 (icmp_seq=1) 
+ping timeout: 173.194.115.245 (icmp_seq=1) 
+ping timeout: 173.194.115.245 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.245 -1.00
+173.194.115.246
+ping timeout: 173.194.115.246 (icmp_seq=1) 
+ping timeout: 173.194.115.246 (icmp_seq=1) 
+ping timeout: 173.194.115.246 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.246 -1.00
+173.194.115.249
+ping timeout: 173.194.115.249 (icmp_seq=1) 
+ping timeout: 173.194.115.249 (icmp_seq=1) 
+ping timeout: 173.194.115.249 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.249 -1.00
+173.194.115.250
+ping timeout: 173.194.115.250 (icmp_seq=1) 
+ping timeout: 173.194.115.250 (icmp_seq=1) 
+ping timeout: 173.194.115.250 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.250 -1.00
+173.194.115.251
+ping timeout: 173.194.115.251 (icmp_seq=1) 
+ping timeout: 173.194.115.251 (icmp_seq=1) 
+ping timeout: 173.194.115.251 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.251 -1.00
+173.194.115.252
+ping timeout: 173.194.115.252 (icmp_seq=1) 
+ping timeout: 173.194.115.252 (icmp_seq=1) 
+ping timeout: 173.194.115.252 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.252 -1.00
+173.194.115.253
+ping timeout: 173.194.115.253 (icmp_seq=1) 
+ping timeout: 173.194.115.253 (icmp_seq=1) 
+ping timeout: 173.194.115.253 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.253 -1.00
+173.194.115.254
+ping timeout: 173.194.115.254 (icmp_seq=1) 
+ping timeout: 173.194.115.254 (icmp_seq=1) 
+ping timeout: 173.194.115.254 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.115.254 -1.00
+173.194.115.47
+ping timeout: 173.194.115.47 (icmp_seq=1) 
+ping timeout: 173.194.115.47 (icmp_seq=1) 
+ping timeout: 173.194.115.47 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.115.47 -1.00
+173.194.115.48
+ping timeout: 173.194.115.48 (icmp_seq=1) 
+ping timeout: 173.194.115.48 (icmp_seq=1) 
+ping timeout: 173.194.115.48 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.115.48 -1.00
+173.194.115.63
+ping timeout: 173.194.115.63 (icmp_seq=1) 
+ping timeout: 173.194.115.63 (icmp_seq=1) 
+ping timeout: 173.194.115.63 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.115.63 -1.00
+mysql -uroot -ptango9896 google_ip -e "select ip from history_ips limit 401,100"
+(0, 'ip\n173.194.115.92\n173.194.116.226\n173.194.117.84\n173.194.119.27\n173.194.119.44\n173.194.119.49\n173.194.121.11\n173.194.121.119\n173.194.121.120\n173.194.121.127\n173.194.121.36\n173.194.121.39\n173.194.121.74\n173.194.122.248\n173.194.123.1\n173.194.123.100\n173.194.123.102\n173.194.123.103\n173.194.123.104\n173.194.123.105\n173.194.123.106\n173.194.123.108\n173.194.123.109\n173.194.123.11\n173.194.123.110\n173.194.123.111\n173.194.123.112\n173.194.123.113\n173.194.123.115\n173.194.123.117\n173.194.123.118\n173.194.123.120\n173.194.123.121\n173.194.123.122\n173.194.123.123\n173.194.123.13\n173.194.123.14\n173.194.123.16\n173.194.123.18\n173.194.123.19\n173.194.123.2\n173.194.123.21\n173.194.123.24\n173.194.123.25\n173.194.123.26\n173.194.123.27\n173.194.123.28\n173.194.123.29\n173.194.123.3\n173.194.123.32\n173.194.123.34\n173.194.123.35\n173.194.123.36\n173.194.123.37\n173.194.123.38\n173.194.123.39\n173.194.123.4\n173.194.123.40\n173.194.123.41\n173.194.123.43\n173.194.123.45\n173.194.123.46\n173.194.123.47\n173.194.123.48\n173.194.123.49\n173.194.123.50\n173.194.123.51\n173.194.123.54\n173.194.123.55\n173.194.123.59\n173.194.123.6\n173.194.123.60\n173.194.123.61\n173.194.123.62\n173.194.123.63\n173.194.123.65\n173.194.123.66\n173.194.123.67\n173.194.123.68\n173.194.123.69\n173.194.123.7\n173.194.123.70\n173.194.123.71\n173.194.123.74\n173.194.123.76\n173.194.123.77\n173.194.123.8\n173.194.123.81\n173.194.123.82\n173.194.123.83\n173.194.123.84\n173.194.123.85\n173.194.123.86\n173.194.123.89\n173.194.123.9\n173.194.123.90\n173.194.123.92\n173.194.123.94\n173.194.123.98\n173.194.123.99')
+173.194.115.92
+ping timeout: 173.194.115.92 (icmp_seq=1) 
+ping timeout: 173.194.115.92 (icmp_seq=1) 
+ping timeout: 173.194.115.92 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.115.92 -1.00
+173.194.116.226
+ping timeout: 173.194.116.226 (icmp_seq=1) 
+ping timeout: 173.194.116.226 (icmp_seq=1) 
+ping timeout: 173.194.116.226 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.116.226 -1.00
+173.194.117.84
+ping timeout: 173.194.117.84 (icmp_seq=1) 
+ping timeout: 173.194.117.84 (icmp_seq=1) 
+ping timeout: 173.194.117.84 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.117.84 -1.00
+173.194.119.27
+ping timeout: 173.194.119.27 (icmp_seq=1) 
+ping timeout: 173.194.119.27 (icmp_seq=1) 
+ping timeout: 173.194.119.27 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.119.27 -1.00
+173.194.119.44
+ping timeout: 173.194.119.44 (icmp_seq=1) 
+ping timeout: 173.194.119.44 (icmp_seq=1) 
+ping timeout: 173.194.119.44 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.119.44 -1.00
+173.194.119.49
+ping timeout: 173.194.119.49 (icmp_seq=1) 
+ping timeout: 173.194.119.49 (icmp_seq=1) 
+ping timeout: 173.194.119.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.119.49 -1.00
+173.194.121.11
+average time: 270.00 (ms), 0 lost
+ 173.194.121.11 270.00
+173.194.121.119
+ping timeout: 173.194.121.119 (icmp_seq=1) 
+ping timeout: 173.194.121.119 (icmp_seq=1) 
+ping timeout: 173.194.121.119 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.121.119 -1.00
+173.194.121.120
+average time: 278.05 (ms), 0 lost
+173.194.121.120 278.05
+173.194.121.127
+ping timeout: 173.194.121.127 (icmp_seq=1) 
+ping timeout: 173.194.121.127 (icmp_seq=1) 
+ping timeout: 173.194.121.127 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.121.127 -1.00
+173.194.121.36
+ping timeout: 173.194.121.36 (icmp_seq=1) 
+ping timeout: 173.194.121.36 (icmp_seq=1) 
+ping timeout: 173.194.121.36 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.121.36 -1.00
+173.194.121.39
+ping timeout: 173.194.121.39 (icmp_seq=1) 
+ping timeout: 173.194.121.39 (icmp_seq=1) 
+ping timeout: 173.194.121.39 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.121.39 -1.00
+173.194.121.74
+ping timeout: 173.194.121.74 (icmp_seq=1) 
+ping timeout: 173.194.121.74 (icmp_seq=1) 
+ping timeout: 173.194.121.74 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.121.74 -1.00
+173.194.122.248
+ping timeout: 173.194.122.248 (icmp_seq=1) 
+ping timeout: 173.194.122.248 (icmp_seq=1) 
+ping timeout: 173.194.122.248 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.122.248 -1.00
+173.194.123.1
+ping timeout: 173.194.123.1 (icmp_seq=1) 
+ping timeout: 173.194.123.1 (icmp_seq=1) 
+ping timeout: 173.194.123.1 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.123.1 -1.00
+173.194.123.100
+ping timeout: 173.194.123.100 (icmp_seq=1) 
+ping timeout: 173.194.123.100 (icmp_seq=1) 
+ping timeout: 173.194.123.100 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.100 -1.00
+173.194.123.102
+ping timeout: 173.194.123.102 (icmp_seq=1) 
+ping timeout: 173.194.123.102 (icmp_seq=1) 
+ping timeout: 173.194.123.102 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.102 -1.00
+173.194.123.103
+ping timeout: 173.194.123.103 (icmp_seq=1) 
+ping timeout: 173.194.123.103 (icmp_seq=1) 
+ping timeout: 173.194.123.103 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.103 -1.00
+173.194.123.104
+ping timeout: 173.194.123.104 (icmp_seq=1) 
+ping timeout: 173.194.123.104 (icmp_seq=1) 
+ping timeout: 173.194.123.104 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.104 -1.00
+173.194.123.105
+ping timeout: 173.194.123.105 (icmp_seq=1) 
+ping timeout: 173.194.123.105 (icmp_seq=1) 
+ping timeout: 173.194.123.105 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.105 -1.00
+173.194.123.106
+ping timeout: 173.194.123.106 (icmp_seq=1) 
+ping timeout: 173.194.123.106 (icmp_seq=1) 
+ping timeout: 173.194.123.106 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.106 -1.00
+173.194.123.108
+ping timeout: 173.194.123.108 (icmp_seq=1) 
+ping timeout: 173.194.123.108 (icmp_seq=1) 
+ping timeout: 173.194.123.108 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.108 -1.00
+173.194.123.109
+ping timeout: 173.194.123.109 (icmp_seq=1) 
+ping timeout: 173.194.123.109 (icmp_seq=1) 
+ping timeout: 173.194.123.109 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.109 -1.00
+173.194.123.11
+ping timeout: 173.194.123.11 (icmp_seq=1) 
+ping timeout: 173.194.123.11 (icmp_seq=1) 
+ping timeout: 173.194.123.11 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.11 -1.00
+173.194.123.110
+ping timeout: 173.194.123.110 (icmp_seq=1) 
+ping timeout: 173.194.123.110 (icmp_seq=1) 
+ping timeout: 173.194.123.110 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.110 -1.00
+173.194.123.111
+ping timeout: 173.194.123.111 (icmp_seq=1) 
+ping timeout: 173.194.123.111 (icmp_seq=1) 
+ping timeout: 173.194.123.111 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.111 -1.00
+173.194.123.112
+ping timeout: 173.194.123.112 (icmp_seq=1) 
+ping timeout: 173.194.123.112 (icmp_seq=1) 
+ping timeout: 173.194.123.112 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.112 -1.00
+173.194.123.113
+ping timeout: 173.194.123.113 (icmp_seq=1) 
+ping timeout: 173.194.123.113 (icmp_seq=1) 
+ping timeout: 173.194.123.113 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.113 -1.00
+173.194.123.115
+ping timeout: 173.194.123.115 (icmp_seq=1) 
+ping timeout: 173.194.123.115 (icmp_seq=1) 
+ping timeout: 173.194.123.115 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.115 -1.00
+173.194.123.117
+ping timeout: 173.194.123.117 (icmp_seq=1) 
+ping timeout: 173.194.123.117 (icmp_seq=1) 
+ping timeout: 173.194.123.117 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.117 -1.00
+173.194.123.118
+ping timeout: 173.194.123.118 (icmp_seq=1) 
+ping timeout: 173.194.123.118 (icmp_seq=1) 
+ping timeout: 173.194.123.118 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.118 -1.00
+173.194.123.120
+ping timeout: 173.194.123.120 (icmp_seq=1) 
+ping timeout: 173.194.123.120 (icmp_seq=1) 
+ping timeout: 173.194.123.120 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.120 -1.00
+173.194.123.121
+ping timeout: 173.194.123.121 (icmp_seq=1) 
+ping timeout: 173.194.123.121 (icmp_seq=1) 
+ping timeout: 173.194.123.121 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.121 -1.00
+173.194.123.122
+ping timeout: 173.194.123.122 (icmp_seq=1) 
+ping timeout: 173.194.123.122 (icmp_seq=1) 
+ping timeout: 173.194.123.122 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.122 -1.00
+173.194.123.123
+ping timeout: 173.194.123.123 (icmp_seq=1) 
+ping timeout: 173.194.123.123 (icmp_seq=1) 
+ping timeout: 173.194.123.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.123.123 -1.00
+173.194.123.13
+ping timeout: 173.194.123.13 (icmp_seq=1) 
+ping timeout: 173.194.123.13 (icmp_seq=1) 
+ping timeout: 173.194.123.13 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.13 -1.00
+173.194.123.14
+ping timeout: 173.194.123.14 (icmp_seq=1) 
+ping timeout: 173.194.123.14 (icmp_seq=1) 
+ping timeout: 173.194.123.14 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.14 -1.00
+173.194.123.16
+ping timeout: 173.194.123.16 (icmp_seq=1) 
+ping timeout: 173.194.123.16 (icmp_seq=1) 
+ping timeout: 173.194.123.16 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.16 -1.00
+173.194.123.18
+ping timeout: 173.194.123.18 (icmp_seq=1) 
+ping timeout: 173.194.123.18 (icmp_seq=1) 
+ping timeout: 173.194.123.18 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.18 -1.00
+173.194.123.19
+ping timeout: 173.194.123.19 (icmp_seq=1) 
+ping timeout: 173.194.123.19 (icmp_seq=1) 
+ping timeout: 173.194.123.19 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.19 -1.00
+173.194.123.2
+ping timeout: 173.194.123.2 (icmp_seq=1) 
+ping timeout: 173.194.123.2 (icmp_seq=1) 
+ping timeout: 173.194.123.2 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.123.2 -1.00
+173.194.123.21
+ping timeout: 173.194.123.21 (icmp_seq=1) 
+ping timeout: 173.194.123.21 (icmp_seq=1) 
+ping timeout: 173.194.123.21 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.21 -1.00
+173.194.123.24
+ping timeout: 173.194.123.24 (icmp_seq=1) 
+ping timeout: 173.194.123.24 (icmp_seq=1) 
+ping timeout: 173.194.123.24 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.24 -1.00
+173.194.123.25
+ping timeout: 173.194.123.25 (icmp_seq=1) 
+ping timeout: 173.194.123.25 (icmp_seq=1) 
+ping timeout: 173.194.123.25 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.25 -1.00
+173.194.123.26
+ping timeout: 173.194.123.26 (icmp_seq=1) 
+ping timeout: 173.194.123.26 (icmp_seq=1) 
+ping timeout: 173.194.123.26 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.26 -1.00
+173.194.123.27
+ping timeout: 173.194.123.27 (icmp_seq=1) 
+ping timeout: 173.194.123.27 (icmp_seq=1) 
+ping timeout: 173.194.123.27 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.27 -1.00
+173.194.123.28
+ping timeout: 173.194.123.28 (icmp_seq=1) 
+ping timeout: 173.194.123.28 (icmp_seq=1) 
+ping timeout: 173.194.123.28 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.28 -1.00
+173.194.123.29
+ping timeout: 173.194.123.29 (icmp_seq=1) 
+ping timeout: 173.194.123.29 (icmp_seq=1) 
+ping timeout: 173.194.123.29 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.29 -1.00
+173.194.123.3
+ping timeout: 173.194.123.3 (icmp_seq=1) 
+ping timeout: 173.194.123.3 (icmp_seq=1) 
+ping timeout: 173.194.123.3 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.123.3 -1.00
+173.194.123.32
+ping timeout: 173.194.123.32 (icmp_seq=1) 
+ping timeout: 173.194.123.32 (icmp_seq=1) 
+ping timeout: 173.194.123.32 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.32 -1.00
+173.194.123.34
+ping timeout: 173.194.123.34 (icmp_seq=1) 
+ping timeout: 173.194.123.34 (icmp_seq=1) 
+ping timeout: 173.194.123.34 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.34 -1.00
+173.194.123.35
+ping timeout: 173.194.123.35 (icmp_seq=1) 
+ping timeout: 173.194.123.35 (icmp_seq=1) 
+ping timeout: 173.194.123.35 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.35 -1.00
+173.194.123.36
+ping timeout: 173.194.123.36 (icmp_seq=1) 
+ping timeout: 173.194.123.36 (icmp_seq=1) 
+ping timeout: 173.194.123.36 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.36 -1.00
+173.194.123.37
+ping timeout: 173.194.123.37 (icmp_seq=1) 
+ping timeout: 173.194.123.37 (icmp_seq=1) 
+ping timeout: 173.194.123.37 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.37 -1.00
+173.194.123.38
+ping timeout: 173.194.123.38 (icmp_seq=1) 
+ping timeout: 173.194.123.38 (icmp_seq=1) 
+ping timeout: 173.194.123.38 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.38 -1.00
+173.194.123.39
+ping timeout: 173.194.123.39 (icmp_seq=1) 
+ping timeout: 173.194.123.39 (icmp_seq=1) 
+ping timeout: 173.194.123.39 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.39 -1.00
+173.194.123.4
+ping timeout: 173.194.123.4 (icmp_seq=1) 
+ping timeout: 173.194.123.4 (icmp_seq=1) 
+ping timeout: 173.194.123.4 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.123.4 -1.00
+173.194.123.40
+ping timeout: 173.194.123.40 (icmp_seq=1) 
+ping timeout: 173.194.123.40 (icmp_seq=1) 
+ping timeout: 173.194.123.40 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.40 -1.00
+173.194.123.41
+ping timeout: 173.194.123.41 (icmp_seq=1) 
+ping timeout: 173.194.123.41 (icmp_seq=1) 
+ping timeout: 173.194.123.41 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.41 -1.00
+173.194.123.43
+ping timeout: 173.194.123.43 (icmp_seq=1) 
+ping timeout: 173.194.123.43 (icmp_seq=1) 
+ping timeout: 173.194.123.43 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.43 -1.00
+173.194.123.45
+ping timeout: 173.194.123.45 (icmp_seq=1) 
+ping timeout: 173.194.123.45 (icmp_seq=1) 
+ping timeout: 173.194.123.45 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.45 -1.00
+173.194.123.46
+ping timeout: 173.194.123.46 (icmp_seq=1) 
+ping timeout: 173.194.123.46 (icmp_seq=1) 
+ping timeout: 173.194.123.46 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.46 -1.00
+173.194.123.47
+ping timeout: 173.194.123.47 (icmp_seq=1) 
+ping timeout: 173.194.123.47 (icmp_seq=1) 
+ping timeout: 173.194.123.47 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.47 -1.00
+173.194.123.48
+ping timeout: 173.194.123.48 (icmp_seq=1) 
+ping timeout: 173.194.123.48 (icmp_seq=1) 
+ping timeout: 173.194.123.48 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.48 -1.00
+173.194.123.49
+ping timeout: 173.194.123.49 (icmp_seq=1) 
+ping timeout: 173.194.123.49 (icmp_seq=1) 
+ping timeout: 173.194.123.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.49 -1.00
+173.194.123.50
+ping timeout: 173.194.123.50 (icmp_seq=1) 
+ping timeout: 173.194.123.50 (icmp_seq=1) 
+ping timeout: 173.194.123.50 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.50 -1.00
+173.194.123.51
+ping timeout: 173.194.123.51 (icmp_seq=1) 
+ping timeout: 173.194.123.51 (icmp_seq=1) 
+ping timeout: 173.194.123.51 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.51 -1.00
+173.194.123.54
+ping timeout: 173.194.123.54 (icmp_seq=1) 
+ping timeout: 173.194.123.54 (icmp_seq=1) 
+ping timeout: 173.194.123.54 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.54 -1.00
+173.194.123.55
+ping timeout: 173.194.123.55 (icmp_seq=1) 
+ping timeout: 173.194.123.55 (icmp_seq=1) 
+ping timeout: 173.194.123.55 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.55 -1.00
+173.194.123.59
+ping timeout: 173.194.123.59 (icmp_seq=1) 
+ping timeout: 173.194.123.59 (icmp_seq=1) 
+ping timeout: 173.194.123.59 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.59 -1.00
+173.194.123.6
+ping timeout: 173.194.123.6 (icmp_seq=1) 
+ping timeout: 173.194.123.6 (icmp_seq=1) 
+ping timeout: 173.194.123.6 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.123.6 -1.00
+173.194.123.60
+ping timeout: 173.194.123.60 (icmp_seq=1) 
+ping timeout: 173.194.123.60 (icmp_seq=1) 
+ping timeout: 173.194.123.60 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.60 -1.00
+173.194.123.61
+ping timeout: 173.194.123.61 (icmp_seq=1) 
+ping timeout: 173.194.123.61 (icmp_seq=1) 
+ping timeout: 173.194.123.61 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.61 -1.00
+173.194.123.62
+ping timeout: 173.194.123.62 (icmp_seq=1) 
+ping timeout: 173.194.123.62 (icmp_seq=1) 
+ping timeout: 173.194.123.62 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.62 -1.00
+173.194.123.63
+ping timeout: 173.194.123.63 (icmp_seq=1) 
+ping timeout: 173.194.123.63 (icmp_seq=1) 
+ping timeout: 173.194.123.63 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.63 -1.00
+173.194.123.65
+ping timeout: 173.194.123.65 (icmp_seq=1) 
+ping timeout: 173.194.123.65 (icmp_seq=1) 
+ping timeout: 173.194.123.65 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.65 -1.00
+173.194.123.66
+ping timeout: 173.194.123.66 (icmp_seq=1) 
+ping timeout: 173.194.123.66 (icmp_seq=1) 
+ping timeout: 173.194.123.66 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.66 -1.00
+173.194.123.67
+ping timeout: 173.194.123.67 (icmp_seq=1) 
+ping timeout: 173.194.123.67 (icmp_seq=1) 
+ping timeout: 173.194.123.67 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.67 -1.00
+173.194.123.68
+ping timeout: 173.194.123.68 (icmp_seq=1) 
+ping timeout: 173.194.123.68 (icmp_seq=1) 
+ping timeout: 173.194.123.68 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.68 -1.00
+173.194.123.69
+ping timeout: 173.194.123.69 (icmp_seq=1) 
+ping timeout: 173.194.123.69 (icmp_seq=1) 
+ping timeout: 173.194.123.69 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.69 -1.00
+173.194.123.7
+ping timeout: 173.194.123.7 (icmp_seq=1) 
+ping timeout: 173.194.123.7 (icmp_seq=1) 
+ping timeout: 173.194.123.7 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.123.7 -1.00
+173.194.123.70
+ping timeout: 173.194.123.70 (icmp_seq=1) 
+ping timeout: 173.194.123.70 (icmp_seq=1) 
+ping timeout: 173.194.123.70 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.70 -1.00
+173.194.123.71
+ping timeout: 173.194.123.71 (icmp_seq=1) 
+ping timeout: 173.194.123.71 (icmp_seq=1) 
+ping timeout: 173.194.123.71 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.71 -1.00
+173.194.123.74
+ping timeout: 173.194.123.74 (icmp_seq=1) 
+ping timeout: 173.194.123.74 (icmp_seq=1) 
+ping timeout: 173.194.123.74 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.74 -1.00
+173.194.123.76
+ping timeout: 173.194.123.76 (icmp_seq=1) 
+ping timeout: 173.194.123.76 (icmp_seq=1) 
+ping timeout: 173.194.123.76 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.76 -1.00
+173.194.123.77
+ping timeout: 173.194.123.77 (icmp_seq=1) 
+ping timeout: 173.194.123.77 (icmp_seq=1) 
+ping timeout: 173.194.123.77 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.77 -1.00
+173.194.123.8
+ping timeout: 173.194.123.8 (icmp_seq=1) 
+ping timeout: 173.194.123.8 (icmp_seq=1) 
+ping timeout: 173.194.123.8 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.123.8 -1.00
+173.194.123.81
+ping timeout: 173.194.123.81 (icmp_seq=1) 
+ping timeout: 173.194.123.81 (icmp_seq=1) 
+ping timeout: 173.194.123.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.81 -1.00
+173.194.123.82
+ping timeout: 173.194.123.82 (icmp_seq=1) 
+ping timeout: 173.194.123.82 (icmp_seq=1) 
+ping timeout: 173.194.123.82 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.82 -1.00
+173.194.123.83
+ping timeout: 173.194.123.83 (icmp_seq=1) 
+ping timeout: 173.194.123.83 (icmp_seq=1) 
+ping timeout: 173.194.123.83 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.83 -1.00
+173.194.123.84
+ping timeout: 173.194.123.84 (icmp_seq=1) 
+ping timeout: 173.194.123.84 (icmp_seq=1) 
+ping timeout: 173.194.123.84 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.84 -1.00
+173.194.123.85
+ping timeout: 173.194.123.85 (icmp_seq=1) 
+ping timeout: 173.194.123.85 (icmp_seq=1) 
+ping timeout: 173.194.123.85 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.85 -1.00
+173.194.123.86
+ping timeout: 173.194.123.86 (icmp_seq=1) 
+ping timeout: 173.194.123.86 (icmp_seq=1) 
+ping timeout: 173.194.123.86 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.86 -1.00
+173.194.123.89
+ping timeout: 173.194.123.89 (icmp_seq=1) 
+ping timeout: 173.194.123.89 (icmp_seq=1) 
+ping timeout: 173.194.123.89 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.89 -1.00
+173.194.123.9
+ping timeout: 173.194.123.9 (icmp_seq=1) 
+ping timeout: 173.194.123.9 (icmp_seq=1) 
+ping timeout: 173.194.123.9 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.123.9 -1.00
+173.194.123.90
+ping timeout: 173.194.123.90 (icmp_seq=1) 
+ping timeout: 173.194.123.90 (icmp_seq=1) 
+ping timeout: 173.194.123.90 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.90 -1.00
+173.194.123.92
+ping timeout: 173.194.123.92 (icmp_seq=1) 
+ping timeout: 173.194.123.92 (icmp_seq=1) 
+ping timeout: 173.194.123.92 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.92 -1.00
+173.194.123.94
+ping timeout: 173.194.123.94 (icmp_seq=1) 
+ping timeout: 173.194.123.94 (icmp_seq=1) 
+ping timeout: 173.194.123.94 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.94 -1.00
+173.194.123.98
+ping timeout: 173.194.123.98 (icmp_seq=1) 
+ping timeout: 173.194.123.98 (icmp_seq=1) 
+ping timeout: 173.194.123.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.98 -1.00
+173.194.123.99
+ping timeout: 173.194.123.99 (icmp_seq=1) 
+ping timeout: 173.194.123.99 (icmp_seq=1) 
+ping timeout: 173.194.123.99 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.123.99 -1.00
+mysql -uroot -ptango9896 google_ip -e "select ip from history_ips limit 501,100"
+(0, 'ip\n173.194.124.40\n173.194.124.59\n173.194.124.65\n173.194.192.115\n173.194.192.117\n173.194.192.147\n173.194.192.164\n173.194.192.165\n173.194.192.195\n173.194.192.201\n173.194.193.200\n173.194.193.201\n173.194.194.123\n173.194.194.133\n173.194.194.143\n173.194.194.165\n173.194.194.191\n173.194.194.200\n173.194.194.201\n173.194.194.87\n173.194.195.117\n173.194.195.142\n173.194.195.157\n173.194.195.195\n173.194.195.200\n173.194.195.201\n173.194.195.83\n173.194.196.100\n173.194.196.105\n173.194.196.113\n173.194.196.122\n173.194.196.136\n173.194.196.199\n173.194.196.201\n173.194.196.85\n173.194.196.94\n173.194.197.145\n173.194.197.157\n173.194.197.200\n173.194.197.81\n173.194.197.91\n173.194.200.106\n173.194.200.112\n173.194.200.117\n173.194.200.120\n173.194.200.123\n173.194.200.124\n173.194.200.133\n173.194.200.136\n173.194.200.137\n173.194.200.138\n173.194.200.142\n173.194.200.146\n173.194.200.148\n173.194.200.154\n173.194.200.155\n173.194.200.156\n173.194.200.164\n173.194.200.165\n173.194.200.167\n173.194.200.17\n173.194.200.190\n173.194.200.193\n173.194.200.197\n173.194.200.200\n173.194.200.31\n173.194.200.81\n173.194.200.82\n173.194.200.84\n173.194.200.90\n173.194.200.91\n173.194.200.93\n173.194.200.94\n173.194.200.95\n173.194.201.102\n173.194.201.104\n173.194.201.105\n173.194.201.106\n173.194.201.113\n173.194.201.116\n173.194.201.118\n173.194.201.123\n173.194.201.132\n173.194.201.137\n173.194.201.139\n173.194.201.142\n173.194.201.144\n173.194.201.149\n173.194.201.154\n173.194.201.157\n173.194.201.165\n173.194.201.166\n173.194.201.167\n173.194.201.17\n173.194.201.176\n173.194.201.189\n173.194.201.19\n173.194.201.191\n173.194.201.193\n173.194.201.195')
+173.194.124.40
+ping timeout: 173.194.124.40 (icmp_seq=1) 
+ping timeout: 173.194.124.40 (icmp_seq=1) 
+ping timeout: 173.194.124.40 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.124.40 -1.00
+173.194.124.59
+ping timeout: 173.194.124.59 (icmp_seq=1) 
+ping timeout: 173.194.124.59 (icmp_seq=1) 
+ping timeout: 173.194.124.59 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.124.59 -1.00
+173.194.124.65
+ping timeout: 173.194.124.65 (icmp_seq=1) 
+ping timeout: 173.194.124.65 (icmp_seq=1) 
+ping timeout: 173.194.124.65 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.124.65 -1.00
+173.194.192.115
+average time: 267.19 (ms), 0 lost
+173.194.192.115 267.19
+173.194.192.117
+ping timeout: 173.194.192.117 (icmp_seq=1) 
+ping timeout: 173.194.192.117 (icmp_seq=1) 
+ping timeout: 173.194.192.117 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.192.117 -1.00
+173.194.192.147
+average time: 271.00 (ms), 0 lost
+173.194.192.147 271.00
+173.194.192.164
+ping timeout: 173.194.192.164 (icmp_seq=1) 
+ping timeout: 173.194.192.164 (icmp_seq=1) 
+ping timeout: 173.194.192.164 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.192.164 -1.00
+173.194.192.165
+ping timeout: 173.194.192.165 (icmp_seq=1) 
+ping timeout: 173.194.192.165 (icmp_seq=1) 
+ping timeout: 173.194.192.165 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.192.165 -1.00
+173.194.192.195
+ping timeout: 173.194.192.195 (icmp_seq=1) 
+ping timeout: 173.194.192.195 (icmp_seq=1) 
+ping timeout: 173.194.192.195 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.192.195 -1.00
+173.194.192.201
+ping timeout: 173.194.192.201 (icmp_seq=1) 
+ping timeout: 173.194.192.201 (icmp_seq=1) 
+ping timeout: 173.194.192.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.192.201 -1.00
+173.194.193.200
+ping timeout: 173.194.193.200 (icmp_seq=1) 
+ping timeout: 173.194.193.200 (icmp_seq=1) 
+ping timeout: 173.194.193.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.193.200 -1.00
+173.194.193.201
+ping timeout: 173.194.193.201 (icmp_seq=1) 
+ping timeout: 173.194.193.201 (icmp_seq=1) 
+ping timeout: 173.194.193.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.193.201 -1.00
+173.194.194.123
+ping timeout: 173.194.194.123 (icmp_seq=1) 
+ping timeout: 173.194.194.123 (icmp_seq=1) 
+ping timeout: 173.194.194.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.194.123 -1.00
+173.194.194.133
+ping timeout: 173.194.194.133 (icmp_seq=1) 
+ping timeout: 173.194.194.133 (icmp_seq=1) 
+ping timeout: 173.194.194.133 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.194.133 -1.00
+173.194.194.143
+ping timeout: 173.194.194.143 (icmp_seq=1) 
+ping timeout: 173.194.194.143 (icmp_seq=1) 
+ping timeout: 173.194.194.143 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.194.143 -1.00
+173.194.194.165
+ping timeout: 173.194.194.165 (icmp_seq=1) 
+ping timeout: 173.194.194.165 (icmp_seq=1) 
+ping timeout: 173.194.194.165 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.194.165 -1.00
+173.194.194.191
+ping timeout: 173.194.194.191 (icmp_seq=1) 
+ping timeout: 173.194.194.191 (icmp_seq=1) 
+ping timeout: 173.194.194.191 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.194.191 -1.00
+173.194.194.200
+ping timeout: 173.194.194.200 (icmp_seq=1) 
+ping timeout: 173.194.194.200 (icmp_seq=1) 
+ping timeout: 173.194.194.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.194.200 -1.00
+173.194.194.201
+ping timeout: 173.194.194.201 (icmp_seq=1) 
+ping timeout: 173.194.194.201 (icmp_seq=1) 
+ping timeout: 173.194.194.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.194.201 -1.00
+173.194.194.87
+average time: 270.61 (ms), 0 lost
+ 173.194.194.87 270.61
+173.194.195.117
+average time: 266.18 (ms), 0 lost
+173.194.195.117 266.18
+173.194.195.142
+ping timeout: 173.194.195.142 (icmp_seq=1) 
+ping timeout: 173.194.195.142 (icmp_seq=1) 
+ping timeout: 173.194.195.142 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.195.142 -1.00
+173.194.195.157
+ping timeout: 173.194.195.157 (icmp_seq=1) 
+ping timeout: 173.194.195.157 (icmp_seq=1) 
+ping timeout: 173.194.195.157 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.195.157 -1.00
+173.194.195.195
+ping timeout: 173.194.195.195 (icmp_seq=1) 
+ping timeout: 173.194.195.195 (icmp_seq=1) 
+ping timeout: 173.194.195.195 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.195.195 -1.00
+173.194.195.200
+ping timeout: 173.194.195.200 (icmp_seq=1) 
+ping timeout: 173.194.195.200 (icmp_seq=1) 
+ping timeout: 173.194.195.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.195.200 -1.00
+173.194.195.201
+ping timeout: 173.194.195.201 (icmp_seq=1) 
+ping timeout: 173.194.195.201 (icmp_seq=1) 
+ping timeout: 173.194.195.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.195.201 -1.00
+173.194.195.83
+ping timeout: 173.194.195.83 (icmp_seq=1) 
+ping timeout: 173.194.195.83 (icmp_seq=1) 
+ping timeout: 173.194.195.83 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.195.83 -1.00
+173.194.196.100
+average time: 251.00 (ms), 0 lost
+173.194.196.100 251.00
+173.194.196.105
+ping timeout: 173.194.196.105 (icmp_seq=1) 
+ping timeout: 173.194.196.105 (icmp_seq=1) 
+ping timeout: 173.194.196.105 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.196.105 -1.00
+173.194.196.113
+average time: 286.27 (ms), 0 lost
+173.194.196.113 286.27
+173.194.196.122
+ping timeout: 173.194.196.122 (icmp_seq=1) 
+ping timeout: 173.194.196.122 (icmp_seq=1) 
+ping timeout: 173.194.196.122 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.196.122 -1.00
+173.194.196.136
+ping timeout: 173.194.196.136 (icmp_seq=1) 
+ping timeout: 173.194.196.136 (icmp_seq=1) 
+ping timeout: 173.194.196.136 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.196.136 -1.00
+173.194.196.199
+average time: 269.34 (ms), 0 lost
+173.194.196.199 269.34
+173.194.196.201
+ping timeout: 173.194.196.201 (icmp_seq=1) 
+ping timeout: 173.194.196.201 (icmp_seq=1) 
+ping timeout: 173.194.196.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.196.201 -1.00
+173.194.196.85
+ping timeout: 173.194.196.85 (icmp_seq=1) 
+ping timeout: 173.194.196.85 (icmp_seq=1) 
+ping timeout: 173.194.196.85 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.196.85 -1.00
+173.194.196.94
+average time: 266.29 (ms), 0 lost
+ 173.194.196.94 266.29
+173.194.197.145
+ping timeout: 173.194.197.145 (icmp_seq=1) 
+ping timeout: 173.194.197.145 (icmp_seq=1) 
+ping timeout: 173.194.197.145 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.197.145 -1.00
+173.194.197.157
+average time: 271.44 (ms), 0 lost
+173.194.197.157 271.44
+173.194.197.200
+ping timeout: 173.194.197.200 (icmp_seq=1) 
+ping timeout: 173.194.197.200 (icmp_seq=1) 
+ping timeout: 173.194.197.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.197.200 -1.00
+173.194.197.81
+ping timeout: 173.194.197.81 (icmp_seq=1) 
+ping timeout: 173.194.197.81 (icmp_seq=1) 
+ping timeout: 173.194.197.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.197.81 -1.00
+173.194.197.91
+ping timeout: 173.194.197.91 (icmp_seq=1) 
+ping timeout: 173.194.197.91 (icmp_seq=1) 
+ping timeout: 173.194.197.91 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.197.91 -1.00
+173.194.200.106
+ping timeout: 173.194.200.106 (icmp_seq=1) 
+ping timeout: 173.194.200.106 (icmp_seq=1) 
+ping timeout: 173.194.200.106 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.106 -1.00
+173.194.200.112
+ping timeout: 173.194.200.112 (icmp_seq=1) 
+ping timeout: 173.194.200.112 (icmp_seq=1) 
+ping timeout: 173.194.200.112 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.112 -1.00
+173.194.200.117
+ping timeout: 173.194.200.117 (icmp_seq=1) 
+ping timeout: 173.194.200.117 (icmp_seq=1) 
+ping timeout: 173.194.200.117 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.117 -1.00
+173.194.200.120
+ping timeout: 173.194.200.120 (icmp_seq=1) 
+ping timeout: 173.194.200.120 (icmp_seq=1) 
+ping timeout: 173.194.200.120 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.120 -1.00
+173.194.200.123
+ping timeout: 173.194.200.123 (icmp_seq=1) 
+ping timeout: 173.194.200.123 (icmp_seq=1) 
+ping timeout: 173.194.200.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.123 -1.00
+173.194.200.124
+ping timeout: 173.194.200.124 (icmp_seq=1) 
+ping timeout: 173.194.200.124 (icmp_seq=1) 
+ping timeout: 173.194.200.124 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.124 -1.00
+173.194.200.133
+ping timeout: 173.194.200.133 (icmp_seq=1) 
+ping timeout: 173.194.200.133 (icmp_seq=1) 
+ping timeout: 173.194.200.133 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.133 -1.00
+173.194.200.136
+ping timeout: 173.194.200.136 (icmp_seq=1) 
+ping timeout: 173.194.200.136 (icmp_seq=1) 
+ping timeout: 173.194.200.136 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.136 -1.00
+173.194.200.137
+ping timeout: 173.194.200.137 (icmp_seq=1) 
+ping timeout: 173.194.200.137 (icmp_seq=1) 
+ping timeout: 173.194.200.137 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.137 -1.00
+173.194.200.138
+ping timeout: 173.194.200.138 (icmp_seq=1) 
+ping timeout: 173.194.200.138 (icmp_seq=1) 
+ping timeout: 173.194.200.138 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.138 -1.00
+173.194.200.142
+ping timeout: 173.194.200.142 (icmp_seq=1) 
+ping timeout: 173.194.200.142 (icmp_seq=1) 
+ping timeout: 173.194.200.142 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.142 -1.00
+173.194.200.146
+ping timeout: 173.194.200.146 (icmp_seq=1) 
+ping timeout: 173.194.200.146 (icmp_seq=1) 
+ping timeout: 173.194.200.146 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.146 -1.00
+173.194.200.148
+ping timeout: 173.194.200.148 (icmp_seq=1) 
+ping timeout: 173.194.200.148 (icmp_seq=1) 
+ping timeout: 173.194.200.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.148 -1.00
+173.194.200.154
+ping timeout: 173.194.200.154 (icmp_seq=1) 
+ping timeout: 173.194.200.154 (icmp_seq=1) 
+ping timeout: 173.194.200.154 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.154 -1.00
+173.194.200.155
+ping timeout: 173.194.200.155 (icmp_seq=1) 
+ping timeout: 173.194.200.155 (icmp_seq=1) 
+ping timeout: 173.194.200.155 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.155 -1.00
+173.194.200.156
+ping timeout: 173.194.200.156 (icmp_seq=1) 
+ping timeout: 173.194.200.156 (icmp_seq=1) 
+ping timeout: 173.194.200.156 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.156 -1.00
+173.194.200.164
+ping timeout: 173.194.200.164 (icmp_seq=1) 
+ping timeout: 173.194.200.164 (icmp_seq=1) 
+ping timeout: 173.194.200.164 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.164 -1.00
+173.194.200.165
+ping timeout: 173.194.200.165 (icmp_seq=1) 
+ping timeout: 173.194.200.165 (icmp_seq=1) 
+ping timeout: 173.194.200.165 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.165 -1.00
+173.194.200.167
+ping timeout: 173.194.200.167 (icmp_seq=1) 
+ping timeout: 173.194.200.167 (icmp_seq=1) 
+ping timeout: 173.194.200.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.167 -1.00
+173.194.200.17
+ping timeout: 173.194.200.17 (icmp_seq=1) 
+ping timeout: 173.194.200.17 (icmp_seq=1) 
+ping timeout: 173.194.200.17 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.200.17 -1.00
+173.194.200.190
+ping timeout: 173.194.200.190 (icmp_seq=1) 
+ping timeout: 173.194.200.190 (icmp_seq=1) 
+ping timeout: 173.194.200.190 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.190 -1.00
+173.194.200.193
+ping timeout: 173.194.200.193 (icmp_seq=1) 
+ping timeout: 173.194.200.193 (icmp_seq=1) 
+ping timeout: 173.194.200.193 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.193 -1.00
+173.194.200.197
+ping timeout: 173.194.200.197 (icmp_seq=1) 
+ping timeout: 173.194.200.197 (icmp_seq=1) 
+ping timeout: 173.194.200.197 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.197 -1.00
+173.194.200.200
+ping timeout: 173.194.200.200 (icmp_seq=1) 
+ping timeout: 173.194.200.200 (icmp_seq=1) 
+ping timeout: 173.194.200.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.200.200 -1.00
+173.194.200.31
+ping timeout: 173.194.200.31 (icmp_seq=1) 
+ping timeout: 173.194.200.31 (icmp_seq=1) 
+ping timeout: 173.194.200.31 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.200.31 -1.00
+173.194.200.81
+ping timeout: 173.194.200.81 (icmp_seq=1) 
+ping timeout: 173.194.200.81 (icmp_seq=1) 
+ping timeout: 173.194.200.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.200.81 -1.00
+173.194.200.82
+ping timeout: 173.194.200.82 (icmp_seq=1) 
+ping timeout: 173.194.200.82 (icmp_seq=1) 
+ping timeout: 173.194.200.82 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.200.82 -1.00
+173.194.200.84
+ping timeout: 173.194.200.84 (icmp_seq=1) 
+ping timeout: 173.194.200.84 (icmp_seq=1) 
+ping timeout: 173.194.200.84 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.200.84 -1.00
+173.194.200.90
+average time: 275.66 (ms), 0 lost
+ 173.194.200.90 275.66
+173.194.200.91
+ping timeout: 173.194.200.91 (icmp_seq=1) 
+ping timeout: 173.194.200.91 (icmp_seq=1) 
+ping timeout: 173.194.200.91 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.200.91 -1.00
+173.194.200.93
+ping timeout: 173.194.200.93 (icmp_seq=1) 
+ping timeout: 173.194.200.93 (icmp_seq=1) 
+ping timeout: 173.194.200.93 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.200.93 -1.00
+173.194.200.94
+ping timeout: 173.194.200.94 (icmp_seq=1) 
+ping timeout: 173.194.200.94 (icmp_seq=1) 
+ping timeout: 173.194.200.94 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.200.94 -1.00
+173.194.200.95
+ping timeout: 173.194.200.95 (icmp_seq=1) 
+ping timeout: 173.194.200.95 (icmp_seq=1) 
+ping timeout: 173.194.200.95 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.200.95 -1.00
+173.194.201.102
+ping timeout: 173.194.201.102 (icmp_seq=1) 
+ping timeout: 173.194.201.102 (icmp_seq=1) 
+ping timeout: 173.194.201.102 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.102 -1.00
+173.194.201.104
+ping timeout: 173.194.201.104 (icmp_seq=1) 
+ping timeout: 173.194.201.104 (icmp_seq=1) 
+ping timeout: 173.194.201.104 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.104 -1.00
+173.194.201.105
+ping timeout: 173.194.201.105 (icmp_seq=1) 
+ping timeout: 173.194.201.105 (icmp_seq=1) 
+ping timeout: 173.194.201.105 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.105 -1.00
+173.194.201.106
+ping timeout: 173.194.201.106 (icmp_seq=1) 
+ping timeout: 173.194.201.106 (icmp_seq=1) 
+ping timeout: 173.194.201.106 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.106 -1.00
+173.194.201.113
+ping timeout: 173.194.201.113 (icmp_seq=1) 
+ping timeout: 173.194.201.113 (icmp_seq=1) 
+ping timeout: 173.194.201.113 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.113 -1.00
+173.194.201.116
+ping timeout: 173.194.201.116 (icmp_seq=1) 
+ping timeout: 173.194.201.116 (icmp_seq=1) 
+ping timeout: 173.194.201.116 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.116 -1.00
+173.194.201.118
+ping timeout: 173.194.201.118 (icmp_seq=1) 
+ping timeout: 173.194.201.118 (icmp_seq=1) 
+ping timeout: 173.194.201.118 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.118 -1.00
+173.194.201.123
+ping timeout: 173.194.201.123 (icmp_seq=1) 
+ping timeout: 173.194.201.123 (icmp_seq=1) 
+ping timeout: 173.194.201.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.123 -1.00
+173.194.201.132
+ping timeout: 173.194.201.132 (icmp_seq=1) 
+ping timeout: 173.194.201.132 (icmp_seq=1) 
+ping timeout: 173.194.201.132 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.132 -1.00
+173.194.201.137
+ping timeout: 173.194.201.137 (icmp_seq=1) 
+ping timeout: 173.194.201.137 (icmp_seq=1) 
+ping timeout: 173.194.201.137 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.137 -1.00
+173.194.201.139
+ping timeout: 173.194.201.139 (icmp_seq=1) 
+ping timeout: 173.194.201.139 (icmp_seq=1) 
+ping timeout: 173.194.201.139 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.139 -1.00
+173.194.201.142
+ping timeout: 173.194.201.142 (icmp_seq=1) 
+ping timeout: 173.194.201.142 (icmp_seq=1) 
+ping timeout: 173.194.201.142 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.142 -1.00
+173.194.201.144
+ping timeout: 173.194.201.144 (icmp_seq=1) 
+ping timeout: 173.194.201.144 (icmp_seq=1) 
+ping timeout: 173.194.201.144 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.144 -1.00
+173.194.201.149
+ping timeout: 173.194.201.149 (icmp_seq=1) 
+ping timeout: 173.194.201.149 (icmp_seq=1) 
+ping timeout: 173.194.201.149 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.149 -1.00
+173.194.201.154
+ping timeout: 173.194.201.154 (icmp_seq=1) 
+ping timeout: 173.194.201.154 (icmp_seq=1) 
+ping timeout: 173.194.201.154 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.154 -1.00
+173.194.201.157
+ping timeout: 173.194.201.157 (icmp_seq=1) 
+ping timeout: 173.194.201.157 (icmp_seq=1) 
+ping timeout: 173.194.201.157 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.157 -1.00
+173.194.201.165
+ping timeout: 173.194.201.165 (icmp_seq=1) 
+ping timeout: 173.194.201.165 (icmp_seq=1) 
+ping timeout: 173.194.201.165 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.165 -1.00
+173.194.201.166
+ping timeout: 173.194.201.166 (icmp_seq=1) 
+ping timeout: 173.194.201.166 (icmp_seq=1) 
+ping timeout: 173.194.201.166 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.166 -1.00
+173.194.201.167
+ping timeout: 173.194.201.167 (icmp_seq=1) 
+ping timeout: 173.194.201.167 (icmp_seq=1) 
+ping timeout: 173.194.201.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.167 -1.00
+173.194.201.17
+ping timeout: 173.194.201.17 (icmp_seq=1) 
+ping timeout: 173.194.201.17 (icmp_seq=1) 
+ping timeout: 173.194.201.17 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.17 -1.00
+173.194.201.176
+ping timeout: 173.194.201.176 (icmp_seq=1) 
+ping timeout: 173.194.201.176 (icmp_seq=1) 
+ping timeout: 173.194.201.176 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.176 -1.00
+173.194.201.189
+ping timeout: 173.194.201.189 (icmp_seq=1) 
+ping timeout: 173.194.201.189 (icmp_seq=1) 
+ping timeout: 173.194.201.189 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.189 -1.00
+173.194.201.19
+ping timeout: 173.194.201.19 (icmp_seq=1) 
+ping timeout: 173.194.201.19 (icmp_seq=1) 
+ping timeout: 173.194.201.19 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.19 -1.00
+173.194.201.191
+ping timeout: 173.194.201.191 (icmp_seq=1) 
+ping timeout: 173.194.201.191 (icmp_seq=1) 
+ping timeout: 173.194.201.191 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.191 -1.00
+173.194.201.193
+ping timeout: 173.194.201.193 (icmp_seq=1) 
+ping timeout: 173.194.201.193 (icmp_seq=1) 
+ping timeout: 173.194.201.193 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.193 -1.00
+173.194.201.195
+ping timeout: 173.194.201.195 (icmp_seq=1) 
+ping timeout: 173.194.201.195 (icmp_seq=1) 
+ping timeout: 173.194.201.195 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.195 -1.00
+mysql -uroot -ptango9896 google_ip -e "select ip from history_ips limit 601,100"
+(0, 'ip\n173.194.201.196\n173.194.201.197\n173.194.201.198\n173.194.201.201\n173.194.201.81\n173.194.201.83\n173.194.201.85\n173.194.201.86\n173.194.201.94\n173.194.201.96\n173.194.201.98\n173.194.201.99\n173.194.202.114\n173.194.202.116\n173.194.202.123\n173.194.202.124\n173.194.202.136\n173.194.202.137\n173.194.202.138\n173.194.202.143\n173.194.202.146\n173.194.202.149\n173.194.202.190\n173.194.202.196\n173.194.202.200\n173.194.202.201\n173.194.202.31\n173.194.202.81\n173.194.202.86\n173.194.202.87\n173.194.202.94\n173.194.202.96\n173.194.202.98\n173.194.203.122\n173.194.203.123\n173.194.203.136\n173.194.203.143\n173.194.203.144\n173.194.203.148\n173.194.203.152\n173.194.203.176\n173.194.203.191\n173.194.203.193\n173.194.203.195\n173.194.203.200\n173.194.203.201\n173.194.203.81\n173.194.203.90\n173.194.203.94\n173.194.203.99\n173.194.204.100\n173.194.204.103\n173.194.204.152\n173.194.204.164\n173.194.204.19\n173.194.205.132\n173.194.205.136\n173.194.205.146\n173.194.205.149\n173.194.205.154\n173.194.205.176\n173.194.205.201\n173.194.205.81\n173.194.205.99\n173.194.206.138\n173.194.206.191\n173.194.206.194\n173.194.207.118\n173.194.207.201\n173.194.208.116\n173.194.208.137\n173.194.208.138\n173.194.208.139\n173.194.208.17\n173.194.208.195\n173.194.208.200\n173.194.208.201\n173.194.209.18\n173.194.21.76\n173.194.210.152\n173.194.210.194\n173.194.210.196\n173.194.210.200\n173.194.210.95\n173.194.211.114\n173.194.211.138\n173.194.211.149\n173.194.211.200\n173.194.211.201\n173.194.212.137\n173.194.212.190\n173.194.212.200\n173.194.212.82\n173.194.213.101\n173.194.213.102\n173.194.213.103\n173.194.213.104\n173.194.213.112\n173.194.213.114\n173.194.213.115')
+173.194.201.196
+ping timeout: 173.194.201.196 (icmp_seq=1) 
+ping timeout: 173.194.201.196 (icmp_seq=1) 
+ping timeout: 173.194.201.196 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.196 -1.00
+173.194.201.197
+ping timeout: 173.194.201.197 (icmp_seq=1) 
+ping timeout: 173.194.201.197 (icmp_seq=1) 
+ping timeout: 173.194.201.197 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.197 -1.00
+173.194.201.198
+ping timeout: 173.194.201.198 (icmp_seq=1) 
+ping timeout: 173.194.201.198 (icmp_seq=1) 
+ping timeout: 173.194.201.198 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.198 -1.00
+173.194.201.201
+ping timeout: 173.194.201.201 (icmp_seq=1) 
+ping timeout: 173.194.201.201 (icmp_seq=1) 
+ping timeout: 173.194.201.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.201.201 -1.00
+173.194.201.81
+ping timeout: 173.194.201.81 (icmp_seq=1) 
+ping timeout: 173.194.201.81 (icmp_seq=1) 
+ping timeout: 173.194.201.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.81 -1.00
+173.194.201.83
+ping timeout: 173.194.201.83 (icmp_seq=1) 
+ping timeout: 173.194.201.83 (icmp_seq=1) 
+ping timeout: 173.194.201.83 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.83 -1.00
+173.194.201.85
+ping timeout: 173.194.201.85 (icmp_seq=1) 
+ping timeout: 173.194.201.85 (icmp_seq=1) 
+ping timeout: 173.194.201.85 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.85 -1.00
+173.194.201.86
+ping timeout: 173.194.201.86 (icmp_seq=1) 
+ping timeout: 173.194.201.86 (icmp_seq=1) 
+ping timeout: 173.194.201.86 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.86 -1.00
+173.194.201.94
+ping timeout: 173.194.201.94 (icmp_seq=1) 
+ping timeout: 173.194.201.94 (icmp_seq=1) 
+ping timeout: 173.194.201.94 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.94 -1.00
+173.194.201.96
+ping timeout: 173.194.201.96 (icmp_seq=1) 
+ping timeout: 173.194.201.96 (icmp_seq=1) 
+ping timeout: 173.194.201.96 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.96 -1.00
+173.194.201.98
+ping timeout: 173.194.201.98 (icmp_seq=1) 
+ping timeout: 173.194.201.98 (icmp_seq=1) 
+ping timeout: 173.194.201.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.98 -1.00
+173.194.201.99
+ping timeout: 173.194.201.99 (icmp_seq=1) 
+ping timeout: 173.194.201.99 (icmp_seq=1) 
+ping timeout: 173.194.201.99 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.201.99 -1.00
+173.194.202.114
+ping timeout: 173.194.202.114 (icmp_seq=1) 
+ping timeout: 173.194.202.114 (icmp_seq=1) 
+ping timeout: 173.194.202.114 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.114 -1.00
+173.194.202.116
+ping timeout: 173.194.202.116 (icmp_seq=1) 
+ping timeout: 173.194.202.116 (icmp_seq=1) 
+ping timeout: 173.194.202.116 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.116 -1.00
+173.194.202.123
+ping timeout: 173.194.202.123 (icmp_seq=1) 
+ping timeout: 173.194.202.123 (icmp_seq=1) 
+ping timeout: 173.194.202.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.123 -1.00
+173.194.202.124
+ping timeout: 173.194.202.124 (icmp_seq=1) 
+ping timeout: 173.194.202.124 (icmp_seq=1) 
+ping timeout: 173.194.202.124 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.124 -1.00
+173.194.202.136
+ping timeout: 173.194.202.136 (icmp_seq=1) 
+ping timeout: 173.194.202.136 (icmp_seq=1) 
+ping timeout: 173.194.202.136 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.136 -1.00
+173.194.202.137
+ping timeout: 173.194.202.137 (icmp_seq=1) 
+ping timeout: 173.194.202.137 (icmp_seq=1) 
+ping timeout: 173.194.202.137 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.137 -1.00
+173.194.202.138
+ping timeout: 173.194.202.138 (icmp_seq=1) 
+ping timeout: 173.194.202.138 (icmp_seq=1) 
+ping timeout: 173.194.202.138 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.138 -1.00
+173.194.202.143
+ping timeout: 173.194.202.143 (icmp_seq=1) 
+ping timeout: 173.194.202.143 (icmp_seq=1) 
+ping timeout: 173.194.202.143 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.143 -1.00
+173.194.202.146
+ping timeout: 173.194.202.146 (icmp_seq=1) 
+ping timeout: 173.194.202.146 (icmp_seq=1) 
+ping timeout: 173.194.202.146 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.146 -1.00
+173.194.202.149
+ping timeout: 173.194.202.149 (icmp_seq=1) 
+ping timeout: 173.194.202.149 (icmp_seq=1) 
+ping timeout: 173.194.202.149 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.149 -1.00
+173.194.202.190
+ping timeout: 173.194.202.190 (icmp_seq=1) 
+ping timeout: 173.194.202.190 (icmp_seq=1) 
+ping timeout: 173.194.202.190 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.190 -1.00
+173.194.202.196
+ping timeout: 173.194.202.196 (icmp_seq=1) 
+ping timeout: 173.194.202.196 (icmp_seq=1) 
+ping timeout: 173.194.202.196 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.196 -1.00
+173.194.202.200
+ping timeout: 173.194.202.200 (icmp_seq=1) 
+ping timeout: 173.194.202.200 (icmp_seq=1) 
+ping timeout: 173.194.202.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.200 -1.00
+173.194.202.201
+ping timeout: 173.194.202.201 (icmp_seq=1) 
+ping timeout: 173.194.202.201 (icmp_seq=1) 
+ping timeout: 173.194.202.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.202.201 -1.00
+173.194.202.31
+ping timeout: 173.194.202.31 (icmp_seq=1) 
+ping timeout: 173.194.202.31 (icmp_seq=1) 
+ping timeout: 173.194.202.31 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.202.31 -1.00
+173.194.202.81
+ping timeout: 173.194.202.81 (icmp_seq=1) 
+ping timeout: 173.194.202.81 (icmp_seq=1) 
+ping timeout: 173.194.202.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.202.81 -1.00
+173.194.202.86
+ping timeout: 173.194.202.86 (icmp_seq=1) 
+ping timeout: 173.194.202.86 (icmp_seq=1) 
+ping timeout: 173.194.202.86 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.202.86 -1.00
+173.194.202.87
+ping timeout: 173.194.202.87 (icmp_seq=1) 
+ping timeout: 173.194.202.87 (icmp_seq=1) 
+ping timeout: 173.194.202.87 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.202.87 -1.00
+173.194.202.94
+ping timeout: 173.194.202.94 (icmp_seq=1) 
+ping timeout: 173.194.202.94 (icmp_seq=1) 
+ping timeout: 173.194.202.94 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.202.94 -1.00
+173.194.202.96
+ping timeout: 173.194.202.96 (icmp_seq=1) 
+ping timeout: 173.194.202.96 (icmp_seq=1) 
+ping timeout: 173.194.202.96 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.202.96 -1.00
+173.194.202.98
+ping timeout: 173.194.202.98 (icmp_seq=1) 
+ping timeout: 173.194.202.98 (icmp_seq=1) 
+ping timeout: 173.194.202.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.202.98 -1.00
+173.194.203.122
+ping timeout: 173.194.203.122 (icmp_seq=1) 
+ping timeout: 173.194.203.122 (icmp_seq=1) 
+ping timeout: 173.194.203.122 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.122 -1.00
+173.194.203.123
+ping timeout: 173.194.203.123 (icmp_seq=1) 
+ping timeout: 173.194.203.123 (icmp_seq=1) 
+ping timeout: 173.194.203.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.123 -1.00
+173.194.203.136
+ping timeout: 173.194.203.136 (icmp_seq=1) 
+ping timeout: 173.194.203.136 (icmp_seq=1) 
+ping timeout: 173.194.203.136 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.136 -1.00
+173.194.203.143
+ping timeout: 173.194.203.143 (icmp_seq=1) 
+ping timeout: 173.194.203.143 (icmp_seq=1) 
+ping timeout: 173.194.203.143 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.143 -1.00
+173.194.203.144
+ping timeout: 173.194.203.144 (icmp_seq=1) 
+ping timeout: 173.194.203.144 (icmp_seq=1) 
+ping timeout: 173.194.203.144 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.144 -1.00
+173.194.203.148
+ping timeout: 173.194.203.148 (icmp_seq=1) 
+ping timeout: 173.194.203.148 (icmp_seq=1) 
+ping timeout: 173.194.203.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.148 -1.00
+173.194.203.152
+ping timeout: 173.194.203.152 (icmp_seq=1) 
+ping timeout: 173.194.203.152 (icmp_seq=1) 
+ping timeout: 173.194.203.152 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.152 -1.00
+173.194.203.176
+ping timeout: 173.194.203.176 (icmp_seq=1) 
+ping timeout: 173.194.203.176 (icmp_seq=1) 
+ping timeout: 173.194.203.176 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.176 -1.00
+173.194.203.191
+ping timeout: 173.194.203.191 (icmp_seq=1) 
+ping timeout: 173.194.203.191 (icmp_seq=1) 
+ping timeout: 173.194.203.191 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.191 -1.00
+173.194.203.193
+ping timeout: 173.194.203.193 (icmp_seq=1) 
+ping timeout: 173.194.203.193 (icmp_seq=1) 
+ping timeout: 173.194.203.193 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.193 -1.00
+173.194.203.195
+ping timeout: 173.194.203.195 (icmp_seq=1) 
+ping timeout: 173.194.203.195 (icmp_seq=1) 
+ping timeout: 173.194.203.195 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.195 -1.00
+173.194.203.200
+ping timeout: 173.194.203.200 (icmp_seq=1) 
+ping timeout: 173.194.203.200 (icmp_seq=1) 
+ping timeout: 173.194.203.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.200 -1.00
+173.194.203.201
+ping timeout: 173.194.203.201 (icmp_seq=1) 
+ping timeout: 173.194.203.201 (icmp_seq=1) 
+ping timeout: 173.194.203.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.203.201 -1.00
+173.194.203.81
+ping timeout: 173.194.203.81 (icmp_seq=1) 
+ping timeout: 173.194.203.81 (icmp_seq=1) 
+ping timeout: 173.194.203.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.203.81 -1.00
+173.194.203.90
+average time: 289.78 (ms), 0 lost
+ 173.194.203.90 289.78
+173.194.203.94
+ping timeout: 173.194.203.94 (icmp_seq=1) 
+ping timeout: 173.194.203.94 (icmp_seq=1) 
+ping timeout: 173.194.203.94 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.203.94 -1.00
+173.194.203.99
+ping timeout: 173.194.203.99 (icmp_seq=1) 
+ping timeout: 173.194.203.99 (icmp_seq=1) 
+ping timeout: 173.194.203.99 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.203.99 -1.00
+173.194.204.100
+ping timeout: 173.194.204.100 (icmp_seq=1) 
+ping timeout: 173.194.204.100 (icmp_seq=1) 
+ping timeout: 173.194.204.100 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.204.100 -1.00
+173.194.204.103
+ping timeout: 173.194.204.103 (icmp_seq=1) 
+ping timeout: 173.194.204.103 (icmp_seq=1) 
+ping timeout: 173.194.204.103 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.204.103 -1.00
+173.194.204.152
+average time: 353.83 (ms), 0 lost
+173.194.204.152 353.83
+173.194.204.164
+ping timeout: 173.194.204.164 (icmp_seq=1) 
+ping timeout: 173.194.204.164 (icmp_seq=1) 
+ping timeout: 173.194.204.164 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.204.164 -1.00
+173.194.204.19
+ping timeout: 173.194.204.19 (icmp_seq=1) 
+ping timeout: 173.194.204.19 (icmp_seq=1) 
+ping timeout: 173.194.204.19 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.204.19 -1.00
+173.194.205.132
+ping timeout: 173.194.205.132 (icmp_seq=1) 
+ping timeout: 173.194.205.132 (icmp_seq=1) 
+ping timeout: 173.194.205.132 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.205.132 -1.00
+173.194.205.136
+ping timeout: 173.194.205.136 (icmp_seq=1) 
+ping timeout: 173.194.205.136 (icmp_seq=1) 
+ping timeout: 173.194.205.136 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.205.136 -1.00
+173.194.205.146
+ping timeout: 173.194.205.146 (icmp_seq=1) 
+ping timeout: 173.194.205.146 (icmp_seq=1) 
+ping timeout: 173.194.205.146 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.205.146 -1.00
+173.194.205.149
+ping timeout: 173.194.205.149 (icmp_seq=1) 
+ping timeout: 173.194.205.149 (icmp_seq=1) 
+ping timeout: 173.194.205.149 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.205.149 -1.00
+173.194.205.154
+ping timeout: 173.194.205.154 (icmp_seq=1) 
+ping timeout: 173.194.205.154 (icmp_seq=1) 
+ping timeout: 173.194.205.154 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.205.154 -1.00
+173.194.205.176
+ping timeout: 173.194.205.176 (icmp_seq=1) 
+ping timeout: 173.194.205.176 (icmp_seq=1) 
+ping timeout: 173.194.205.176 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.205.176 -1.00
+173.194.205.201
+ping timeout: 173.194.205.201 (icmp_seq=1) 
+ping timeout: 173.194.205.201 (icmp_seq=1) 
+ping timeout: 173.194.205.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.205.201 -1.00
+173.194.205.81
+ping timeout: 173.194.205.81 (icmp_seq=1) 
+ping timeout: 173.194.205.81 (icmp_seq=1) 
+ping timeout: 173.194.205.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.205.81 -1.00
+173.194.205.99
+ping timeout: 173.194.205.99 (icmp_seq=1) 
+ping timeout: 173.194.205.99 (icmp_seq=1) 
+ping timeout: 173.194.205.99 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.205.99 -1.00
+173.194.206.138
+ping timeout: 173.194.206.138 (icmp_seq=1) 
+ping timeout: 173.194.206.138 (icmp_seq=1) 
+ping timeout: 173.194.206.138 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.206.138 -1.00
+173.194.206.191
+ping timeout: 173.194.206.191 (icmp_seq=1) 
+ping timeout: 173.194.206.191 (icmp_seq=1) 
+ping timeout: 173.194.206.191 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.206.191 -1.00
+173.194.206.194
+ping timeout: 173.194.206.194 (icmp_seq=1) 
+ping timeout: 173.194.206.194 (icmp_seq=1) 
+ping timeout: 173.194.206.194 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.206.194 -1.00
+173.194.207.118
+average time: 305.11 (ms), 0 lost
+173.194.207.118 305.11
+173.194.207.201
+ping timeout: 173.194.207.201 (icmp_seq=1) 
+ping timeout: 173.194.207.201 (icmp_seq=1) 
+ping timeout: 173.194.207.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.207.201 -1.00
+173.194.208.116
+ping timeout: 173.194.208.116 (icmp_seq=1) 
+ping timeout: 173.194.208.116 (icmp_seq=1) 
+ping timeout: 173.194.208.116 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.208.116 -1.00
+173.194.208.137
+ping timeout: 173.194.208.137 (icmp_seq=1) 
+ping timeout: 173.194.208.137 (icmp_seq=1) 
+ping timeout: 173.194.208.137 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.208.137 -1.00
+173.194.208.138
+average time: 316.53 (ms), 0 lost
+173.194.208.138 316.53
+173.194.208.139
+ping timeout: 173.194.208.139 (icmp_seq=1) 
+ping timeout: 173.194.208.139 (icmp_seq=1) 
+ping timeout: 173.194.208.139 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.208.139 -1.00
+173.194.208.17
+ping timeout: 173.194.208.17 (icmp_seq=1) 
+ping timeout: 173.194.208.17 (icmp_seq=1) 
+ping timeout: 173.194.208.17 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.208.17 -1.00
+173.194.208.195
+average time: 320.49 (ms), 0 lost
+173.194.208.195 320.49
+173.194.208.200
+ping timeout: 173.194.208.200 (icmp_seq=1) 
+ping timeout: 173.194.208.200 (icmp_seq=1) 
+ping timeout: 173.194.208.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.208.200 -1.00
+173.194.208.201
+ping timeout: 173.194.208.201 (icmp_seq=1) 
+ping timeout: 173.194.208.201 (icmp_seq=1) 
+ping timeout: 173.194.208.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.208.201 -1.00
+173.194.209.18
+average time: 376.42 (ms), 0 lost
+ 173.194.209.18 376.42
+173.194.21.76
+ping timeout: 173.194.21.76 (icmp_seq=1) 
+ping timeout: 173.194.21.76 (icmp_seq=1) 
+ping timeout: 173.194.21.76 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.21.76 -1.00
+173.194.210.152
+average time: 274.13 (ms), 0 lost
+173.194.210.152 274.13
+173.194.210.194
+average time: 270.37 (ms), 0 lost
+173.194.210.194 270.37
+173.194.210.196
+ping timeout: 173.194.210.196 (icmp_seq=1) 
+ping timeout: 173.194.210.196 (icmp_seq=1) 
+ping timeout: 173.194.210.196 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.210.196 -1.00
+173.194.210.200
+ping timeout: 173.194.210.200 (icmp_seq=1) 
+ping timeout: 173.194.210.200 (icmp_seq=1) 
+ping timeout: 173.194.210.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.210.200 -1.00
+173.194.210.95
+ping timeout: 173.194.210.95 (icmp_seq=1) 
+ping timeout: 173.194.210.95 (icmp_seq=1) 
+ping timeout: 173.194.210.95 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.210.95 -1.00
+173.194.211.114
+average time: 379.41 (ms), 0 lost
+173.194.211.114 379.41
+173.194.211.138
+ping timeout: 173.194.211.138 (icmp_seq=1) 
+ping timeout: 173.194.211.138 (icmp_seq=1) 
+ping timeout: 173.194.211.138 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.211.138 -1.00
+173.194.211.149
+ping timeout: 173.194.211.149 (icmp_seq=1) 
+ping timeout: 173.194.211.149 (icmp_seq=1) 
+ping timeout: 173.194.211.149 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.211.149 -1.00
+173.194.211.200
+ping timeout: 173.194.211.200 (icmp_seq=1) 
+ping timeout: 173.194.211.200 (icmp_seq=1) 
+ping timeout: 173.194.211.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.211.200 -1.00
+173.194.211.201
+ping timeout: 173.194.211.201 (icmp_seq=1) 
+ping timeout: 173.194.211.201 (icmp_seq=1) 
+ping timeout: 173.194.211.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.211.201 -1.00
+173.194.212.137
+ping timeout: 173.194.212.137 (icmp_seq=1) 
+ping timeout: 173.194.212.137 (icmp_seq=1) 
+ping timeout: 173.194.212.137 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.212.137 -1.00
+173.194.212.190
+ping timeout: 173.194.212.190 (icmp_seq=1) 
+ping timeout: 173.194.212.190 (icmp_seq=1) 
+ping timeout: 173.194.212.190 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.212.190 -1.00
+173.194.212.200
+ping timeout: 173.194.212.200 (icmp_seq=1) 
+ping timeout: 173.194.212.200 (icmp_seq=1) 
+ping timeout: 173.194.212.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.212.200 -1.00
+173.194.212.82
+average time: 269.19 (ms), 0 lost
+ 173.194.212.82 269.19
+173.194.213.101
+ping timeout: 173.194.213.101 (icmp_seq=1) 
+ping timeout: 173.194.213.101 (icmp_seq=1) 
+ping timeout: 173.194.213.101 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.101 -1.00
+173.194.213.102
+ping timeout: 173.194.213.102 (icmp_seq=1) 
+ping timeout: 173.194.213.102 (icmp_seq=1) 
+ping timeout: 173.194.213.102 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.102 -1.00
+173.194.213.103
+ping timeout: 173.194.213.103 (icmp_seq=1) 
+ping timeout: 173.194.213.103 (icmp_seq=1) 
+ping timeout: 173.194.213.103 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.103 -1.00
+173.194.213.104
+ping timeout: 173.194.213.104 (icmp_seq=1) 
+ping timeout: 173.194.213.104 (icmp_seq=1) 
+ping timeout: 173.194.213.104 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.104 -1.00
+173.194.213.112
+ping timeout: 173.194.213.112 (icmp_seq=1) 
+ping timeout: 173.194.213.112 (icmp_seq=1) 
+ping timeout: 173.194.213.112 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.112 -1.00
+173.194.213.114
+ping timeout: 173.194.213.114 (icmp_seq=1) 
+ping timeout: 173.194.213.114 (icmp_seq=1) 
+ping timeout: 173.194.213.114 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.114 -1.00
+173.194.213.115
+ping timeout: 173.194.213.115 (icmp_seq=1) 
+ping timeout: 173.194.213.115 (icmp_seq=1) 
+ping timeout: 173.194.213.115 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.115 -1.00
+mysql -uroot -ptango9896 google_ip -e "select ip from history_ips limit 701,100"
+(0, 'ip\n173.194.213.124\n173.194.213.132\n173.194.213.138\n173.194.213.139\n173.194.213.143\n173.194.213.145\n173.194.213.146\n173.194.213.148\n173.194.213.157\n173.194.213.165\n173.194.213.167\n173.194.213.18\n173.194.213.19\n173.194.213.194\n173.194.213.195\n173.194.213.196\n173.194.213.198\n173.194.213.200\n173.194.213.201\n173.194.213.85\n173.194.213.86\n173.194.213.96\n173.194.213.98\n173.194.214.124\n173.194.214.148\n173.194.214.156\n173.194.214.31\n173.194.215.145\n173.194.215.90\n173.194.215.96\n173.194.216.139\n173.194.216.154\n173.194.216.155\n173.194.216.201\n173.194.216.83\n173.194.217.138\n173.194.217.144\n173.194.217.166\n173.194.217.176\n173.194.217.90\n173.194.217.93\n173.194.218.100\n173.194.218.101\n173.194.218.102\n173.194.218.103\n173.194.218.106\n173.194.218.112\n173.194.218.114\n173.194.218.116\n173.194.218.117\n173.194.218.120\n173.194.218.122\n173.194.218.123\n173.194.218.132\n173.194.218.133\n173.194.218.136\n173.194.218.137\n173.194.218.138\n173.194.218.141\n173.194.218.142\n173.194.218.144\n173.194.218.145\n173.194.218.146\n173.194.218.147\n173.194.218.148\n173.194.218.149\n173.194.218.155\n173.194.218.156\n173.194.218.157\n173.194.218.164\n173.194.218.167\n173.194.218.17\n173.194.218.176\n173.194.218.18\n173.194.218.189\n173.194.218.19\n173.194.218.190\n173.194.218.191\n173.194.218.193\n173.194.218.196\n173.194.218.198\n173.194.218.199\n173.194.218.200\n173.194.218.201\n173.194.218.31\n173.194.218.81\n173.194.218.82\n173.194.218.84\n173.194.218.85\n173.194.218.86\n173.194.218.87\n173.194.218.90\n173.194.218.91\n173.194.218.93\n173.194.218.95\n173.194.218.96\n173.194.218.97\n173.194.218.98\n173.194.218.99\n173.194.219.81')
+173.194.213.124
+ping timeout: 173.194.213.124 (icmp_seq=1) 
+ping timeout: 173.194.213.124 (icmp_seq=1) 
+ping timeout: 173.194.213.124 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.124 -1.00
+173.194.213.132
+ping timeout: 173.194.213.132 (icmp_seq=1) 
+ping timeout: 173.194.213.132 (icmp_seq=1) 
+ping timeout: 173.194.213.132 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.132 -1.00
+173.194.213.138
+ping timeout: 173.194.213.138 (icmp_seq=1) 
+ping timeout: 173.194.213.138 (icmp_seq=1) 
+ping timeout: 173.194.213.138 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.138 -1.00
+173.194.213.139
+ping timeout: 173.194.213.139 (icmp_seq=1) 
+ping timeout: 173.194.213.139 (icmp_seq=1) 
+ping timeout: 173.194.213.139 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.139 -1.00
+173.194.213.143
+ping timeout: 173.194.213.143 (icmp_seq=1) 
+ping timeout: 173.194.213.143 (icmp_seq=1) 
+ping timeout: 173.194.213.143 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.143 -1.00
+173.194.213.145
+ping timeout: 173.194.213.145 (icmp_seq=1) 
+ping timeout: 173.194.213.145 (icmp_seq=1) 
+ping timeout: 173.194.213.145 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.145 -1.00
+173.194.213.146
+ping timeout: 173.194.213.146 (icmp_seq=1) 
+ping timeout: 173.194.213.146 (icmp_seq=1) 
+ping timeout: 173.194.213.146 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.146 -1.00
+173.194.213.148
+ping timeout: 173.194.213.148 (icmp_seq=1) 
+ping timeout: 173.194.213.148 (icmp_seq=1) 
+ping timeout: 173.194.213.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.148 -1.00
+173.194.213.157
+ping timeout: 173.194.213.157 (icmp_seq=1) 
+ping timeout: 173.194.213.157 (icmp_seq=1) 
+ping timeout: 173.194.213.157 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.157 -1.00
+173.194.213.165
+ping timeout: 173.194.213.165 (icmp_seq=1) 
+ping timeout: 173.194.213.165 (icmp_seq=1) 
+ping timeout: 173.194.213.165 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.165 -1.00
+173.194.213.167
+ping timeout: 173.194.213.167 (icmp_seq=1) 
+ping timeout: 173.194.213.167 (icmp_seq=1) 
+ping timeout: 173.194.213.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.167 -1.00
+173.194.213.18
+ping timeout: 173.194.213.18 (icmp_seq=1) 
+ping timeout: 173.194.213.18 (icmp_seq=1) 
+ping timeout: 173.194.213.18 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.213.18 -1.00
+173.194.213.19
+ping timeout: 173.194.213.19 (icmp_seq=1) 
+ping timeout: 173.194.213.19 (icmp_seq=1) 
+ping timeout: 173.194.213.19 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.213.19 -1.00
+173.194.213.194
+ping timeout: 173.194.213.194 (icmp_seq=1) 
+ping timeout: 173.194.213.194 (icmp_seq=1) 
+ping timeout: 173.194.213.194 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.194 -1.00
+173.194.213.195
+ping timeout: 173.194.213.195 (icmp_seq=1) 
+ping timeout: 173.194.213.195 (icmp_seq=1) 
+ping timeout: 173.194.213.195 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.195 -1.00
+173.194.213.196
+ping timeout: 173.194.213.196 (icmp_seq=1) 
+ping timeout: 173.194.213.196 (icmp_seq=1) 
+ping timeout: 173.194.213.196 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.196 -1.00
+173.194.213.198
+ping timeout: 173.194.213.198 (icmp_seq=1) 
+ping timeout: 173.194.213.198 (icmp_seq=1) 
+ping timeout: 173.194.213.198 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.198 -1.00
+173.194.213.200
+ping timeout: 173.194.213.200 (icmp_seq=1) 
+ping timeout: 173.194.213.200 (icmp_seq=1) 
+ping timeout: 173.194.213.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.200 -1.00
+173.194.213.201
+ping timeout: 173.194.213.201 (icmp_seq=1) 
+ping timeout: 173.194.213.201 (icmp_seq=1) 
+ping timeout: 173.194.213.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.213.201 -1.00
+173.194.213.85
+ping timeout: 173.194.213.85 (icmp_seq=1) 
+ping timeout: 173.194.213.85 (icmp_seq=1) 
+ping timeout: 173.194.213.85 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.213.85 -1.00
+173.194.213.86
+ping timeout: 173.194.213.86 (icmp_seq=1) 
+ping timeout: 173.194.213.86 (icmp_seq=1) 
+ping timeout: 173.194.213.86 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.213.86 -1.00
+173.194.213.96
+ping timeout: 173.194.213.96 (icmp_seq=1) 
+ping timeout: 173.194.213.96 (icmp_seq=1) 
+ping timeout: 173.194.213.96 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.213.96 -1.00
+173.194.213.98
+ping timeout: 173.194.213.98 (icmp_seq=1) 
+ping timeout: 173.194.213.98 (icmp_seq=1) 
+ping timeout: 173.194.213.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.213.98 -1.00
+173.194.214.124
+average time: 297.00 (ms), 0 lost
+173.194.214.124 297.00
+173.194.214.148
+ping timeout: 173.194.214.148 (icmp_seq=1) 
+ping timeout: 173.194.214.148 (icmp_seq=1) 
+ping timeout: 173.194.214.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.214.148 -1.00
+173.194.214.156
+average time: 289.00 (ms), 0 lost
+173.194.214.156 289.00
+173.194.214.31
+ping timeout: 173.194.214.31 (icmp_seq=1) 
+ping timeout: 173.194.214.31 (icmp_seq=1) 
+ping timeout: 173.194.214.31 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.214.31 -1.00
+173.194.215.145
+ping timeout: 173.194.215.145 (icmp_seq=1) 
+ping timeout: 173.194.215.145 (icmp_seq=1) 
+ping timeout: 173.194.215.145 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.215.145 -1.00
+173.194.215.90
+average time: 293.40 (ms), 0 lost
+ 173.194.215.90 293.40
+173.194.215.96
+ping timeout: 173.194.215.96 (icmp_seq=1) 
+ping timeout: 173.194.215.96 (icmp_seq=1) 
+ping timeout: 173.194.215.96 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.215.96 -1.00
+173.194.216.139
+ping timeout: 173.194.216.139 (icmp_seq=1) 
+ping timeout: 173.194.216.139 (icmp_seq=1) 
+ping timeout: 173.194.216.139 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.216.139 -1.00
+173.194.216.154
+ping timeout: 173.194.216.154 (icmp_seq=1) 
+ping timeout: 173.194.216.154 (icmp_seq=1) 
+ping timeout: 173.194.216.154 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.216.154 -1.00
+173.194.216.155
+ping timeout: 173.194.216.155 (icmp_seq=1) 
+ping timeout: 173.194.216.155 (icmp_seq=1) 
+ping timeout: 173.194.216.155 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.216.155 -1.00
+173.194.216.201
+ping timeout: 173.194.216.201 (icmp_seq=1) 
+ping timeout: 173.194.216.201 (icmp_seq=1) 
+ping timeout: 173.194.216.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.216.201 -1.00
+173.194.216.83
+average time: 275.11 (ms), 0 lost
+ 173.194.216.83 275.11
+173.194.217.138
+ping timeout: 173.194.217.138 (icmp_seq=1) 
+ping timeout: 173.194.217.138 (icmp_seq=1) 
+ping timeout: 173.194.217.138 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.217.138 -1.00
+173.194.217.144
+ping timeout: 173.194.217.144 (icmp_seq=1) 
+ping timeout: 173.194.217.144 (icmp_seq=1) 
+ping timeout: 173.194.217.144 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.217.144 -1.00
+173.194.217.166
+ping timeout: 173.194.217.166 (icmp_seq=1) 
+ping timeout: 173.194.217.166 (icmp_seq=1) 
+ping timeout: 173.194.217.166 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.217.166 -1.00
+173.194.217.176
+ping timeout: 173.194.217.176 (icmp_seq=1) 
+ping timeout: 173.194.217.176 (icmp_seq=1) 
+ping timeout: 173.194.217.176 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.217.176 -1.00
+173.194.217.90
+average time: 254.95 (ms), 0 lost
+ 173.194.217.90 254.95
+173.194.217.93
+average time: 269.86 (ms), 0 lost
+ 173.194.217.93 269.86
+173.194.218.100
+ping timeout: 173.194.218.100 (icmp_seq=1) 
+ping timeout: 173.194.218.100 (icmp_seq=1) 
+ping timeout: 173.194.218.100 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.100 -1.00
+173.194.218.101
+ping timeout: 173.194.218.101 (icmp_seq=1) 
+ping timeout: 173.194.218.101 (icmp_seq=1) 
+ping timeout: 173.194.218.101 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.101 -1.00
+173.194.218.102
+ping timeout: 173.194.218.102 (icmp_seq=1) 
+ping timeout: 173.194.218.102 (icmp_seq=1) 
+ping timeout: 173.194.218.102 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.102 -1.00
+173.194.218.103
+ping timeout: 173.194.218.103 (icmp_seq=1) 
+ping timeout: 173.194.218.103 (icmp_seq=1) 
+ping timeout: 173.194.218.103 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.103 -1.00
+173.194.218.106
+ping timeout: 173.194.218.106 (icmp_seq=1) 
+ping timeout: 173.194.218.106 (icmp_seq=1) 
+ping timeout: 173.194.218.106 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.106 -1.00
+173.194.218.112
+ping timeout: 173.194.218.112 (icmp_seq=1) 
+ping timeout: 173.194.218.112 (icmp_seq=1) 
+ping timeout: 173.194.218.112 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.112 -1.00
+173.194.218.114
+ping timeout: 173.194.218.114 (icmp_seq=1) 
+ping timeout: 173.194.218.114 (icmp_seq=1) 
+ping timeout: 173.194.218.114 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.114 -1.00
+173.194.218.116
+ping timeout: 173.194.218.116 (icmp_seq=1) 
+ping timeout: 173.194.218.116 (icmp_seq=1) 
+ping timeout: 173.194.218.116 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.116 -1.00
+173.194.218.117
+ping timeout: 173.194.218.117 (icmp_seq=1) 
+ping timeout: 173.194.218.117 (icmp_seq=1) 
+ping timeout: 173.194.218.117 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.117 -1.00
+173.194.218.120
+ping timeout: 173.194.218.120 (icmp_seq=1) 
+ping timeout: 173.194.218.120 (icmp_seq=1) 
+ping timeout: 173.194.218.120 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.120 -1.00
+173.194.218.122
+ping timeout: 173.194.218.122 (icmp_seq=1) 
+ping timeout: 173.194.218.122 (icmp_seq=1) 
+ping timeout: 173.194.218.122 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.122 -1.00
+173.194.218.123
+ping timeout: 173.194.218.123 (icmp_seq=1) 
+ping timeout: 173.194.218.123 (icmp_seq=1) 
+ping timeout: 173.194.218.123 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.123 -1.00
+173.194.218.132
+ping timeout: 173.194.218.132 (icmp_seq=1) 
+ping timeout: 173.194.218.132 (icmp_seq=1) 
+ping timeout: 173.194.218.132 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.132 -1.00
+173.194.218.133
+ping timeout: 173.194.218.133 (icmp_seq=1) 
+ping timeout: 173.194.218.133 (icmp_seq=1) 
+ping timeout: 173.194.218.133 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.133 -1.00
+173.194.218.136
+ping timeout: 173.194.218.136 (icmp_seq=1) 
+ping timeout: 173.194.218.136 (icmp_seq=1) 
+ping timeout: 173.194.218.136 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.136 -1.00
+173.194.218.137
+ping timeout: 173.194.218.137 (icmp_seq=1) 
+ping timeout: 173.194.218.137 (icmp_seq=1) 
+ping timeout: 173.194.218.137 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.137 -1.00
+173.194.218.138
+ping timeout: 173.194.218.138 (icmp_seq=1) 
+ping timeout: 173.194.218.138 (icmp_seq=1) 
+ping timeout: 173.194.218.138 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.138 -1.00
+173.194.218.141
+ping timeout: 173.194.218.141 (icmp_seq=1) 
+ping timeout: 173.194.218.141 (icmp_seq=1) 
+ping timeout: 173.194.218.141 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.141 -1.00
+173.194.218.142
+ping timeout: 173.194.218.142 (icmp_seq=1) 
+ping timeout: 173.194.218.142 (icmp_seq=1) 
+ping timeout: 173.194.218.142 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.142 -1.00
+173.194.218.144
+ping timeout: 173.194.218.144 (icmp_seq=1) 
+ping timeout: 173.194.218.144 (icmp_seq=1) 
+ping timeout: 173.194.218.144 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.144 -1.00
+173.194.218.145
+ping timeout: 173.194.218.145 (icmp_seq=1) 
+ping timeout: 173.194.218.145 (icmp_seq=1) 
+ping timeout: 173.194.218.145 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.145 -1.00
+173.194.218.146
+ping timeout: 173.194.218.146 (icmp_seq=1) 
+ping timeout: 173.194.218.146 (icmp_seq=1) 
+ping timeout: 173.194.218.146 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.146 -1.00
+173.194.218.147
+ping timeout: 173.194.218.147 (icmp_seq=1) 
+ping timeout: 173.194.218.147 (icmp_seq=1) 
+ping timeout: 173.194.218.147 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.147 -1.00
+173.194.218.148
+ping timeout: 173.194.218.148 (icmp_seq=1) 
+ping timeout: 173.194.218.148 (icmp_seq=1) 
+ping timeout: 173.194.218.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.148 -1.00
+173.194.218.149
+ping timeout: 173.194.218.149 (icmp_seq=1) 
+ping timeout: 173.194.218.149 (icmp_seq=1) 
+ping timeout: 173.194.218.149 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.149 -1.00
+173.194.218.155
+ping timeout: 173.194.218.155 (icmp_seq=1) 
+ping timeout: 173.194.218.155 (icmp_seq=1) 
+ping timeout: 173.194.218.155 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.155 -1.00
+173.194.218.156
+ping timeout: 173.194.218.156 (icmp_seq=1) 
+ping timeout: 173.194.218.156 (icmp_seq=1) 
+ping timeout: 173.194.218.156 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.156 -1.00
+173.194.218.157
+ping timeout: 173.194.218.157 (icmp_seq=1) 
+ping timeout: 173.194.218.157 (icmp_seq=1) 
+ping timeout: 173.194.218.157 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.157 -1.00
+173.194.218.164
+ping timeout: 173.194.218.164 (icmp_seq=1) 
+ping timeout: 173.194.218.164 (icmp_seq=1) 
+ping timeout: 173.194.218.164 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.164 -1.00
+173.194.218.167
+ping timeout: 173.194.218.167 (icmp_seq=1) 
+ping timeout: 173.194.218.167 (icmp_seq=1) 
+ping timeout: 173.194.218.167 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.167 -1.00
+173.194.218.17
+ping timeout: 173.194.218.17 (icmp_seq=1) 
+ping timeout: 173.194.218.17 (icmp_seq=1) 
+ping timeout: 173.194.218.17 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.17 -1.00
+173.194.218.176
+ping timeout: 173.194.218.176 (icmp_seq=1) 
+ping timeout: 173.194.218.176 (icmp_seq=1) 
+ping timeout: 173.194.218.176 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.176 -1.00
+173.194.218.18
+ping timeout: 173.194.218.18 (icmp_seq=1) 
+ping timeout: 173.194.218.18 (icmp_seq=1) 
+ping timeout: 173.194.218.18 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.18 -1.00
+173.194.218.189
+ping timeout: 173.194.218.189 (icmp_seq=1) 
+ping timeout: 173.194.218.189 (icmp_seq=1) 
+ping timeout: 173.194.218.189 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.189 -1.00
+173.194.218.19
+ping timeout: 173.194.218.19 (icmp_seq=1) 
+ping timeout: 173.194.218.19 (icmp_seq=1) 
+ping timeout: 173.194.218.19 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.19 -1.00
+173.194.218.190
+ping timeout: 173.194.218.190 (icmp_seq=1) 
+ping timeout: 173.194.218.190 (icmp_seq=1) 
+ping timeout: 173.194.218.190 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.190 -1.00
+173.194.218.191
+ping timeout: 173.194.218.191 (icmp_seq=1) 
+ping timeout: 173.194.218.191 (icmp_seq=1) 
+ping timeout: 173.194.218.191 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.191 -1.00
+173.194.218.193
+ping timeout: 173.194.218.193 (icmp_seq=1) 
+ping timeout: 173.194.218.193 (icmp_seq=1) 
+ping timeout: 173.194.218.193 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.193 -1.00
+173.194.218.196
+ping timeout: 173.194.218.196 (icmp_seq=1) 
+ping timeout: 173.194.218.196 (icmp_seq=1) 
+ping timeout: 173.194.218.196 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.196 -1.00
+173.194.218.198
+ping timeout: 173.194.218.198 (icmp_seq=1) 
+ping timeout: 173.194.218.198 (icmp_seq=1) 
+ping timeout: 173.194.218.198 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.198 -1.00
+173.194.218.199
+ping timeout: 173.194.218.199 (icmp_seq=1) 
+ping timeout: 173.194.218.199 (icmp_seq=1) 
+ping timeout: 173.194.218.199 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.199 -1.00
+173.194.218.200
+ping timeout: 173.194.218.200 (icmp_seq=1) 
+ping timeout: 173.194.218.200 (icmp_seq=1) 
+ping timeout: 173.194.218.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.200 -1.00
+173.194.218.201
+ping timeout: 173.194.218.201 (icmp_seq=1) 
+ping timeout: 173.194.218.201 (icmp_seq=1) 
+ping timeout: 173.194.218.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.218.201 -1.00
+173.194.218.31
+ping timeout: 173.194.218.31 (icmp_seq=1) 
+ping timeout: 173.194.218.31 (icmp_seq=1) 
+ping timeout: 173.194.218.31 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.31 -1.00
+173.194.218.81
+ping timeout: 173.194.218.81 (icmp_seq=1) 
+ping timeout: 173.194.218.81 (icmp_seq=1) 
+ping timeout: 173.194.218.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.81 -1.00
+173.194.218.82
+ping timeout: 173.194.218.82 (icmp_seq=1) 
+ping timeout: 173.194.218.82 (icmp_seq=1) 
+ping timeout: 173.194.218.82 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.82 -1.00
+173.194.218.84
+ping timeout: 173.194.218.84 (icmp_seq=1) 
+ping timeout: 173.194.218.84 (icmp_seq=1) 
+ping timeout: 173.194.218.84 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.84 -1.00
+173.194.218.85
+ping timeout: 173.194.218.85 (icmp_seq=1) 
+ping timeout: 173.194.218.85 (icmp_seq=1) 
+ping timeout: 173.194.218.85 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.85 -1.00
+173.194.218.86
+ping timeout: 173.194.218.86 (icmp_seq=1) 
+ping timeout: 173.194.218.86 (icmp_seq=1) 
+ping timeout: 173.194.218.86 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.86 -1.00
+173.194.218.87
+ping timeout: 173.194.218.87 (icmp_seq=1) 
+ping timeout: 173.194.218.87 (icmp_seq=1) 
+ping timeout: 173.194.218.87 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.87 -1.00
+173.194.218.90
+average time: 353.84 (ms), 0 lost
+ 173.194.218.90 353.84
+173.194.218.91
+ping timeout: 173.194.218.91 (icmp_seq=1) 
+ping timeout: 173.194.218.91 (icmp_seq=1) 
+ping timeout: 173.194.218.91 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.91 -1.00
+173.194.218.93
+ping timeout: 173.194.218.93 (icmp_seq=1) 
+ping timeout: 173.194.218.93 (icmp_seq=1) 
+ping timeout: 173.194.218.93 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.93 -1.00
+173.194.218.95
+ping timeout: 173.194.218.95 (icmp_seq=1) 
+ping timeout: 173.194.218.95 (icmp_seq=1) 
+ping timeout: 173.194.218.95 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.95 -1.00
+173.194.218.96
+ping timeout: 173.194.218.96 (icmp_seq=1) 
+ping timeout: 173.194.218.96 (icmp_seq=1) 
+ping timeout: 173.194.218.96 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.96 -1.00
+173.194.218.97
+ping timeout: 173.194.218.97 (icmp_seq=1) 
+ping timeout: 173.194.218.97 (icmp_seq=1) 
+ping timeout: 173.194.218.97 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.97 -1.00
+173.194.218.98
+ping timeout: 173.194.218.98 (icmp_seq=1) 
+ping timeout: 173.194.218.98 (icmp_seq=1) 
+ping timeout: 173.194.218.98 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.98 -1.00
+173.194.218.99
+ping timeout: 173.194.218.99 (icmp_seq=1) 
+ping timeout: 173.194.218.99 (icmp_seq=1) 
+ping timeout: 173.194.218.99 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.218.99 -1.00
+173.194.219.81
+average time: 247.87 (ms), 0 lost
+ 173.194.219.81 247.87
+mysql -uroot -ptango9896 google_ip -e "select ip from history_ips limit 801,100"
+(0, 'ip\n173.194.222.103\n173.194.222.112\n173.194.222.113\n173.194.222.118\n173.194.222.132\n173.194.222.138\n173.194.222.196\n173.194.222.197\n173.194.222.198\n173.194.222.200\n173.194.222.31\n173.194.222.81\n173.194.222.83\n173.194.222.85\n173.194.222.87\n173.194.222.90\n173.194.222.93\n173.194.222.95\n173.194.36.121\n173.194.36.49\n173.194.36.50\n173.194.36.67\n173.194.37.172\n173.194.37.67\n173.194.37.80\n173.194.38.137\n173.194.38.153\n173.194.38.192\n173.194.38.195\n173.194.38.197\n173.194.38.198\n173.194.38.199\n173.194.38.201\n173.194.38.202\n173.194.38.206\n173.194.38.208\n173.194.38.209\n173.194.38.210\n173.194.38.211\n173.194.38.212\n173.194.38.213\n173.194.38.214\n173.194.38.215\n173.194.38.217\n173.194.38.219\n173.194.38.220\n173.194.38.36\n173.194.46.45\n173.194.46.51\n173.194.46.64\n173.194.46.81\n173.194.46.84\n173.194.46.94\n173.194.64.18\n173.194.64.97\n173.194.70.100\n173.194.70.101\n173.194.70.102\n173.194.70.103\n173.194.70.104\n173.194.70.105\n173.194.70.106\n173.194.70.116\n173.194.70.117\n173.194.70.120\n173.194.70.132\n173.194.70.136\n173.194.70.138\n173.194.70.141\n173.194.70.147\n173.194.70.148\n173.194.70.149\n173.194.70.154\n173.194.70.155\n173.194.70.156\n173.194.70.157\n173.194.70.164\n173.194.70.17\n173.194.70.18\n173.194.70.189\n173.194.70.19\n173.194.70.190\n173.194.70.193\n173.194.70.199\n173.194.70.82\n173.194.70.83\n173.194.70.84\n173.194.70.91\n173.194.70.93\n173.194.70.94\n173.194.70.95\n173.194.70.99\n173.194.73.84\n173.194.74.143\n173.194.74.147\n173.194.74.200\n173.194.74.90\n173.194.76.116\n173.194.76.124\n173.194.76.154')
+173.194.222.103
+ping timeout: 173.194.222.103 (icmp_seq=1) 
+ping timeout: 173.194.222.103 (icmp_seq=1) 
+ping timeout: 173.194.222.103 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.103 -1.00
+173.194.222.112
+ping timeout: 173.194.222.112 (icmp_seq=1) 
+ping timeout: 173.194.222.112 (icmp_seq=1) 
+ping timeout: 173.194.222.112 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.112 -1.00
+173.194.222.113
+ping timeout: 173.194.222.113 (icmp_seq=1) 
+ping timeout: 173.194.222.113 (icmp_seq=1) 
+ping timeout: 173.194.222.113 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.113 -1.00
+173.194.222.118
+ping timeout: 173.194.222.118 (icmp_seq=1) 
+ping timeout: 173.194.222.118 (icmp_seq=1) 
+ping timeout: 173.194.222.118 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.118 -1.00
+173.194.222.132
+ping timeout: 173.194.222.132 (icmp_seq=1) 
+ping timeout: 173.194.222.132 (icmp_seq=1) 
+ping timeout: 173.194.222.132 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.132 -1.00
+173.194.222.138
+ping timeout: 173.194.222.138 (icmp_seq=1) 
+ping timeout: 173.194.222.138 (icmp_seq=1) 
+ping timeout: 173.194.222.138 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.138 -1.00
+173.194.222.196
+ping timeout: 173.194.222.196 (icmp_seq=1) 
+ping timeout: 173.194.222.196 (icmp_seq=1) 
+ping timeout: 173.194.222.196 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.196 -1.00
+173.194.222.197
+ping timeout: 173.194.222.197 (icmp_seq=1) 
+ping timeout: 173.194.222.197 (icmp_seq=1) 
+ping timeout: 173.194.222.197 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.197 -1.00
+173.194.222.198
+ping timeout: 173.194.222.198 (icmp_seq=1) 
+ping timeout: 173.194.222.198 (icmp_seq=1) 
+ping timeout: 173.194.222.198 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.198 -1.00
+173.194.222.200
+ping timeout: 173.194.222.200 (icmp_seq=1) 
+ping timeout: 173.194.222.200 (icmp_seq=1) 
+ping timeout: 173.194.222.200 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+173.194.222.200 -1.00
+173.194.222.31
+ping timeout: 173.194.222.31 (icmp_seq=1) 
+ping timeout: 173.194.222.31 (icmp_seq=1) 
+ping timeout: 173.194.222.31 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.222.31 -1.00
+173.194.222.81
+ping timeout: 173.194.222.81 (icmp_seq=1) 
+ping timeout: 173.194.222.81 (icmp_seq=1) 
+ping timeout: 173.194.222.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.222.81 -1.00
+173.194.222.83
+ping timeout: 173.194.222.83 (icmp_seq=1) 
+ping timeout: 173.194.222.83 (icmp_seq=1) 
+ping timeout: 173.194.222.83 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.222.83 -1.00
+173.194.222.85
+ping timeout: 173.194.222.85 (icmp_seq=1) 
+ping timeout: 173.194.222.85 (icmp_seq=1) 
+ping timeout: 173.194.222.85 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.222.85 -1.00
+173.194.222.87
+ping timeout: 173.194.222.87 (icmp_seq=1) 
+ping timeout: 173.194.222.87 (icmp_seq=1) 
+ping timeout: 173.194.222.87 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.222.87 -1.00
+173.194.222.90
+average time: 304.06 (ms), 0 lost
+ 173.194.222.90 304.06
+173.194.222.93
+ping timeout: 173.194.222.93 (icmp_seq=1) 
+ping timeout: 173.194.222.93 (icmp_seq=1) 
+ping timeout: 173.194.222.93 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.222.93 -1.00
+173.194.222.95
+ping timeout: 173.194.222.95 (icmp_seq=1) 
+ping timeout: 173.194.222.95 (icmp_seq=1) 
+ping timeout: 173.194.222.95 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.222.95 -1.00
+173.194.36.121
+ping timeout: 173.194.36.121 (icmp_seq=1) 
+ping timeout: 173.194.36.121 (icmp_seq=1) 
+ping timeout: 173.194.36.121 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.36.121 -1.00
+173.194.36.49
+ping timeout: 173.194.36.49 (icmp_seq=1) 
+ping timeout: 173.194.36.49 (icmp_seq=1) 
+ping timeout: 173.194.36.49 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.36.49 -1.00
+173.194.36.50
+ping timeout: 173.194.36.50 (icmp_seq=1) 
+ping timeout: 173.194.36.50 (icmp_seq=1) 
+ping timeout: 173.194.36.50 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.36.50 -1.00
+173.194.36.67
+ping timeout: 173.194.36.67 (icmp_seq=1) 
+ping timeout: 173.194.36.67 (icmp_seq=1) 
+ping timeout: 173.194.36.67 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.36.67 -1.00
+173.194.37.172
+average time: 253.27 (ms), 0 lost
+ 173.194.37.172 253.27
+173.194.37.67
+ping timeout: 173.194.37.67 (icmp_seq=1) 
+ping timeout: 173.194.37.67 (icmp_seq=1) 
+ping timeout: 173.194.37.67 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.37.67 -1.00
+173.194.37.80
+ping timeout: 173.194.37.80 (icmp_seq=1) 
+ping timeout: 173.194.37.80 (icmp_seq=1) 
+ping timeout: 173.194.37.80 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.37.80 -1.00
+173.194.38.137
+ping timeout: 173.194.38.137 (icmp_seq=1) 
+ping timeout: 173.194.38.137 (icmp_seq=1) 
+ping timeout: 173.194.38.137 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.137 -1.00
+173.194.38.153
+ping timeout: 173.194.38.153 (icmp_seq=1) 
+ping timeout: 173.194.38.153 (icmp_seq=1) 
+ping timeout: 173.194.38.153 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.153 -1.00
+173.194.38.192
+ping timeout: 173.194.38.192 (icmp_seq=1) 
+ping timeout: 173.194.38.192 (icmp_seq=1) 
+ping timeout: 173.194.38.192 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.192 -1.00
+173.194.38.195
+ping timeout: 173.194.38.195 (icmp_seq=1) 
+ping timeout: 173.194.38.195 (icmp_seq=1) 
+ping timeout: 173.194.38.195 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.195 -1.00
+173.194.38.197
+ping timeout: 173.194.38.197 (icmp_seq=1) 
+ping timeout: 173.194.38.197 (icmp_seq=1) 
+ping timeout: 173.194.38.197 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.197 -1.00
+173.194.38.198
+ping timeout: 173.194.38.198 (icmp_seq=1) 
+ping timeout: 173.194.38.198 (icmp_seq=1) 
+ping timeout: 173.194.38.198 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.198 -1.00
+173.194.38.199
+ping timeout: 173.194.38.199 (icmp_seq=1) 
+ping timeout: 173.194.38.199 (icmp_seq=1) 
+ping timeout: 173.194.38.199 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.199 -1.00
+173.194.38.201
+ping timeout: 173.194.38.201 (icmp_seq=1) 
+ping timeout: 173.194.38.201 (icmp_seq=1) 
+ping timeout: 173.194.38.201 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.201 -1.00
+173.194.38.202
+ping timeout: 173.194.38.202 (icmp_seq=1) 
+ping timeout: 173.194.38.202 (icmp_seq=1) 
+ping timeout: 173.194.38.202 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.202 -1.00
+173.194.38.206
+ping timeout: 173.194.38.206 (icmp_seq=1) 
+ping timeout: 173.194.38.206 (icmp_seq=1) 
+ping timeout: 173.194.38.206 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.206 -1.00
+173.194.38.208
+ping timeout: 173.194.38.208 (icmp_seq=1) 
+average time: 37.65 (ms), 1 lost
+ 173.194.38.208 -1.00
+173.194.38.209
+ping timeout: 173.194.38.209 (icmp_seq=1) 
+ping timeout: 173.194.38.209 (icmp_seq=1) 
+ping timeout: 173.194.38.209 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.209 -1.00
+173.194.38.210
+ping timeout: 173.194.38.210 (icmp_seq=1) 
+ping timeout: 173.194.38.210 (icmp_seq=1) 
+ping timeout: 173.194.38.210 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.210 -1.00
+173.194.38.211
+ping timeout: 173.194.38.211 (icmp_seq=1) 
+ping timeout: 173.194.38.211 (icmp_seq=1) 
+average time: 18.75 (ms), 2 lost
+ 173.194.38.211 -1.00
+173.194.38.212
+ping timeout: 173.194.38.212 (icmp_seq=1) 
+ping timeout: 173.194.38.212 (icmp_seq=1) 
+average time: 19.04 (ms), 2 lost
+ 173.194.38.212 -1.00
+173.194.38.213
+ping timeout: 173.194.38.213 (icmp_seq=1) 
+ping timeout: 173.194.38.213 (icmp_seq=1) 
+ping timeout: 173.194.38.213 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.213 -1.00
+173.194.38.214
+ping timeout: 173.194.38.214 (icmp_seq=1) 
+ping timeout: 173.194.38.214 (icmp_seq=1) 
+ping timeout: 173.194.38.214 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.214 -1.00
+173.194.38.215
+ping timeout: 173.194.38.215 (icmp_seq=1) 
+ping timeout: 173.194.38.215 (icmp_seq=1) 
+ping timeout: 173.194.38.215 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.215 -1.00
+173.194.38.217
+ping timeout: 173.194.38.217 (icmp_seq=1) 
+ping timeout: 173.194.38.217 (icmp_seq=1) 
+ping timeout: 173.194.38.217 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.217 -1.00
+173.194.38.219
+ping timeout: 173.194.38.219 (icmp_seq=1) 
+ping timeout: 173.194.38.219 (icmp_seq=1) 
+ping timeout: 173.194.38.219 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.219 -1.00
+173.194.38.220
+ping timeout: 173.194.38.220 (icmp_seq=1) 
+ping timeout: 173.194.38.220 (icmp_seq=1) 
+ping timeout: 173.194.38.220 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.38.220 -1.00
+173.194.38.36
+ping timeout: 173.194.38.36 (icmp_seq=1) 
+ping timeout: 173.194.38.36 (icmp_seq=1) 
+ping timeout: 173.194.38.36 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.38.36 -1.00
+173.194.46.45
+ping timeout: 173.194.46.45 (icmp_seq=1) 
+ping timeout: 173.194.46.45 (icmp_seq=1) 
+ping timeout: 173.194.46.45 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.46.45 -1.00
+173.194.46.51
+ping timeout: 173.194.46.51 (icmp_seq=1) 
+ping timeout: 173.194.46.51 (icmp_seq=1) 
+ping timeout: 173.194.46.51 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.46.51 -1.00
+173.194.46.64
+ping timeout: 173.194.46.64 (icmp_seq=1) 
+ping timeout: 173.194.46.64 (icmp_seq=1) 
+ping timeout: 173.194.46.64 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.46.64 -1.00
+173.194.46.81
+ping timeout: 173.194.46.81 (icmp_seq=1) 
+ping timeout: 173.194.46.81 (icmp_seq=1) 
+ping timeout: 173.194.46.81 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.46.81 -1.00
+173.194.46.84
+ping timeout: 173.194.46.84 (icmp_seq=1) 
+ping timeout: 173.194.46.84 (icmp_seq=1) 
+ping timeout: 173.194.46.84 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.46.84 -1.00
+173.194.46.94
+ping timeout: 173.194.46.94 (icmp_seq=1) 
+ping timeout: 173.194.46.94 (icmp_seq=1) 
+ping timeout: 173.194.46.94 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.46.94 -1.00
+173.194.64.18
+ping timeout: 173.194.64.18 (icmp_seq=1) 
+ping timeout: 173.194.64.18 (icmp_seq=1) 
+ping timeout: 173.194.64.18 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.64.18 -1.00
+173.194.64.97
+ping timeout: 173.194.64.97 (icmp_seq=1) 
+ping timeout: 173.194.64.97 (icmp_seq=1) 
+ping timeout: 173.194.64.97 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.64.97 -1.00
+173.194.70.100
+ping timeout: 173.194.70.100 (icmp_seq=1) 
+ping timeout: 173.194.70.100 (icmp_seq=1) 
+ping timeout: 173.194.70.100 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.100 -1.00
+173.194.70.101
+ping timeout: 173.194.70.101 (icmp_seq=1) 
+ping timeout: 173.194.70.101 (icmp_seq=1) 
+ping timeout: 173.194.70.101 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.101 -1.00
+173.194.70.102
+ping timeout: 173.194.70.102 (icmp_seq=1) 
+ping timeout: 173.194.70.102 (icmp_seq=1) 
+ping timeout: 173.194.70.102 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.102 -1.00
+173.194.70.103
+ping timeout: 173.194.70.103 (icmp_seq=1) 
+ping timeout: 173.194.70.103 (icmp_seq=1) 
+ping timeout: 173.194.70.103 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.103 -1.00
+173.194.70.104
+ping timeout: 173.194.70.104 (icmp_seq=1) 
+ping timeout: 173.194.70.104 (icmp_seq=1) 
+ping timeout: 173.194.70.104 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.104 -1.00
+173.194.70.105
+ping timeout: 173.194.70.105 (icmp_seq=1) 
+ping timeout: 173.194.70.105 (icmp_seq=1) 
+ping timeout: 173.194.70.105 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.105 -1.00
+173.194.70.106
+ping timeout: 173.194.70.106 (icmp_seq=1) 
+ping timeout: 173.194.70.106 (icmp_seq=1) 
+ping timeout: 173.194.70.106 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.106 -1.00
+173.194.70.116
+ping timeout: 173.194.70.116 (icmp_seq=1) 
+ping timeout: 173.194.70.116 (icmp_seq=1) 
+ping timeout: 173.194.70.116 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.116 -1.00
+173.194.70.117
+ping timeout: 173.194.70.117 (icmp_seq=1) 
+ping timeout: 173.194.70.117 (icmp_seq=1) 
+ping timeout: 173.194.70.117 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.117 -1.00
+173.194.70.120
+ping timeout: 173.194.70.120 (icmp_seq=1) 
+ping timeout: 173.194.70.120 (icmp_seq=1) 
+ping timeout: 173.194.70.120 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.120 -1.00
+173.194.70.132
+ping timeout: 173.194.70.132 (icmp_seq=1) 
+ping timeout: 173.194.70.132 (icmp_seq=1) 
+ping timeout: 173.194.70.132 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.132 -1.00
+173.194.70.136
+ping timeout: 173.194.70.136 (icmp_seq=1) 
+ping timeout: 173.194.70.136 (icmp_seq=1) 
+ping timeout: 173.194.70.136 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.136 -1.00
+173.194.70.138
+ping timeout: 173.194.70.138 (icmp_seq=1) 
+ping timeout: 173.194.70.138 (icmp_seq=1) 
+ping timeout: 173.194.70.138 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.138 -1.00
+173.194.70.141
+ping timeout: 173.194.70.141 (icmp_seq=1) 
+ping timeout: 173.194.70.141 (icmp_seq=1) 
+ping timeout: 173.194.70.141 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.141 -1.00
+173.194.70.147
+ping timeout: 173.194.70.147 (icmp_seq=1) 
+ping timeout: 173.194.70.147 (icmp_seq=1) 
+ping timeout: 173.194.70.147 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.147 -1.00
+173.194.70.148
+ping timeout: 173.194.70.148 (icmp_seq=1) 
+ping timeout: 173.194.70.148 (icmp_seq=1) 
+ping timeout: 173.194.70.148 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.148 -1.00
+173.194.70.149
+ping timeout: 173.194.70.149 (icmp_seq=1) 
+ping timeout: 173.194.70.149 (icmp_seq=1) 
+ping timeout: 173.194.70.149 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.149 -1.00
+173.194.70.154
+ping timeout: 173.194.70.154 (icmp_seq=1) 
+ping timeout: 173.194.70.154 (icmp_seq=1) 
+ping timeout: 173.194.70.154 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.154 -1.00
+173.194.70.155
+ping timeout: 173.194.70.155 (icmp_seq=1) 
+ping timeout: 173.194.70.155 (icmp_seq=1) 
+ping timeout: 173.194.70.155 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.155 -1.00
+173.194.70.156
+ping timeout: 173.194.70.156 (icmp_seq=1) 
+ping timeout: 173.194.70.156 (icmp_seq=1) 
+ping timeout: 173.194.70.156 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.156 -1.00
+173.194.70.157
+ping timeout: 173.194.70.157 (icmp_seq=1) 
+ping timeout: 173.194.70.157 (icmp_seq=1) 
+ping timeout: 173.194.70.157 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.157 -1.00
+173.194.70.164
+ping timeout: 173.194.70.164 (icmp_seq=1) 
+ping timeout: 173.194.70.164 (icmp_seq=1) 
+ping timeout: 173.194.70.164 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.164 -1.00
+173.194.70.17
+ping timeout: 173.194.70.17 (icmp_seq=1) 
+ping timeout: 173.194.70.17 (icmp_seq=1) 
+ping timeout: 173.194.70.17 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.17 -1.00
+173.194.70.18
+ping timeout: 173.194.70.18 (icmp_seq=1) 
+ping timeout: 173.194.70.18 (icmp_seq=1) 
+ping timeout: 173.194.70.18 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.18 -1.00
+173.194.70.189
+ping timeout: 173.194.70.189 (icmp_seq=1) 
+ping timeout: 173.194.70.189 (icmp_seq=1) 
+ping timeout: 173.194.70.189 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.189 -1.00
+173.194.70.19
+ping timeout: 173.194.70.19 (icmp_seq=1) 
+ping timeout: 173.194.70.19 (icmp_seq=1) 
+ping timeout: 173.194.70.19 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.19 -1.00
+173.194.70.190
+ping timeout: 173.194.70.190 (icmp_seq=1) 
+ping timeout: 173.194.70.190 (icmp_seq=1) 
+ping timeout: 173.194.70.190 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.190 -1.00
+173.194.70.193
+ping timeout: 173.194.70.193 (icmp_seq=1) 
+ping timeout: 173.194.70.193 (icmp_seq=1) 
+ping timeout: 173.194.70.193 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.193 -1.00
+173.194.70.199
+ping timeout: 173.194.70.199 (icmp_seq=1) 
+ping timeout: 173.194.70.199 (icmp_seq=1) 
+ping timeout: 173.194.70.199 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+ 173.194.70.199 -1.00
+173.194.70.82
+ping timeout: 173.194.70.82 (icmp_seq=1) 
+ping timeout: 173.194.70.82 (icmp_seq=1) 
+ping timeout: 173.194.70.82 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.82 -1.00
+173.194.70.83
+ping timeout: 173.194.70.83 (icmp_seq=1) 
+ping timeout: 173.194.70.83 (icmp_seq=1) 
+ping timeout: 173.194.70.83 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.83 -1.00
+173.194.70.84
+ping timeout: 173.194.70.84 (icmp_seq=1) 
+ping timeout: 173.194.70.84 (icmp_seq=1) 
+ping timeout: 173.194.70.84 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.84 -1.00
+173.194.70.91
+ping timeout: 173.194.70.91 (icmp_seq=1) 
+ping timeout: 173.194.70.91 (icmp_seq=1) 
+ping timeout: 173.194.70.91 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.91 -1.00
+173.194.70.93
+ping timeout: 173.194.70.93 (icmp_seq=1) 
+ping timeout: 173.194.70.93 (icmp_seq=1) 
+ping timeout: 173.194.70.93 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.93 -1.00
+173.194.70.94
+ping timeout: 173.194.70.94 (icmp_seq=1) 
+ping timeout: 173.194.70.94 (icmp_seq=1) 
+ping timeout: 173.194.70.94 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.94 -1.00
+173.194.70.95
+ping timeout: 173.194.70.95 (icmp_seq=1) 
+ping timeout: 173.194.70.95 (icmp_seq=1) 
+ping timeout: 173.194.70.95 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.95 -1.00
+173.194.70.99
+ping timeout: 173.194.70.99 (icmp_seq=1) 
+ping timeout: 173.194.70.99 (icmp_seq=1) 
+ping timeout: 173.194.70.99 (icmp_seq=1) 
+average time: 0.00 (ms), 3 lost
+  173.194.70.99 -1.00
+173.194.73.84
+ping timeout: 173.194.73.84 (icmp_seq=1) 
+ping timeout: 173.194.73.84 (icmp_seq=1) 
+Traceback (most recent call last):
+  File "seek_old_ips.py", line 51, in <module>
+    enter(1)
+  File "seek_old_ips.py", line 43, in enter
+    ms = average_ping(ip)	
+  File "/root/projects/utils/goseeker/icmp_echo_request.py", line 210, in average_ping
+    ms = ping(host)
+  File "/root/projects/utils/goseeker/icmp_echo_request.py", line 186, in ping
+    starttime = struct.unpack("d", pong[28:36])[0]
+struct.error: unpack requires a string argument of length 8
