@@ -1,0 +1,53 @@
+#!/bin/sh
+
+port=443
+passwd=''
+encrypt=''
+
+function start()
+{
+	ssserver -p ${port} -k ${passwd} -m ${encrypt} --user nobody -d start
+}
+ 
+function restart()
+{
+	ssserver -p ${port} -k ${passwd} -m ${encrypt} --user nobody -d restart
+}
+ 
+function stop()
+{
+	ssserver -p ${port} -k ${passwd} -m ${encrypt} --user nobody -d stop
+}
+ 
+function status()
+{
+	pid=$( getpid ssserver )
+	if [ "SS$pid" == "SS" ]; then
+		echo 'ssserver is not running.'
+	else
+		echo 'ssserver is running. pid: '$pid
+	fi
+}
+
+function help()
+{
+	echo "Usage: $0 {start|stop|restart|help|status}"
+}
+ 
+function getpid()
+{
+	ps auxf | grep $1 | grep -v grep | awk '{print $2}'
+}
+ 
+if [ "$1SS" == "startSS" ]; then
+	start
+elif [ "$1SS" == "restartSS" ] ; then
+	restart
+elif [ "$1SS" == "stopSS" ] ; then
+	stop
+elif [ "$1SS" == "statusSS" ] ; then
+	status	
+else
+	help
+fi
+
